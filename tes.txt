@@ -1,0 +1,3107 @@
+y
+IP: 18.132.210.30
+Port: 3551
+Organisation: Amazon Data Services UK
+Location: {'city': 'London', 'region_code': 'ENG', 'area_code': None, 'longitude': -0.12574, 'latitude': 51.50853, 'country_code': 'GB', 'country_name': 'United Kingdom'}
+Layer: tcp
+Domains: ['amazonaws.com']
+Hostnames: ['ec2-18-132-210-30.eu-west-2.compute.amazonaws.com']
+Data
+HTTP/1.1 302 Found
+Date: Thu, 08 Sep 2022 11:25:34 GMT
+X-Powered-By: Express
+Server: dcv 2wire Gateway 4D_WebSTAR_S/5.0 4D_WebSTAR_S/5.102.1 5.1.2600 2/Service Pack 3, UPnP/1.0, TVersity Media Server 5.2.3790 2/Service Pack 1, UPnP/1.0, TVersity Media Server 6.0.6000 2/, UPnP/1.0, TVersity Media Server 6.1.7600 2/, UPnP/1.0, TVersity Media Server 6.2.8400 2/, UPnP/1.0, TVersity Media Server 6.2.9200 2/, UPnP/1.0, TVersity Media Server Abyss/1.0.3 Abyss/2.0.0.20-X1-Win32 AbyssLib/2.0.0.20 Abyss/2.3.2-X1-Win32 AbyssLib/2.3.2 Acme.Serve/v1.7 of 13nov96 AdSubtract Ag [47] Agranat-EMWeb Agranat-EmWeb/R4_01 Agranat-EmWeb/R5_1_2 Agranat-EmWeb/R5_2_4 Agranat-EmWeb/R5_2_6 AirTunes/220.68 AkamaiGHost alibaba allegro-software Allegro-Software-RomPager Allegro-Software-RomPager/ 2.10 Allegro-Software-RomPager/4.01 Allegro-Software-RomPager/4.30b3 Amazon-Cloud-Drive AmazonS3 Amazon SimpleDB AmazonSnowball american sitebuilder AMT aolserver apache Apache Apache/0.6.5 Apache/1 Apache/1.1.3 Apache/1.2.42 (PalmOS) Apache/1.3.27 Apache/1.3.28 (SolutionIP) mod_perl/1.28 mod_ssl/2.8.15 OpenSSL/0.9.7b Apache/1.3.28 (Unix) Apache/1.3.28 (Unix) mod_auth_pam/1.1.1 APACHE/1.3.9 Apache/2 Apache/2.0.43 Apache/2.2.3 (Red Hat) Apache/2.2.4 (Win32) PHP/5.2.2 Apache/2.2.4 (Win32) PHP/5.2.3 Apache-AdvancedExtranetServer/2.0.44 (Mandrake Linux/11mdk) mod_perl/1.99_08 Perl/v5.8.0 mod_ssl/2.0.44 OpenSSL/0.9.7a PHP/4.3.1 mod_jk2/2.0.0 Apache-AdvancedExtranetServer/2.0.47 (Mandrake Linux/6.12.92mdk) mod_perl/1.99_09 Perl/v5.8.1 mod_ssl/2.0.47 OpenSSL/0.9.7b PHP/4.3.2 Apache-AdvancedExtranetServer/2.0.47 (Mandrake Linux/6.3.92mdk) mod_ssl/2.0.47 OpenSSL/0.9.7b PHP/4.3.2 Apache-AdvancedExtranetServer/2.0.48 (Mandrake Linux/6.8.100mdk) mod_perl/1.99_11 Perl/v5.8.3 mod_ssl/2.0.48 OpenSSL/0.9.7c PHP/4.3.4 Apache-AdvancedExtranetServer/2.0.48 (Mandrake Linux/6mdk) PHP/4.3.4 Apache-AdvancedExtranetServer/2.0.53 (Mandrakelinux/PREFORK-9mdk) mod_ssl/2.0.53 OpenSSL/0.9.7e PHP/4.3.10 mod_perl/1.999.21 Perl/v5.8.6 Apache Coyote/1.0 Apache-Coyote/1.1 apachejserv/1.0.1 apache-ssl-us Apache Tomcat Apache Tomcat/4.0.3 Apache Tomcat/4.0.6 (HTTP/1.1 Connector) Apache Tomcat/4.1.10 Apache Tomcat/4.1.12 (HTTP/1.1 Connector) Apache Tomcat/4.1.27-LE-jdk14 (HTTP/1.1 Connector) aserve Aspen/0.8 ASP.NET ATPhttpd Avaya CMBE/2 Avaya CMBE/2.0.0 avenida Avirt Avocent DSView 3/3 Avocent DSView 3/3.7.0.71 AV-TECH AV787 Video Web Server awhttpd awselb/2.0 BBC 05.20.050; coda 10.00.123 BBC 06.00.083; ovbbccb 06.00.083 BBC 11.00.044; ovbbcrcp 11.00.044 BBC 11.10.035; ovbbccb 11.10.035 BBC 11.13.007; ovbbccb unknown version BBC 2.6.0.7; com.hp.openview.bbc.LLBServer 2.6.0.7 BBC 2.6.0.7; com.hp.openview.Coda 0.0.1 BigIP BIG-IP bkhttp/0.3 Blazix/1.2.1 BlueCoat-Security-Appliance boa Boa/0.92p OS-9 Version Boa/0.93.15 Boa/0.93.15 (with Intersil Extensions) Boa/0.94.14rc18-ipcam Boa/0.94.14rc21 boulevard Brickserver Modifications camera cern chainpoint-node ChaiServer Check Point SVN foundation Cherokee/0.2.7 CherryPy/3 CherryPy/3.1.2 Cisco AWARE 2.0 cisco-CPA cisco ios cisco-IOS cisco-IOS/12.1 HTTP-server/1.0(1) Citrix Web PN Server cl-http cloudflare cloudflare-nginx CloudFront Cobalt com.hp.openview.bbc.LLBServer 2.6.8.1 com.hp.openview.Coda 0.0.1 commerce-builder CompaqHTTPServer CompaqHTTPServer/4.1 CompaqHTTPServer/9.9 HP System Management Homepage CompaqHTTPServer/9.9 HP System Management Homepage/2.1.5.146 CompaqHTTPServer/9.9 HP System Management Homepage/3.0.1.73 httpd/2.2.6+ CompaqHTTPServer/9.9 HP System Management Homepage/6.0.0.96 httpd/2.2.6+ Conexant-EmWeb/R6_1_0 cosmos CouchDB/2.1.1 (Erlang OTP/20) Cougar/9.01.01.3841 cpaneld cpsrvd cpsrvd/11.44.3.0 CradlepointHTTPService/1.0.0 Cross Web Server CUPS/1.1 CUPS/1.7 IPP/2.1 cwpsrv Darwin/10.2.0, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Debian/4.0r8 DLNADOC/1.50 UPnP/1.0 MiniDLNA/1.0 Debian/4.0 UPnP/1.0 miniupnpd/1.0 Debian/wheezy/sid UPnP/1.1 MiniUPnPd/1.8 DeleGate/7.7.0 DNVRS-Webs DrayTek/Vigor2130 UPnP/1.0 miniupnpd/1.0 DVRDVS-Webs dwhttpd EHTTP/1.1 eHTTP v2.0 Embedded HTTP Server Embedthis-Appweb/3.2.3 Embedthis-http Embedthis-http/4.0.0 emwac EnergyICT RTU 101-F25CE1-1524 enterpriseweb Eserv/2.97 Essentia/2.1 Ews/0 Ews/0.1 EWS-NIC3/6.31 EWS-NIC4/13.39 EWS-NIC4/13.40 falcon Fedora/10 UPnP/1.0 MiniUPnPd/1.4 Fedora/8 UPnP/1.0 miniupnpd/1.0 FedoraCore/6 UPnP/1.0 miniupnpd/1.0 fnord Folkweb FreeBSD/8.2-RELEASE-p4 DLNADOC/1.50 UPnP/1.0 MiniDLNA/1.0.24 frontier frontpage FUHO-DVR GFE/1 GFE/1.3 GlassFish GoAhead-Webs GoAhead-Webs/2.5.0 GoAhead-Webs/2.5.0 PeerSec-MatrixSSL/3.4.2-OPEN Gordian Embedded goserve gosite gSOAP/2.7 gunicorn/19.7.1 gws HeiTel GmbH Web Server [V1.15/V1.14/V1.3] HeiTel GmbH Web Server [V1.26/V1.15/V1.7] Helix Server Version 9.0.4.960 (linux-2.2-libc6-i586-server) (RealServer compatible) Helix Server Version 9.0.4.960 (win32) (RealServer compatible) hellbent java webserver v0.1 Hikvision-Webs homedoor HP Apache-based Web Server/1.3.26 (Unix) HP Apache-based Web Server/1.3.26 (Unix) mod_ssl/2.8.9 OpenSSL/0.9.6c HP-ChaiServer/2.2 HP-ChaiSOE/1.0 HP HTTP Server; Hewlett-Packard HP Designjet T520 36in - ABC123; Serial Number: 0123456789; Built:Tue Sep 09, 2014 08:32:54AM {012345678901} HP HTTP Server; HP Officejet 6500 E709n - CB057A; Serial Number: abc123; Rainbow Built:Sat Dec 13, 2008 10:58:21AM {abc123, ASIC id 0x00ffc2105} HP HTTP Server; HP Photosmart C309a series - CC335A; Serial Number: abc123; Vader Built:Wed Apr 15, 2009 11:40:58AM {abc123, ASIC id 0x00280004} HP-iLO-Server/1.30 HPSMH HP Web Jetadmin 10.3.85669 HP Web Jetadmin 10.3.91358 (10.3 SR5) HP Web Jetadmin/2.0.50 (Win32) mod_auth_sspi/1.0.1 mod_ssl/2.0.50 OpenSSL/0.9.6m HP Web Jetadmin/2 (Win32) mod_auth_sspi/1.0.1 mod_ssl/2.0.50 OpenSSL/0.9.6m HP-Web-Server httpd HttpFileServer httpd hyperwave IBM_HTTP_Server IBM_HTTP_SERVER IBM-HTTP-Server/1.0 IBM_HTTP_Server/1.3.12 Apache/1.3.12 (Unix) IBM_HTTP_SERVER/1.3.19.2  Apache/1.3.20 (Win32) IBM_HTTP_SERVER/1.3.28.1-PK16139  Apache/1.3.28 (Unix) IBM_HTTP_Server/2.0.42.2-PK25355 Apache/2.0.47 (Unix) DAV/2 IBM_HTTP_Server/2.0.47.1 Apache/2.0.47 (Unix) DAV/2 PHP/4.3.8 IBM_HTTP_Server/2.0.47.1-PK01070 Apache/2.0.47 (Win32) PHP/5.0.4 IBM_HTTP_Server/6.0.2.19 Apache/2.0.47 (Unix) IBM_HTTP_Server/6.0.2 Apache/2.0.47 (Unix) IBM_HTTP_Server/6.0 Apache/2.0.47 (Unix) DAV/2 IBM_HTTP_Server/6.1 Apache/2.0.47 (Win32) PHP/5.1.1 IBM_HTTP_Server/7.0.0.9 (Unix) IBM HTTP Server/V5R3M0 ibm internet connection server IdeaWebServer/0.83.74 IdeaWebServer/v0.70 Intel(R) Active Management Technology Intel(R) Active Management Technology 7.1.86 Intel(R) Standard Manageability 5.0.50 Intel(R) Standard Manageability 9.0.3 IPCamera Login IPG8000 iPlanet-Web-Proxy-Server/3.6 iPlanet-Web-Proxy-Server/3.6-SP5 ipos/7.0 UPnP/1.0 TL-WR740N/1.0 ipos/7.0 UPnP/1.0 TL-WR740N/1.0/2.0 ipos/7.0 UPnP/1.0 TL-WR740N/4.0 ipos/7.0 UPnP/1.0 TL-WR741N/1.0/2.0 ipos/7.0 UPnP/1.0 TL-WR741N/4.0 ipos/7.0 UPnP/1.0 TL-WR841N/6.0/7.0 ipos/7.0 UPnP/1.0 TL-WR841N/8.0 ipos/7.0 UPnP/1.0 TL-WR940N/1.0 ipos/7.0 UPnP/1.0 TL-WR941N/2.0 Ipswitch-IMail/5.08 Ipswitch-IMail/7.07 Ipswitch-IMail/7.11 Ipswitch-IMail/8.05 ISOS/9.0 UPnP/1.0 Conexant-EmWeb/R6_1_0 Jaguar Server jakarta-tomcat-4.0.1 JavaWebServer JBoss-EAP/7 JC-HTTPD/1 JC-HTTPD/1.11.14 JC-SHTTPD/1 JC-SHTTPD/1.17.20 JetAdmin Jetty(1.4.5) Jetty/4.0.1 (SunOS 5.8 sparc) Jetty/4.2.23 (SunOS/5.9 sparc java/1.4.2_04) Jetty/4.2.x (VxWorks/WIND version 2.9 ppc java/1.1-rr-std-b12) Jetty/5.1.10 (Linux/2.6.12 i386 java/1.5.0_05) Jetty/5.1.4 (Windows Server 2008 R2/6.1 x86 java/1.5.0_22 Jetty(6.1.12.rc2) Jetty(7.6.9.v20130131) Jetty(8.1.10.v20130312) Jetty(9.4.z-SNAPSHOT) JRun/3.1 KazaaClient kHTTPd 0.1.6 LabVIEW/5.1.1 Lasso/3.6.5 lighttpd lighttpd/1.3.7 (Mar 23 2007/16:00:15) lighttpd/1.4.16 LilHTTP/2.1 Linux/2.4.18_mvl30-ixdp425, UPnP/1.0, Intel SDK for UPnP devices/1.3.1 Linux/2.4.20-46.7asp, UPnP/1.0, Portable SDK for UPnP devices/1.6.17 Linux/2.4.21 UPnP/1.0 miniupnpd/1.0 LINUX/2.4 UPnP/1.0 BRCM400/1.0 Linux/2.6.10_dev-malta-mips2_fp_le, UPnP/1.0, Intel SDK for UPnP devices /1.2 Linux/2.6.10-iop1-1, UPnP/1.0, Portable SDK for UPnP devices/1.4.1 Linux/2.6.12-5.1-brcmstb-dm800, UPnP/1.0, Portable SDK for UPnP devices/1.6.0 Linux/2.6.12.6-arm1-040, UPnP/1.0, Portable SDK for UPnP devices/1.6.5.2 Linux/2.6.12.6-VENUS, UPnP/1.0, Portable SDK for UPnP devices/1.6.10 Linux/2.6.13, UPnP/1.0, Portable SDK for UPnP devices/1.6.0 Linux/2.6.18_pro500-davinci_N03A_IPCAM_1.0-g5c649288-dirty, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.23.17_stm23_0125dorade00 UPnP/1.0 DLNADOC/1.50 Portable SDK for UPnP devices/1.4.6-5 Linux/2.6.28-11-server, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.28-17-generic, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.28.1-xxxx-std-ipv4-32, UPnP/1.0, Portable SDK for UPnP devices/1.4.3 Linux/2.6.28, UPnP/1.0, Portable SDK for UPnP devices/1.6.10 Linux/2.6.29.6-217.2.3.fc11.i686.PAE UPnP/1.0 miniupnpd/1.0 Linux/2.6.32-220.7.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.14 Linux/2.6.32-24-generic, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.32-279.11.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.14 Linux/2.6.32-279.1.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.13 Linux/2.6.32-279.14.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.14 Linux/2.6.32-279.14.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.15 Linux/2.6.36+ DLNADOC/1.50 UPnP/1.0 MiniDLNA/1.0 Linux/3.0.8 UPnP/1.0 DLNADOC/1.50 Portable SDK for UPnP devices/1.6.6 Linux-amd64-2.6.18-238.9.1.el5, UPnP/1.0, PMS/1.52.1 Linux/Cross_compiled UPnP/1.0 miniupnpd/1.0 Linux-i386-2.6.33.2, UPnP/1.0, PMS/1.21.1 Linux Mips 2.4.20 UPnP/1.0 MiniUPnPd/1.2 Linux UPnP/1.0 Huawei-ATP-IGD Linux, UPnP/1.0, Intel SDK for UPnP devices /1.2 Linux UPnP/1.0 Sonos/31.3-22220 (ANVIL) Linux UPnP/1.0 Sonos/34.16-37101 (ZP120) Linux UPnP/1.0 Sonos/36.4-41270 (WD100) Linux UPnP/1.0 Sonos/39.2-47040c (ZPS1) Linux UPnP/1.0 Sonos/47.2-59120 (BR100) Linux UPnP/1.0 Sonos/47.2-59120 (ZPS3) ListManagerWeb/8.8a (based on Tcl-Webserver/3.4.2) LiteSpeed LiteSpeed/5.2.8 Enterprise Lotus Lotus-Domino Lotus-Domino/0 Lotus-Domino/5.0.8 Lotus-Domino/Release Lotus-Domino/Release-4.6.7(Intl) Lotus Expeditor Web Container/6 Lotus Expeditor Web Container/6.1 Loxone Miniserver some name UPnP/1.0 Mac_OS_X-x86_64-10.5.8, UPnP/1.0, PMS/1.20 Mbedthis-Appweb/2 Mbedthis-Appweb/2.4.0 Mbedthis-AppWeb/2.4.0 Mbedthis-Appweb/2.4.2 micro_httpd Microplex emHTTPD/1 Microplex emHTTPD/1.0 Microplex emHTTPD/1.1 Microsoft-HTTPAPI/2.0 Microsoft-IIS Microsoft-IIS/4.0 Microsoft-IIS/5.0 Microsoft-IIS/5.1 Microsoft-IIS/6.0 Microsoft-IIS/7.0 Microsoft-IIS/7.5 Microsoft-IIS/8.0 Microsoft-IIS/8.5 Microsoft-IIS/9.0 Microsoft-PWS/4.0 Microsoft-PWS-95/4.0 Microsoft-WinCE/4.10 Microsoft-WinCE/4.20 Microsoft-WinCE/5.0 Microsoft WinCE Fidelix v11.50.29 Mikrotik HttpProxy Mini Dome IP Camera mini_httpd mini_httpd/1.14 23jun2000 mini_httpd/1 23jun2000 MiniServ/0.01 mod_security/1.71 Mongrel 1 Mongrel 1.1.5 Monkey/0.6.2 MS-MFC-HttpSvr/1.0 MS .NET Remoting, MS .NET CLR 2.0.50727.42 mt-daapd/0.2.4.1 mt-daapd/svn-999 myCIO Mylo/0.2.0 MyWebServer/1.01 ncsa neowebscript NetApp/7.2.1.1 NetApp/7.3.4P1 NetApp//8.1RC2 NetCache appliance (NetApp/5.3.1R3) NetCache appliance (NetApp/5.4R2D2) NetCache appliance (NetApp/5.6.1D22) NetCache appliance (NetApp/6.0.2P1) NetCache appliance (NetApp/6.0.4) NetCache appliance (NetApp/6.1RC2) netcloak NET-DK/1.0 NET-DK 1.1 Netgear/1.0 UPnP/1.0 miniupnpd/1.0 netpresenz Netscape-Enterprise/3.5.1 Netscape-Enterprise/3.6 SP3 Netscape-Enterprise/6.0 NetWare Netwave IP Camera nginx nginx/0.8.53 nginx/0.8.53 + Phusion Passenger 3.0.0 (mod_rails/mod_rack) nginx + Phusion Passenger nginx + Phusion Passenger 5.1.11 Niagara Web Server/3.8.111 NS_6.1 NSC/0.6.4 (JVM) nsl Nucleus/4.3 UPnP/1.0 Virata-EmWeb/R6_2_0 NULLhttpd/0.5.1 OmniHTTPd open-market-secure-webserver openresty openresty/1.13.6.2 OpenTV/5.40 OpenVPN-AS OpenWRT/kamikaze UPnP/1.0 MiniUPnPd/1.2 OpenWRT/kamikaze UPnP/1.0 MiniUPnPd/1.4 OpenWRT/kamikaze UPnP/1.0 MiniUPnPd/1.5 Oracle9iAS/9.0.2.3.0 Oracle HTTP Server Oracle9iAS-Web-Cache/9.0.2.3.0 (N) Oracle9iAS/9.0.3.1 Oracle HTTP Server Oracle9iAS-Web-Cache/9.0.3.1.0 (N) Oracle-Application-Server-10g Oracle-Application-Server-10g/10.1.2.0.2 Oracle-HTTP-Server Oracle-Application-Server-10g/10.1.2.2.0 Oracle-HTTP-Server OracleAS-Web-Cache-10g/10.1.2.2.0 (N;ecid=153541209221,0) Oracle-Application-Server-10g/10.1.2.2.0 Oracle-HTTP-Server (Unix) mod_plsql/10.1.2.2.0 mod_ossl/10.1.2.0.0 mod_perl/1.29 OracleAS-Web-Cache-10g/10.1.2.0.2 (N;ecid=89116016562,0) Oracle Application Server/10g (10.1.2) Apache/1.3.34 (Unix) mod_perl/1.29 mod_jk/1.2.14 OracleAS-Web-Cache-10g/10.1.2.0.2 (N;ecid=119642322340,0) Oracle-Application-Server-10g/9.0.4.1.0 Oracle-HTTP-Server Oracle-Application-Server-11g Oracle Application Server Containers for J2EE 10g (9.0.4.0.0) Oracle Applications One-Hour Install Oracle Containers for J2EE Oracle HTTP Server Powered by Apache Oracle HTTP Server Powered by Apache/1.3.12 (Unix) ApacheJServ/1.1 mod_ssl/2.6.4 OpenSSL/0.9.5a Oracle HTTP Server Powered by Apache/1.3.19 (Unix) mod_plsql/3.0.9.8.3b PHP/4.3.10 mod_fastcgi/2.2.10 mod_perl/1.25 mod_oprocmgr/1.0 Oracle HTTP Server Powered by Apache/1.3.19 (Win32) mod_ssl/2.8.1 OpenSSL/0.9.5a mod_fastcgi/2.2.10 mod_oprocmgr/1.0 mod_perl/1.25 Oracle_Web_Listener Oracle XML DB/Oracle9i Enterprise Edition Release 9.2.0.1.0 - Production Oracle XML DB/Oracle9i Enterprise Edition Release 9 - Production Oracle XML DB/Oracle Database os2httpd PanWeb Server/ - PDR-M800/1.0 PHP/4.0.3 PHP/4.0.5 PHP/4.4.2-1build1 PHP/5.1.2 PHP/5.3.14 ZendServer/5.0 PHP/7.1 phttpd Pi3Web/2.0 plexus Polycom SoundPoint IP Telephone HTTPd powerweb process $ProjectRevision: 4.0.2.38 $ PWS QTSS/5.0.3.3 (Build/452.22.4; Platform/MacOSX; Release/Panther; Update/Security; ) QTSS/5.0 (Build/452; Platform/MacOSX; Release/Panther; ) QTSS/6.1.0 (Build/532; Platform/MacOSX; Release/Mac OS X Server; ) RapidLogic Rapid Logic/1 Rapid Logic/1.1 Raptor Simple, Secure Web Server 1.0 RealVNC/4.0 ReeCam IP Camera Resin/1 Resin/2.1.1 Resin/2.1.13 Resin/2.1.s030827 Resin/3.0.23 Roku UPnP/1.0 MiniUPnPd/1.4 Roku UPnP/1.0 Roku/8.1.6 RomPager/4.07 UPnP/1.0 RouterOS/6.43UPnP/1.0 MikroTik UPnP/1.0 roxen RT-G32 UPnP/1.0 MiniUPnPd/1.2 Rumpus rushhour sambar/5.1 Savant/3.1 ScriptEase/0.95 Security Console SentinelKeysServer/1 SentinelKeysServer/1.0 SentinelKeysServer/1.3.1 SentinelProtectionServer/7 SentinelProtectionServer/7.0 SentinelProtectionServer/7.1 SentinelProtectionServer/7.3 SEPM servermgrd serverseven Servlet 2.4; JBoss-4.0.4.GA (build: CVSTag=JBoss_4_0_4_GA date=200605151000)/Tomcat-5.5 Servlet 2.4; JBoss-4.2.3.GA (build: SVNTag=JBoss_4_2_3_GA date=200807181439)/JBossWeb-2.0 Servlet 2.4; Tomcat-5.0.28/JBoss-4.0.1sp1 (build: CVSTag=JBoss_4_0_1_SP1 date=200502160314) Servlet 2.5; JBoss-5.0/JBossWeb-2.1 Servlet/3.0; JBossAS-6 Serv-U/15.1.6.31 sfcHttpd SimpleHTTP/0.6 Python/2.7.6 SimpleHTTP/0.6 Python/3.4.0 Simple, Secure Web Server 1.1 SmoothWall Express/3.0 UPnP/1.0 miniupnpd/1.0 some thing UPnP/1.0 AVM FRITZ!WLAN Repeater 1750E 134.07.01 SonicWALL SonicWALL SSL-VPN Web Server SonicWALL SSLVPN Web Server Sophos Email Appliance Splunkd squid Squid Squid/2.3.STABLE1 squid/3.2.9-BZR squid/4.4 Stronghold/3.0 Apache/1.3.19 RedHat/3014c Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26 Sun GlassFish Enterprise Server v2.1 Sun-ILOM-Web-Server/1.0 Sun-Java-System/Application-Server Sun Java System Application Server Platform Edition 9.0 Sun Java System Application Server Platform Edition 9.0_01 Sun-Java-System-Web-Proxy-Server/4.0 Sun-Java-System-Web-Proxy-Server/4.0.2 Sun-Java-System-Web-Server/7.0 Sunny WebBox Sun-ONE-Web-Proxy-Server/3.6-SP4 Sun-ONE-Web-Server/6.1 support@arraynetworks.net Synology/DSM/192.168.1.100 Synology/DSM/stuff TBS/R2 UPnP/1.0 MiniUPnPd/1.2 Tengine Tengine/2.0.0 thin 1.2.4 codename Flaming Astroboy thin 1 codename Flaming Astroboy thttpd thttpd/2.04 10aug98 thttpd/2.19-MX Jan 24 2006 thttpd/2.20b thttpd/2.21b PHP/20030920 thttpd/2.23beta1 26may2002 tivo-httpd-1:20.7.4.RC35-D18-6:D18 Tomato UPnP/1.0 MiniUPnPd/1.2 Tomato UPnP/1.0 MiniUPnPd/1.4 Tomcat/2.1 Tomcat Web Server/3.1M1 (JSP 1.1; Servlet 2.2; Java 1.3.1; AIX 5.3 ppc; java.vendor=IBM Corporation) Tomcat Web Server/3.2.2 (JSP 1.1; Servlet 2.2; Java 1.3.1; Windows 2000 5.0 x86; java.vendor=Sun Microsystems Inc.) Tomcat Web Server/3.2.2 (JSP 1.1; Servlet 2.2; Java 1.4.2_13; Windows 2003 5.2 x86; java.vendor=Sun Microsystems Inc.) Tomcat Web Server/3.3.1 Final ( JSP 1.1; Servlet 2.2 ) TornadoServer/4.0.2 TwistedWeb/16.4.0 TwistedWeb/16.5.0rc2 TwistedWeb/2.5.0 Ubuntu/10.04 UPnP/1.0 miniupnpd/1.0 Ubuntu/10.10 UPnP/1.0 miniupnpd/1.0 Ubuntu/7.10 UPnP/1.0 miniupnpd/1.0 Ubuntu/9.04 UPnP/1.0 miniupnpd/1.0 Ubuntu/bionic UPnP/1.0 MiniUPnPd/1.4 Ubuntu/hardy UPnP/1.0 MiniUPnPd/1.4 Ubuntu/jaunty UPnP/1.0 MiniUPnPd/1.4 Ubuntu/karmic UPnP/1.0 MiniUPnPd/1.4 Ubuntu/lucid UPnP/1.0 MiniUPnPd/1.4 Ubuntu/maverick UPnP/1.0 MiniUPnPd/1.4 Ubuntu/natty UPnP/1.0 MiniUPnPd/1.4 Ubuntu/oneiric UPnP/1.0 MiniUPnPd/1.4 Ubuntu/precise UPnP/1.0 MiniUPnPd/1.4 Ubuntu/quantal UPnP/1.0 MiniUPnPd/1.4 Ubuntu/raring UPnP/1.0 MiniUPnPd/1.4 Ubuntu/saucy UPnP/1.0 MiniUPnPd/1.4 Ubuntu/trusty UPnP/1.0 MiniUPnPd/1.4 Ubuntu/utopic UPnP/1.0 MiniUPnPd/1.4 Ubuntu/xenial UPnP/1.0 MiniUPnPd/1.4 Ubuntu/yakkety UPnP/1.0 MiniUPnPd/1.4 uc-httpd/1.0.0 Ultraseek Unknown/0.0 UPnP/1.0 Conexant-EmWeb/R6_1_0 Unknown/0.0 UPnP/1.0 GlobespanVirata-EmWeb/R6_1_0 Unknown/0.0 UPnP/1.0 Virata-EmWeb/R6_1_0 UOS UPnP/1.0, DLNADOC/1.50, Platinum/0.5.1 UPnP/1.0, DLNADOC/1.50, Platinum/0.5.3.0 UPnP/1.0, DLNADOC/1.50, Platinum/0.5.4.0 UPnP/1.0, DLNADOC/1.50, Platinum/0.6.6.0 UPS_Server/1 UPS_Server/1.0 Varnish Varnish-Cache VCS-VIDOS-NVR Virata-EmWeb/R5_3_0 Virata-EmWeb/R5_3_2 Virata-EmWeb/R6_0_1 Virata-EmWeb/R6_1_0 Virata-EmWeb/R6_2_0 Virata-EmWeb/R6_2_1 vqserver Web server WebLogic Server 7.0 SP4 Tue Aug 12 11:22:26 PDT 2003 WebLogic Server 8.1 SP3 Tue Jun 29 23:11:19 PDT 2004 404973 WebLogic WebLogic Server 6.1 SP4  11/08/2002 21:50:43 #221641 WEBrick/1.3.1 (Ruby/1.9.3/2013-02-22) Web-Server/3.0 WebSitePro/2.4 WebSphere Application Server/5.0 WebSphere Application Server/6.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.10.51 Windows_7-x86-6.1, UPnP/1.0, PMS/1.20 Windows_7-x86-6.1, UPnP/1.0, PMS/1.20.409 Windows_7-x86-6.1, UPnP/1.0, PMS/1.20.412 Windows_7-x86-6.1, UPnP/1.0, PMS/1.22.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.25.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.30.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.40.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.50.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.50.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.51.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.52.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.52.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.53.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.54.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.60.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.70.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.71.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.72.0 Windows_XP-amd64-5.2, UPnP/1.0, PMS/1.54.0 Windows_XP-x86-5.1, UPnP/1.0, PMS/1.20.400 WindRiver-WebServer/4.4 WMServer/9.1.1.3841 Xitami ZyXEL-RomPager/4.34 Zyxel
+Location: http://224.129.115.106:3551/
+Content-Length: 0
+
+
+IP: 220.135.237.204
+Port: 8080
+Organisation: Chunghwa Telecom Co.,Ltd.
+Location: {'city': 'Hsinchu', 'region_code': '04', 'area_code': None, 'longitude': 120.96861, 'latitude': 24.80361, 'country_code': 'TW', 'country_name': 'Taiwan'}
+Layer: tcp
+Domains: ['hinet.net']
+Hostnames: ['220-135-237-204.hinet-ip.hinet.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 19:03:16 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-be6-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 25 Sep 2019 08:01:27 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 190924
+  Plugin Version: 3.0.6.46
+  Device Version: 4.1.50
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.46
+    npWebVideoPlugin.dll: 3.0.6.46
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.6.46
+
+IP: 50.202.24.142
+Port: 80
+Organisation: Comcast Cable Communications, LLC
+Location: {'city': 'Philadelphia', 'region_code': 'PA', 'area_code': None, 'longitude': -75.16362, 'latitude': 39.95238, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 07:25:28 GMT
+Server: DNVRS-Webs
+ETag: "0-9ea-62d"
+Content-Length: 1581
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+X-FRAME-OPTIONS: SAMEORIGIN
+Last-Modified: Tue, 14 Feb 2017 02:19:23 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 3.0.53.170704
+  Plugin Version: 3.0.5.53
+  Custom Version: DZ20170628_086
+  ActiveX Files:
+    AudioIntercom.dll: 1.1.0.8
+    LTSWebVideoActiveX.ocx: 3.0.5.53
+    NetStream.dll: 1.0.5.53
+    npLTSWebVideoPlugin.dll: 3.0.5.53
+    PlayCtrl.dll: 6.5.2.0
+    StreamTransClient.dll: 1.1.2.18
+    SystemTransform.dll: 2.4.0.8
+
+IP: 59.10.106.105
+Port: 80
+Organisation: Korea Telecom
+Location: {'city': 'Seongnam-si', 'region_code': '41', 'area_code': None, 'longitude': 127.0272, 'latitude': 37.453, 'country_code': 'KR', 'country_name': 'Korea, Republic of'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 20:20:14 GMT
+Server: DNVRS-Webs
+ETag: "0-9c1-62d"
+Content-Length: 1581
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Mon, 13 Apr 2015 07:03:33 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 3.0.51.150414
+  Plugin Version: 3.0.5.51
+  ActiveX Files:
+    AudioIntercom.dll: 1.1.0.8
+    NetStream.dll: 1.0.5.30
+    npWebVideoPlugin.dll: 3.0.5.51
+    PlayCtrl.dll: 6.5.2.70
+    StreamTransClient.dll: 1.1.2.18
+    SystemTransform.dll: 2.4.0.8
+    WebVideoActiveX.ocx: 3.0.5.51
+
+IP: 83.213.82.174
+Port: 1200
+Organisation: Global Telecommunication Service Provider
+Location: {'city': 'Bilbao', 'region_code': 'PV', 'area_code': None, 'longitude': -2.99907, 'latitude': 43.30099, 'country_code': 'ES', 'country_name': 'Spain'}
+Layer: tcp
+Domains: ['euskaltel.es']
+Hostnames: ['174.83-213-82.dynamic.clientes.euskaltel.es']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 13:24:35 GMT
+Server: DNVRS-Webs
+ETag: "0-753-62d"
+Content-Length: 1581
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 24 Apr 2013 05:37:18 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 3.0.4.140116
+  Plugin Version: 3.0.5.4
+  ActiveX Files:
+    AudioIntercom.dll: 1.1.0.4
+    NetStream.dll: 1.0.4.8
+    npWebVideoPlugin.dll: 3.0.5.4
+    PlayCtrl.dll: 6.5.1.2
+    StreamTransClient.dll: 1.1.2.8
+    SystemTransform.dll: 2.3.0.5
+    WebVideoActiveX.ocx: 3.0.5.4
+
+IP: 37.34.191.110
+Port: 80
+Organisation: ZAIN KW
+Location: {'city': 'Al Farwānīyah', 'region_code': 'FA', 'area_code': None, 'longitude': 47.95861, 'latitude': 29.2775, 'country_code': 'KW', 'country_name': 'Kuwait'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 14:28:24 GMT
+Server: DNVRS-Webs
+ETag: "0-9be-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Thu, 25 May 2017 03:08:47 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 170525
+  Plugin Version: 3.0.6.24
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.2
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.24
+    PlayCtrl.dll: 7.3.2.0
+    StreamTransClient.dll: 1.1.3.6
+    SystemTransform.dll: 2.5.2.3
+    WebVideoActiveX.ocx: 3.0.6.24
+
+IP: 142.177.76.31
+Port: 80
+Organisation: Bell Canada
+Location: {'city': 'Ottawa', 'region_code': 'ON', 'area_code': None, 'longitude': -75.6904, 'latitude': 45.4166, 'country_code': 'CA', 'country_name': 'Canada'}
+Layer: tcp
+Domains: ['bellaliant.net']
+Hostnames: ['drmons0552w-142-177-76-31.dhcp-dynamic.fibreop.ns.bellaliant.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 07:23:57 GMT
+Server: DNVRS-Webs
+ETag: "0-acc-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 16 Mar 2016 10:10:08 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 160316
+  Plugin Version: 3.0.6.1
+  ActiveX Files:
+    AudioIntercom.dll: 1.2.0.1
+    NetStream.dll: 1.0.5.37
+    npWebVideoPlugin.dll: 3.0.6.1
+    PlayCtrl.dll: 7.3.0.71
+    StreamTransClient.dll: 1.1.3.4
+    SystemTransform.dll: 2.5.1.4
+    WebVideoActiveX.ocx: 3.0.6.1
+
+IP: 66.61.77.154
+Port: 80
+Organisation: Charter Communications Inc
+Location: {'city': 'North Olmsted', 'region_code': 'OH', 'area_code': None, 'longitude': -81.92347, 'latitude': 41.4156, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['rr.com']
+Hostnames: ['cpe-66-61-77-154.neo.res.rr.com']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 07:25:19 GMT
+Server: web
+X-Frame-Options: SAMEORIGIN
+ETag: "0-b0e-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+X-FRAME-OPTIONS: SAMEORIGIN
+Last-Modified: Fri, 24 Aug 2018 02:41:38 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.51 build 180912
+  Plugin Version: 3.0.6.4001
+  Custom Version: DZP20180807014
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    LTSWebVideoActiveX.ocx: 3.0.6.4001
+    NetStream.dll: 1.0.5.44
+    npLTSWebVideoPlugin.dll: 3.0.6.4001
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.2.10
+
+IP: 119.74.72.203
+Port: 9743
+Organisation: SingNet Pte Ltd
+Location: {'city': 'Singapore', 'region_code': '01', 'area_code': None, 'longitude': 103.9485, 'latitude': 1.3595, 'country_code': 'SG', 'country_name': 'Singapore'}
+Layer: tcp
+Domains: ['singnet.com.sg']
+Hostnames: ['bb119-74-72-203.singnet.com.sg']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 19:25:14 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-de6-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Sun, 30 Sep 2018 02:37:15 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 180929
+  Plugin Version: 3.0.6.46
+  Device Version: 4.1.50
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.46
+    npWebVideoPlugin.dll: 3.0.6.46
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.6.46
+
+IP: 27.73.111.96
+Port: 50000
+Organisation: Viettel Group
+Location: {'city': 'Hanoi', 'region_code': 'HN', 'area_code': None, 'longitude': 105.84117, 'latitude': 21.0245, 'country_code': 'VN', 'country_name': 'Viet Nam'}
+Layer: tcp
+Domains: ['localhost.']
+Hostnames: ['localhost']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 17:14:52 GMT
+Server: web
+X-Frame-Options: SAMEORIGIN
+ETag: "0-719-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Mon, 03 Sep 2018 02:25:58 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 180903
+  Plugin Version: 3.0.6.27
+  Device Version: 3.4.87-modify
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.27
+    PlayCtrl.dll: 7.3.3.0
+    StreamTransClient.dll: 1.1.3.7
+    SystemTransform.dll: 2.5.2.5
+    WebVideoActiveX.ocx: 3.0.6.27
+
+IP: 220.70.15.116
+Port: 80
+Organisation: Korea Telecom
+Location: {'city': 'Seoul', 'region_code': '11', 'area_code': None, 'longitude': 126.9784, 'latitude': 37.566, 'country_code': 'KR', 'country_name': 'Korea, Republic of'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 19:51:24 GMT
+Server: DNVRS-Webs
+ETag: "0-73c-650"
+Content-Length: 1616
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Tue, 04 Aug 2015 02:28:14 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 3.0.51.150810
+  Plugin Version: 3.0.5.52
+  Custom Version: DZ20150707_052
+  ActiveX Files:
+    AudioIntercom.dll: 1.1.0.8
+    NetStream.dll: 1.0.5.30
+    npWebVideoPlugin.dll: 3.0.5.52
+    PlayCtrl.dll: 6.5.2.70
+    StreamTransClient.dll: 1.1.2.18
+    SystemTransform.dll: 2.4.0.8
+    WebVideoActiveX.ocx: 3.0.5.52
+
+IP: 72.28.19.210
+Port: 80
+Organisation: Adams CATV, Inc.
+Location: {'city': 'Carbondale', 'region_code': 'PA', 'area_code': None, 'longitude': -75.50185, 'latitude': 41.57369, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['echoes.net']
+Hostnames: ['dhcp-0-e-c6-63-d7-7f.cpe.echoes.net']
+Data
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 08 Sep 2022 11:25:11 GMT
+Content-Type: text/html
+Content-Length: 3602
+Last-Modified: Tue, 02 Aug 2022 16:27:46 GMT
+Connection: keep-alive
+ETag: "62e95082-e12"
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:;
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Permissions-Policy: microphone=(), camera=(), geolocation=(), payment=()
+Accept-Ranges: bytes
+
+
+IP: 78.89.183.236
+Port: 80
+Organisation: National Mobile Telecommunications Company
+Location: {'city': 'Ḩawallī', 'region_code': 'HA', 'area_code': None, 'longitude': 48.02861, 'latitude': 29.33278, 'country_code': 'KW', 'country_name': 'Kuwait'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Mon, 23 Mar 1970 20:53:12 GMT
+Server: DNVRS-Webs
+ETag: "0-7cc-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 19 Oct 2016 08:27:23 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 161019
+  Plugin Version: 3.0.6.6
+  ActiveX Files:
+    AudioIntercom.dll: 1.2.0.1
+    NetStream.dll: 1.0.5.37
+    npWebVideoPlugin.dll: 3.0.6.6
+    PlayCtrl.dll: 7.3.0.0
+    StreamTransClient.dll: 1.1.3.4
+    SystemTransform.dll: 2.5.1.4
+    WebVideoActiveX.ocx: 3.0.6.6
+
+IP: 18.229.148.86
+Port: 79
+Organisation: Amazon Data Services Brazil
+Location: {'city': 'São Paulo', 'region_code': 'SP', 'area_code': None, 'longitude': -46.63611, 'latitude': -23.5475, 'country_code': 'BR', 'country_name': 'Brazil'}
+Layer: tcp
+Domains: ['amazonaws.com']
+Hostnames: ['ec2-18-229-148-86.sa-east-1.compute.amazonaws.com']
+Data
+HTTP/1.1 302 Found
+Date: Thu, 08 Sep 2022 11:25:07 GMT
+X-Powered-By: ASP.NET
+Server: dcv 2wire Gateway 4D_WebSTAR_S/5.0 4D_WebSTAR_S/5.102.1 5.1.2600 2/Service Pack 3, UPnP/1.0, TVersity Media Server 5.2.3790 2/Service Pack 1, UPnP/1.0, TVersity Media Server 6.0.6000 2/, UPnP/1.0, TVersity Media Server 6.1.7600 2/, UPnP/1.0, TVersity Media Server 6.2.8400 2/, UPnP/1.0, TVersity Media Server 6.2.9200 2/, UPnP/1.0, TVersity Media Server Abyss/1.0.3 Abyss/2.0.0.20-X1-Win32 AbyssLib/2.0.0.20 Abyss/2.3.2-X1-Win32 AbyssLib/2.3.2 Acme.Serve/v1.7 of 13nov96 AdSubtract Ag [47] Agranat-EMWeb Agranat-EmWeb/R4_01 Agranat-EmWeb/R5_1_2 Agranat-EmWeb/R5_2_4 Agranat-EmWeb/R5_2_6 AirTunes/220.68 AkamaiGHost alibaba allegro-software Allegro-Software-RomPager Allegro-Software-RomPager/ 2.10 Allegro-Software-RomPager/4.01 Allegro-Software-RomPager/4.30b3 Amazon-Cloud-Drive AmazonS3 Amazon SimpleDB AmazonSnowball american sitebuilder AMT aolserver apache Apache Apache/0.6.5 Apache/1 Apache/1.1.3 Apache/1.2.42 (PalmOS) Apache/1.3.27 Apache/1.3.28 (SolutionIP) mod_perl/1.28 mod_ssl/2.8.15 OpenSSL/0.9.7b Apache/1.3.28 (Unix) Apache/1.3.28 (Unix) mod_auth_pam/1.1.1 APACHE/1.3.9 Apache/2 Apache/2.0.43 Apache/2.2.3 (Red Hat) Apache/2.2.4 (Win32) PHP/5.2.2 Apache/2.2.4 (Win32) PHP/5.2.3 Apache-AdvancedExtranetServer/2.0.44 (Mandrake Linux/11mdk) mod_perl/1.99_08 Perl/v5.8.0 mod_ssl/2.0.44 OpenSSL/0.9.7a PHP/4.3.1 mod_jk2/2.0.0 Apache-AdvancedExtranetServer/2.0.47 (Mandrake Linux/6.12.92mdk) mod_perl/1.99_09 Perl/v5.8.1 mod_ssl/2.0.47 OpenSSL/0.9.7b PHP/4.3.2 Apache-AdvancedExtranetServer/2.0.47 (Mandrake Linux/6.3.92mdk) mod_ssl/2.0.47 OpenSSL/0.9.7b PHP/4.3.2 Apache-AdvancedExtranetServer/2.0.48 (Mandrake Linux/6.8.100mdk) mod_perl/1.99_11 Perl/v5.8.3 mod_ssl/2.0.48 OpenSSL/0.9.7c PHP/4.3.4 Apache-AdvancedExtranetServer/2.0.48 (Mandrake Linux/6mdk) PHP/4.3.4 Apache-AdvancedExtranetServer/2.0.53 (Mandrakelinux/PREFORK-9mdk) mod_ssl/2.0.53 OpenSSL/0.9.7e PHP/4.3.10 mod_perl/1.999.21 Perl/v5.8.6 Apache Coyote/1.0 Apache-Coyote/1.1 apachejserv/1.0.1 apache-ssl-us Apache Tomcat Apache Tomcat/4.0.3 Apache Tomcat/4.0.6 (HTTP/1.1 Connector) Apache Tomcat/4.1.10 Apache Tomcat/4.1.12 (HTTP/1.1 Connector) Apache Tomcat/4.1.27-LE-jdk14 (HTTP/1.1 Connector) aserve Aspen/0.8 ASP.NET ATPhttpd Avaya CMBE/2 Avaya CMBE/2.0.0 avenida Avirt Avocent DSView 3/3 Avocent DSView 3/3.7.0.71 AV-TECH AV787 Video Web Server awhttpd awselb/2.0 BBC 05.20.050; coda 10.00.123 BBC 06.00.083; ovbbccb 06.00.083 BBC 11.00.044; ovbbcrcp 11.00.044 BBC 11.10.035; ovbbccb 11.10.035 BBC 11.13.007; ovbbccb unknown version BBC 2.6.0.7; com.hp.openview.bbc.LLBServer 2.6.0.7 BBC 2.6.0.7; com.hp.openview.Coda 0.0.1 BigIP BIG-IP bkhttp/0.3 Blazix/1.2.1 BlueCoat-Security-Appliance boa Boa/0.92p OS-9 Version Boa/0.93.15 Boa/0.93.15 (with Intersil Extensions) Boa/0.94.14rc18-ipcam Boa/0.94.14rc21 boulevard Brickserver Modifications camera cern chainpoint-node ChaiServer Check Point SVN foundation Cherokee/0.2.7 CherryPy/3 CherryPy/3.1.2 Cisco AWARE 2.0 cisco-CPA cisco ios cisco-IOS cisco-IOS/12.1 HTTP-server/1.0(1) Citrix Web PN Server cl-http cloudflare cloudflare-nginx CloudFront Cobalt com.hp.openview.bbc.LLBServer 2.6.8.1 com.hp.openview.Coda 0.0.1 commerce-builder CompaqHTTPServer CompaqHTTPServer/4.1 CompaqHTTPServer/9.9 HP System Management Homepage CompaqHTTPServer/9.9 HP System Management Homepage/2.1.5.146 CompaqHTTPServer/9.9 HP System Management Homepage/3.0.1.73 httpd/2.2.6+ CompaqHTTPServer/9.9 HP System Management Homepage/6.0.0.96 httpd/2.2.6+ Conexant-EmWeb/R6_1_0 cosmos CouchDB/2.1.1 (Erlang OTP/20) Cougar/9.01.01.3841 cpaneld cpsrvd cpsrvd/11.44.3.0 CradlepointHTTPService/1.0.0 Cross Web Server CUPS/1.1 CUPS/1.7 IPP/2.1 cwpsrv Darwin/10.2.0, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Debian/4.0r8 DLNADOC/1.50 UPnP/1.0 MiniDLNA/1.0 Debian/4.0 UPnP/1.0 miniupnpd/1.0 Debian/wheezy/sid UPnP/1.1 MiniUPnPd/1.8 DeleGate/7.7.0 DNVRS-Webs DrayTek/Vigor2130 UPnP/1.0 miniupnpd/1.0 DVRDVS-Webs dwhttpd EHTTP/1.1 eHTTP v2.0 Embedded HTTP Server Embedthis-Appweb/3.2.3 Embedthis-http Embedthis-http/4.0.0 emwac EnergyICT RTU 101-F25CE1-1524 enterpriseweb Eserv/2.97 Essentia/2.1 Ews/0 Ews/0.1 EWS-NIC3/6.31 EWS-NIC4/13.39 EWS-NIC4/13.40 falcon Fedora/10 UPnP/1.0 MiniUPnPd/1.4 Fedora/8 UPnP/1.0 miniupnpd/1.0 FedoraCore/6 UPnP/1.0 miniupnpd/1.0 fnord Folkweb FreeBSD/8.2-RELEASE-p4 DLNADOC/1.50 UPnP/1.0 MiniDLNA/1.0.24 frontier frontpage FUHO-DVR GFE/1 GFE/1.3 GlassFish GoAhead-Webs GoAhead-Webs/2.5.0 GoAhead-Webs/2.5.0 PeerSec-MatrixSSL/3.4.2-OPEN Gordian Embedded goserve gosite gSOAP/2.7 gunicorn/19.7.1 gws HeiTel GmbH Web Server [V1.15/V1.14/V1.3] HeiTel GmbH Web Server [V1.26/V1.15/V1.7] Helix Server Version 9.0.4.960 (linux-2.2-libc6-i586-server) (RealServer compatible) Helix Server Version 9.0.4.960 (win32) (RealServer compatible) hellbent java webserver v0.1 Hikvision-Webs homedoor HP Apache-based Web Server/1.3.26 (Unix) HP Apache-based Web Server/1.3.26 (Unix) mod_ssl/2.8.9 OpenSSL/0.9.6c HP-ChaiServer/2.2 HP-ChaiSOE/1.0 HP HTTP Server; Hewlett-Packard HP Designjet T520 36in - ABC123; Serial Number: 0123456789; Built:Tue Sep 09, 2014 08:32:54AM {012345678901} HP HTTP Server; HP Officejet 6500 E709n - CB057A; Serial Number: abc123; Rainbow Built:Sat Dec 13, 2008 10:58:21AM {abc123, ASIC id 0x00ffc2105} HP HTTP Server; HP Photosmart C309a series - CC335A; Serial Number: abc123; Vader Built:Wed Apr 15, 2009 11:40:58AM {abc123, ASIC id 0x00280004} HP-iLO-Server/1.30 HPSMH HP Web Jetadmin 10.3.85669 HP Web Jetadmin 10.3.91358 (10.3 SR5) HP Web Jetadmin/2.0.50 (Win32) mod_auth_sspi/1.0.1 mod_ssl/2.0.50 OpenSSL/0.9.6m HP Web Jetadmin/2 (Win32) mod_auth_sspi/1.0.1 mod_ssl/2.0.50 OpenSSL/0.9.6m HP-Web-Server httpd HttpFileServer httpd hyperwave IBM_HTTP_Server IBM_HTTP_SERVER IBM-HTTP-Server/1.0 IBM_HTTP_Server/1.3.12 Apache/1.3.12 (Unix) IBM_HTTP_SERVER/1.3.19.2  Apache/1.3.20 (Win32) IBM_HTTP_SERVER/1.3.28.1-PK16139  Apache/1.3.28 (Unix) IBM_HTTP_Server/2.0.42.2-PK25355 Apache/2.0.47 (Unix) DAV/2 IBM_HTTP_Server/2.0.47.1 Apache/2.0.47 (Unix) DAV/2 PHP/4.3.8 IBM_HTTP_Server/2.0.47.1-PK01070 Apache/2.0.47 (Win32) PHP/5.0.4 IBM_HTTP_Server/6.0.2.19 Apache/2.0.47 (Unix) IBM_HTTP_Server/6.0.2 Apache/2.0.47 (Unix) IBM_HTTP_Server/6.0 Apache/2.0.47 (Unix) DAV/2 IBM_HTTP_Server/6.1 Apache/2.0.47 (Win32) PHP/5.1.1 IBM_HTTP_Server/7.0.0.9 (Unix) IBM HTTP Server/V5R3M0 ibm internet connection server IdeaWebServer/0.83.74 IdeaWebServer/v0.70 Intel(R) Active Management Technology Intel(R) Active Management Technology 7.1.86 Intel(R) Standard Manageability 5.0.50 Intel(R) Standard Manageability 9.0.3 IPCamera Login IPG8000 iPlanet-Web-Proxy-Server/3.6 iPlanet-Web-Proxy-Server/3.6-SP5 ipos/7.0 UPnP/1.0 TL-WR740N/1.0 ipos/7.0 UPnP/1.0 TL-WR740N/1.0/2.0 ipos/7.0 UPnP/1.0 TL-WR740N/4.0 ipos/7.0 UPnP/1.0 TL-WR741N/1.0/2.0 ipos/7.0 UPnP/1.0 TL-WR741N/4.0 ipos/7.0 UPnP/1.0 TL-WR841N/6.0/7.0 ipos/7.0 UPnP/1.0 TL-WR841N/8.0 ipos/7.0 UPnP/1.0 TL-WR940N/1.0 ipos/7.0 UPnP/1.0 TL-WR941N/2.0 Ipswitch-IMail/5.08 Ipswitch-IMail/7.07 Ipswitch-IMail/7.11 Ipswitch-IMail/8.05 ISOS/9.0 UPnP/1.0 Conexant-EmWeb/R6_1_0 Jaguar Server jakarta-tomcat-4.0.1 JavaWebServer JBoss-EAP/7 JC-HTTPD/1 JC-HTTPD/1.11.14 JC-SHTTPD/1 JC-SHTTPD/1.17.20 JetAdmin Jetty(1.4.5) Jetty/4.0.1 (SunOS 5.8 sparc) Jetty/4.2.23 (SunOS/5.9 sparc java/1.4.2_04) Jetty/4.2.x (VxWorks/WIND version 2.9 ppc java/1.1-rr-std-b12) Jetty/5.1.10 (Linux/2.6.12 i386 java/1.5.0_05) Jetty/5.1.4 (Windows Server 2008 R2/6.1 x86 java/1.5.0_22 Jetty(6.1.12.rc2) Jetty(7.6.9.v20130131) Jetty(8.1.10.v20130312) Jetty(9.4.z-SNAPSHOT) JRun/3.1 KazaaClient kHTTPd 0.1.6 LabVIEW/5.1.1 Lasso/3.6.5 lighttpd lighttpd/1.3.7 (Mar 23 2007/16:00:15) lighttpd/1.4.16 LilHTTP/2.1 Linux/2.4.18_mvl30-ixdp425, UPnP/1.0, Intel SDK for UPnP devices/1.3.1 Linux/2.4.20-46.7asp, UPnP/1.0, Portable SDK for UPnP devices/1.6.17 Linux/2.4.21 UPnP/1.0 miniupnpd/1.0 LINUX/2.4 UPnP/1.0 BRCM400/1.0 Linux/2.6.10_dev-malta-mips2_fp_le, UPnP/1.0, Intel SDK for UPnP devices /1.2 Linux/2.6.10-iop1-1, UPnP/1.0, Portable SDK for UPnP devices/1.4.1 Linux/2.6.12-5.1-brcmstb-dm800, UPnP/1.0, Portable SDK for UPnP devices/1.6.0 Linux/2.6.12.6-arm1-040, UPnP/1.0, Portable SDK for UPnP devices/1.6.5.2 Linux/2.6.12.6-VENUS, UPnP/1.0, Portable SDK for UPnP devices/1.6.10 Linux/2.6.13, UPnP/1.0, Portable SDK for UPnP devices/1.6.0 Linux/2.6.18_pro500-davinci_N03A_IPCAM_1.0-g5c649288-dirty, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.23.17_stm23_0125dorade00 UPnP/1.0 DLNADOC/1.50 Portable SDK for UPnP devices/1.4.6-5 Linux/2.6.28-11-server, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.28-17-generic, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.28.1-xxxx-std-ipv4-32, UPnP/1.0, Portable SDK for UPnP devices/1.4.3 Linux/2.6.28, UPnP/1.0, Portable SDK for UPnP devices/1.6.10 Linux/2.6.29.6-217.2.3.fc11.i686.PAE UPnP/1.0 miniupnpd/1.0 Linux/2.6.32-220.7.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.14 Linux/2.6.32-24-generic, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.32-279.11.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.14 Linux/2.6.32-279.1.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.13 Linux/2.6.32-279.14.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.14 Linux/2.6.32-279.14.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.15 Linux/2.6.36+ DLNADOC/1.50 UPnP/1.0 MiniDLNA/1.0 Linux/3.0.8 UPnP/1.0 DLNADOC/1.50 Portable SDK for UPnP devices/1.6.6 Linux-amd64-2.6.18-238.9.1.el5, UPnP/1.0, PMS/1.52.1 Linux/Cross_compiled UPnP/1.0 miniupnpd/1.0 Linux-i386-2.6.33.2, UPnP/1.0, PMS/1.21.1 Linux Mips 2.4.20 UPnP/1.0 MiniUPnPd/1.2 Linux UPnP/1.0 Huawei-ATP-IGD Linux, UPnP/1.0, Intel SDK for UPnP devices /1.2 Linux UPnP/1.0 Sonos/31.3-22220 (ANVIL) Linux UPnP/1.0 Sonos/34.16-37101 (ZP120) Linux UPnP/1.0 Sonos/36.4-41270 (WD100) Linux UPnP/1.0 Sonos/39.2-47040c (ZPS1) Linux UPnP/1.0 Sonos/47.2-59120 (BR100) Linux UPnP/1.0 Sonos/47.2-59120 (ZPS3) ListManagerWeb/8.8a (based on Tcl-Webserver/3.4.2) LiteSpeed LiteSpeed/5.2.8 Enterprise Lotus Lotus-Domino Lotus-Domino/0 Lotus-Domino/5.0.8 Lotus-Domino/Release Lotus-Domino/Release-4.6.7(Intl) Lotus Expeditor Web Container/6 Lotus Expeditor Web Container/6.1 Loxone Miniserver some name UPnP/1.0 Mac_OS_X-x86_64-10.5.8, UPnP/1.0, PMS/1.20 Mbedthis-Appweb/2 Mbedthis-Appweb/2.4.0 Mbedthis-AppWeb/2.4.0 Mbedthis-Appweb/2.4.2 micro_httpd Microplex emHTTPD/1 Microplex emHTTPD/1.0 Microplex emHTTPD/1.1 Microsoft-HTTPAPI/2.0 Microsoft-IIS Microsoft-IIS/4.0 Microsoft-IIS/5.0 Microsoft-IIS/5.1 Microsoft-IIS/6.0 Microsoft-IIS/7.0 Microsoft-IIS/7.5 Microsoft-IIS/8.0 Microsoft-IIS/8.5 Microsoft-IIS/9.0 Microsoft-PWS/4.0 Microsoft-PWS-95/4.0 Microsoft-WinCE/4.10 Microsoft-WinCE/4.20 Microsoft-WinCE/5.0 Microsoft WinCE Fidelix v11.50.29 Mikrotik HttpProxy Mini Dome IP Camera mini_httpd mini_httpd/1.14 23jun2000 mini_httpd/1 23jun2000 MiniServ/0.01 mod_security/1.71 Mongrel 1 Mongrel 1.1.5 Monkey/0.6.2 MS-MFC-HttpSvr/1.0 MS .NET Remoting, MS .NET CLR 2.0.50727.42 mt-daapd/0.2.4.1 mt-daapd/svn-999 myCIO Mylo/0.2.0 MyWebServer/1.01 ncsa neowebscript NetApp/7.2.1.1 NetApp/7.3.4P1 NetApp//8.1RC2 NetCache appliance (NetApp/5.3.1R3) NetCache appliance (NetApp/5.4R2D2) NetCache appliance (NetApp/5.6.1D22) NetCache appliance (NetApp/6.0.2P1) NetCache appliance (NetApp/6.0.4) NetCache appliance (NetApp/6.1RC2) netcloak NET-DK/1.0 NET-DK 1.1 Netgear/1.0 UPnP/1.0 miniupnpd/1.0 netpresenz Netscape-Enterprise/3.5.1 Netscape-Enterprise/3.6 SP3 Netscape-Enterprise/6.0 NetWare Netwave IP Camera nginx nginx/0.8.53 nginx/0.8.53 + Phusion Passenger 3.0.0 (mod_rails/mod_rack) nginx + Phusion Passenger nginx + Phusion Passenger 5.1.11 Niagara Web Server/3.8.111 NS_6.1 NSC/0.6.4 (JVM) nsl Nucleus/4.3 UPnP/1.0 Virata-EmWeb/R6_2_0 NULLhttpd/0.5.1 OmniHTTPd open-market-secure-webserver openresty openresty/1.13.6.2 OpenTV/5.40 OpenVPN-AS OpenWRT/kamikaze UPnP/1.0 MiniUPnPd/1.2 OpenWRT/kamikaze UPnP/1.0 MiniUPnPd/1.4 OpenWRT/kamikaze UPnP/1.0 MiniUPnPd/1.5 Oracle9iAS/9.0.2.3.0 Oracle HTTP Server Oracle9iAS-Web-Cache/9.0.2.3.0 (N) Oracle9iAS/9.0.3.1 Oracle HTTP Server Oracle9iAS-Web-Cache/9.0.3.1.0 (N) Oracle-Application-Server-10g Oracle-Application-Server-10g/10.1.2.0.2 Oracle-HTTP-Server Oracle-Application-Server-10g/10.1.2.2.0 Oracle-HTTP-Server OracleAS-Web-Cache-10g/10.1.2.2.0 (N;ecid=153541209221,0) Oracle-Application-Server-10g/10.1.2.2.0 Oracle-HTTP-Server (Unix) mod_plsql/10.1.2.2.0 mod_ossl/10.1.2.0.0 mod_perl/1.29 OracleAS-Web-Cache-10g/10.1.2.0.2 (N;ecid=89116016562,0) Oracle Application Server/10g (10.1.2) Apache/1.3.34 (Unix) mod_perl/1.29 mod_jk/1.2.14 OracleAS-Web-Cache-10g/10.1.2.0.2 (N;ecid=119642322340,0) Oracle-Application-Server-10g/9.0.4.1.0 Oracle-HTTP-Server Oracle-Application-Server-11g Oracle Application Server Containers for J2EE 10g (9.0.4.0.0) Oracle Applications One-Hour Install Oracle Containers for J2EE Oracle HTTP Server Powered by Apache Oracle HTTP Server Powered by Apache/1.3.12 (Unix) ApacheJServ/1.1 mod_ssl/2.6.4 OpenSSL/0.9.5a Oracle HTTP Server Powered by Apache/1.3.19 (Unix) mod_plsql/3.0.9.8.3b PHP/4.3.10 mod_fastcgi/2.2.10 mod_perl/1.25 mod_oprocmgr/1.0 Oracle HTTP Server Powered by Apache/1.3.19 (Win32) mod_ssl/2.8.1 OpenSSL/0.9.5a mod_fastcgi/2.2.10 mod_oprocmgr/1.0 mod_perl/1.25 Oracle_Web_Listener Oracle XML DB/Oracle9i Enterprise Edition Release 9.2.0.1.0 - Production Oracle XML DB/Oracle9i Enterprise Edition Release 9 - Production Oracle XML DB/Oracle Database os2httpd PanWeb Server/ - PDR-M800/1.0 PHP/4.0.3 PHP/4.0.5 PHP/4.4.2-1build1 PHP/5.1.2 PHP/5.3.14 ZendServer/5.0 PHP/7.1 phttpd Pi3Web/2.0 plexus Polycom SoundPoint IP Telephone HTTPd powerweb process $ProjectRevision: 4.0.2.38 $ PWS QTSS/5.0.3.3 (Build/452.22.4; Platform/MacOSX; Release/Panther; Update/Security; ) QTSS/5.0 (Build/452; Platform/MacOSX; Release/Panther; ) QTSS/6.1.0 (Build/532; Platform/MacOSX; Release/Mac OS X Server; ) RapidLogic Rapid Logic/1 Rapid Logic/1.1 Raptor Simple, Secure Web Server 1.0 RealVNC/4.0 ReeCam IP Camera Resin/1 Resin/2.1.1 Resin/2.1.13 Resin/2.1.s030827 Resin/3.0.23 Roku UPnP/1.0 MiniUPnPd/1.4 Roku UPnP/1.0 Roku/8.1.6 RomPager/4.07 UPnP/1.0 RouterOS/6.43UPnP/1.0 MikroTik UPnP/1.0 roxen RT-G32 UPnP/1.0 MiniUPnPd/1.2 Rumpus rushhour sambar/5.1 Savant/3.1 ScriptEase/0.95 Security Console SentinelKeysServer/1 SentinelKeysServer/1.0 SentinelKeysServer/1.3.1 SentinelProtectionServer/7 SentinelProtectionServer/7.0 SentinelProtectionServer/7.1 SentinelProtectionServer/7.3 SEPM servermgrd serverseven Servlet 2.4; JBoss-4.0.4.GA (build: CVSTag=JBoss_4_0_4_GA date=200605151000)/Tomcat-5.5 Servlet 2.4; JBoss-4.2.3.GA (build: SVNTag=JBoss_4_2_3_GA date=200807181439)/JBossWeb-2.0 Servlet 2.4; Tomcat-5.0.28/JBoss-4.0.1sp1 (build: CVSTag=JBoss_4_0_1_SP1 date=200502160314) Servlet 2.5; JBoss-5.0/JBossWeb-2.1 Servlet/3.0; JBossAS-6 Serv-U/15.1.6.31 sfcHttpd SimpleHTTP/0.6 Python/2.7.6 SimpleHTTP/0.6 Python/3.4.0 Simple, Secure Web Server 1.1 SmoothWall Express/3.0 UPnP/1.0 miniupnpd/1.0 some thing UPnP/1.0 AVM FRITZ!WLAN Repeater 1750E 134.07.01 SonicWALL SonicWALL SSL-VPN Web Server SonicWALL SSLVPN Web Server Sophos Email Appliance Splunkd squid Squid Squid/2.3.STABLE1 squid/3.2.9-BZR squid/4.4 Stronghold/3.0 Apache/1.3.19 RedHat/3014c Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26 Sun GlassFish Enterprise Server v2.1 Sun-ILOM-Web-Server/1.0 Sun-Java-System/Application-Server Sun Java System Application Server Platform Edition 9.0 Sun Java System Application Server Platform Edition 9.0_01 Sun-Java-System-Web-Proxy-Server/4.0 Sun-Java-System-Web-Proxy-Server/4.0.2 Sun-Java-System-Web-Server/7.0 Sunny WebBox Sun-ONE-Web-Proxy-Server/3.6-SP4 Sun-ONE-Web-Server/6.1 support@arraynetworks.net Synology/DSM/192.168.1.100 Synology/DSM/stuff TBS/R2 UPnP/1.0 MiniUPnPd/1.2 Tengine Tengine/2.0.0 thin 1.2.4 codename Flaming Astroboy thin 1 codename Flaming Astroboy thttpd thttpd/2.04 10aug98 thttpd/2.19-MX Jan 24 2006 thttpd/2.20b thttpd/2.21b PHP/20030920 thttpd/2.23beta1 26may2002 tivo-httpd-1:20.7.4.RC35-D18-6:D18 Tomato UPnP/1.0 MiniUPnPd/1.2 Tomato UPnP/1.0 MiniUPnPd/1.4 Tomcat/2.1 Tomcat Web Server/3.1M1 (JSP 1.1; Servlet 2.2; Java 1.3.1; AIX 5.3 ppc; java.vendor=IBM Corporation) Tomcat Web Server/3.2.2 (JSP 1.1; Servlet 2.2; Java 1.3.1; Windows 2000 5.0 x86; java.vendor=Sun Microsystems Inc.) Tomcat Web Server/3.2.2 (JSP 1.1; Servlet 2.2; Java 1.4.2_13; Windows 2003 5.2 x86; java.vendor=Sun Microsystems Inc.) Tomcat Web Server/3.3.1 Final ( JSP 1.1; Servlet 2.2 ) TornadoServer/4.0.2 TwistedWeb/16.4.0 TwistedWeb/16.5.0rc2 TwistedWeb/2.5.0 Ubuntu/10.04 UPnP/1.0 miniupnpd/1.0 Ubuntu/10.10 UPnP/1.0 miniupnpd/1.0 Ubuntu/7.10 UPnP/1.0 miniupnpd/1.0 Ubuntu/9.04 UPnP/1.0 miniupnpd/1.0 Ubuntu/bionic UPnP/1.0 MiniUPnPd/1.4 Ubuntu/hardy UPnP/1.0 MiniUPnPd/1.4 Ubuntu/jaunty UPnP/1.0 MiniUPnPd/1.4 Ubuntu/karmic UPnP/1.0 MiniUPnPd/1.4 Ubuntu/lucid UPnP/1.0 MiniUPnPd/1.4 Ubuntu/maverick UPnP/1.0 MiniUPnPd/1.4 Ubuntu/natty UPnP/1.0 MiniUPnPd/1.4 Ubuntu/oneiric UPnP/1.0 MiniUPnPd/1.4 Ubuntu/precise UPnP/1.0 MiniUPnPd/1.4 Ubuntu/quantal UPnP/1.0 MiniUPnPd/1.4 Ubuntu/raring UPnP/1.0 MiniUPnPd/1.4 Ubuntu/saucy UPnP/1.0 MiniUPnPd/1.4 Ubuntu/trusty UPnP/1.0 MiniUPnPd/1.4 Ubuntu/utopic UPnP/1.0 MiniUPnPd/1.4 Ubuntu/xenial UPnP/1.0 MiniUPnPd/1.4 Ubuntu/yakkety UPnP/1.0 MiniUPnPd/1.4 uc-httpd/1.0.0 Ultraseek Unknown/0.0 UPnP/1.0 Conexant-EmWeb/R6_1_0 Unknown/0.0 UPnP/1.0 GlobespanVirata-EmWeb/R6_1_0 Unknown/0.0 UPnP/1.0 Virata-EmWeb/R6_1_0 UOS UPnP/1.0, DLNADOC/1.50, Platinum/0.5.1 UPnP/1.0, DLNADOC/1.50, Platinum/0.5.3.0 UPnP/1.0, DLNADOC/1.50, Platinum/0.5.4.0 UPnP/1.0, DLNADOC/1.50, Platinum/0.6.6.0 UPS_Server/1 UPS_Server/1.0 Varnish Varnish-Cache VCS-VIDOS-NVR Virata-EmWeb/R5_3_0 Virata-EmWeb/R5_3_2 Virata-EmWeb/R6_0_1 Virata-EmWeb/R6_1_0 Virata-EmWeb/R6_2_0 Virata-EmWeb/R6_2_1 vqserver Web server WebLogic Server 7.0 SP4 Tue Aug 12 11:22:26 PDT 2003 WebLogic Server 8.1 SP3 Tue Jun 29 23:11:19 PDT 2004 404973 WebLogic WebLogic Server 6.1 SP4  11/08/2002 21:50:43 #221641 WEBrick/1.3.1 (Ruby/1.9.3/2013-02-22) Web-Server/3.0 WebSitePro/2.4 WebSphere Application Server/5.0 WebSphere Application Server/6.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.10.51 Windows_7-x86-6.1, UPnP/1.0, PMS/1.20 Windows_7-x86-6.1, UPnP/1.0, PMS/1.20.409 Windows_7-x86-6.1, UPnP/1.0, PMS/1.20.412 Windows_7-x86-6.1, UPnP/1.0, PMS/1.22.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.25.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.30.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.40.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.50.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.50.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.51.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.52.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.52.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.53.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.54.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.60.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.70.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.71.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.72.0 Windows_XP-amd64-5.2, UPnP/1.0, PMS/1.54.0 Windows_XP-x86-5.1, UPnP/1.0, PMS/1.20.400 WindRiver-WebServer/4.4 WMServer/9.1.1.3841 Xitami ZyXEL-RomPager/4.34 Zyxel
+Location: http://224.175.131.150:79/
+Content-Length: 0
+
+
+IP: 2.136.156.15
+Port: 80
+Organisation: TELEFONICA DE ESPANA S.A.U.
+Location: {'city': 'Torremolinos', 'region_code': 'AN', 'area_code': None, 'longitude': -4.49976, 'latitude': 36.62035, 'country_code': 'ES', 'country_name': 'Spain'}
+Layer: tcp
+Domains: ['rima-tde.net']
+Hostnames: ['15.red-2-136-156.staticip.rima-tde.net']
+Data
+HTTP/1.1 200 OK
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html
+X-Content-Type-Options: nosniff
+Date: Thu, 08 Sep 2022 13:25:34 GMT
+ETag: 1659226399
+Content-Length: 481
+X-XSS-Protection: 1; mode=block
+Last-Modified: Tue, 14 Sep 2021 03:07:17 GMT
+Connection: Keep-Alive
+Accept-Ranges: bytes
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 210914
+  Plugin Version: 3.0.7.500
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    localServiceControl: 1.0.0.11
+    NetStream.dll: 1.0.5.57
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.7.500
+
+IP: 129.205.178.20
+Port: 88
+Organisation: Seacom Western Cape (Pty) Ltd
+Location: {'city': 'Cape Town', 'region_code': 'WC', 'area_code': None, 'longitude': 18.4833, 'latitude': -34.05, 'country_code': 'ZA', 'country_name': 'South Africa'}
+Layer: tcp
+Domains: ['macrolan.co.za']
+Hostnames: ['129-205-178-20.dynamic.macrolan.co.za']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 13:25:01 GMT
+Server: 
+X-Frame-Options: SAMEORIGIN
+ETag: "1172-1e1-5c413aaf"
+Content-Length: 481
+Content-Type: text/html
+Connection: close
+Last-Modified: Fri, 18 Jan 2019 02:32:15 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 190118
+  Plugin Version: 3.0.7.12
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.8
+    NetStream.dll: 1.0.5.52
+    npWebVideoPlugin.dll: 3.0.7.12
+    PlayCtrl.dll: 7.3.6.82
+    StreamTransClient.dll: 1.1.3.15
+    SystemTransform.dll: 2.5.3.9
+    WebVideoActiveX.ocx: 3.0.7.12
+    YUVProcess.dll: 1.0.0.3
+
+IP: 59.127.0.147
+Port: 80
+Organisation: Chunghwa Telecom Co.,Ltd.
+Location: {'city': 'Tainan', 'region_code': '04', 'area_code': None, 'longitude': 120.21333, 'latitude': 22.99083, 'country_code': 'TW', 'country_name': 'Taiwan'}
+Layer: tcp
+Domains: ['hinet.net']
+Hostnames: ['59-127-0-147.hinet-ip.hinet.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 19:24:50 GMT
+Server: DNVRS-Webs
+ETag: "0-a2a-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Fri, 25 Aug 2017 01:18:02 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 170525
+  Plugin Version: 3.0.6.24
+  Custom Version: DZ20170824_053
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.2
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.24
+    PlayCtrl.dll: 7.3.2.0
+    StreamTransClient.dll: 1.1.3.6
+    SystemTransform.dll: 2.5.2.3
+    WebVideoActiveX.ocx: 3.0.6.24
+
+IP: 183.103.226.127
+Port: 80
+Organisation: Korea Telecom
+Location: {'city': 'Geumseong', 'region_code': '48', 'area_code': None, 'longitude': 127.9052, 'latitude': 35.0245, 'country_code': 'KR', 'country_name': 'Korea, Republic of'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 20:12:17 GMT
+Server: DNVRS-Webs
+ETag: "0-75f-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 18 Jan 2017 10:56:45 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 170118
+  Plugin Version: 3.0.6.6
+  ActiveX Files:
+    AudioIntercom.dll: 1.2.0.1
+    NetStream.dll: 1.0.5.39
+    npWebVideoPlugin.dll: 3.0.6.6
+    PlayCtrl.dll: 7.3.0.0
+    StreamTransClient.dll: 1.1.3.4
+    SystemTransform.dll: 2.5.1.4
+    WebVideoActiveX.ocx: 3.0.6.6
+
+IP: 210.4.67.180
+Port: 80
+Organisation: BDCOM Online Limited, Internet Service Provider, Dhaka, Bangladesh
+Location: {'city': 'Dhaka', 'region_code': 'C', 'area_code': None, 'longitude': 90.40744, 'latitude': 23.7104, 'country_code': 'BD', 'country_name': 'Bangladesh'}
+Layer: tcp
+Domains: ['bdcom.com']
+Hostnames: ['210.4.67-180.bdcom.com']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 17:21:09 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-1300-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 26 Dec 2018 02:26:27 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 181226
+  Plugin Version: 3.0.6.27
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.27
+    PlayCtrl.dll: 7.3.3.62
+    StreamTransClient.dll: 1.1.3.7
+    SystemTransform.dll: 2.5.2.5
+    WebVideoActiveX.ocx: 3.0.6.27
+
+IP: 211.72.181.154
+Port: 84
+Organisation: Chunghwa Telecom Co.,Ltd.
+Location: {'city': 'Tainan', 'region_code': '04', 'area_code': None, 'longitude': 120.21333, 'latitude': 22.99083, 'country_code': 'TW', 'country_name': 'Taiwan'}
+Layer: tcp
+Domains: ['hinet.net']
+Hostnames: ['211-72-181-154.hinet-ip.hinet.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 19:22:39 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-153e-1e1"
+Content-Length: 481
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=180, max=99
+Last-Modified: Mon, 31 Aug 2020 06:50:19 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 20200822
+  Plugin Version: 3.0.7.32
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.8
+    localServiceControl: 1.0.0.8
+    NetStream.dll: 1.0.5.57
+    npWebVideoPlugin.dll: 3.0.7.32
+    PlayCtrl.dll: 7.3.8.49
+    StreamTransClient.dll: 1.1.3.17
+    SystemTransform.dll: 2.5.3.13
+    WebVideoActiveX.ocx: 3.0.7.32
+
+IP: 86.82.247.5
+Port: 5000
+Organisation: KPN B.V.
+Location: {'city': 'Roosendaal', 'region_code': 'NB', 'area_code': None, 'longitude': 4.4853, 'latitude': 51.5471, 'country_code': 'NL', 'country_name': 'Netherlands'}
+Layer: tcp
+Domains: ['kpn.net']
+Hostnames: ['86-82-247-5.fixed.kpn.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 13:26:20 GMT
+Server: DNVRS-Webs
+ETag: "0-a5e-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Mon, 06 Feb 2017 05:34:18 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 170124
+  Plugin Version: 3.0.6.8
+  ActiveX Files:
+    AudioIntercom.dll: 1.3.0.5
+    NetStream.dll: 1.0.5.39
+    npWebVideoPlugin.dll: 3.0.6.8
+    PlayCtrl.dll: 7.3.1.61
+    StreamTransClient.dll: 1.1.3.4
+    SystemTransform.dll: 2.5.1.8
+    WebVideoActiveX.ocx: 3.0.6.8
+
+IP: 41.169.77.187
+Port: 80
+Organisation: Liquid Telecommunications Operations Limited
+Location: {'city': 'Johannesburg', 'region_code': 'GP', 'area_code': None, 'longitude': 28.04363, 'latitude': -26.20227, 'country_code': 'ZA', 'country_name': 'South Africa'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 12:35:03 GMT
+Server: DNVRS-Webs
+ETag: "0-a97-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 18 Jan 2017 10:56:45 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 170118
+  Plugin Version: 3.0.6.6
+  ActiveX Files:
+    AudioIntercom.dll: 1.2.0.1
+    NetStream.dll: 1.0.5.39
+    npWebVideoPlugin.dll: 3.0.6.6
+    PlayCtrl.dll: 7.3.0.0
+    StreamTransClient.dll: 1.1.3.4
+    SystemTransform.dll: 2.5.1.4
+    WebVideoActiveX.ocx: 3.0.6.6
+
+IP: 186.149.45.161
+Port: 80
+Organisation: ALTICE DOMINICANA S.A.
+Location: {'city': 'La Romana', 'region_code': '12', 'area_code': None, 'longitude': -68.97285, 'latitude': 18.42733, 'country_code': 'DO', 'country_name': 'Dominican Republic'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 07:13:11 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-805-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Sun, 28 Jun 2020 02:17:11 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 200628
+  Plugin Version: 3.0.7.51
+  Device Version: 4.1.50
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.57
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.17
+    SystemTransform.dll: 2.5.1.8
+    WebVideoActiveX.ocx: 3.0.7.51
+
+IP: 176.222.147.120
+Port: 80
+Organisation: Kar-Tel LLC
+Location: {'city': 'Oral', 'region_code': 'ZAP', 'area_code': None, 'longitude': 51.36667, 'latitude': 51.23333, 'country_code': 'KZ', 'country_name': 'Kazakhstan'}
+Layer: tcp
+Domains: ['2day.kz']
+Hostnames: ['client.fttb.2day.kz']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 16:23:43 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1;mode=block
+ETag: "0-71a-1e1"
+Content-Length: 481
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Fri, 22 Jan 2021 06:19:44 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 210122
+  Plugin Version: 3.0.7.51
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    localServiceControl: 1.0.0.11
+    NetStream.dll: 1.0.5.57
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.7.51
+
+IP: 81.17.88.91
+Port: 80
+Organisation: Bakinternet Network
+Location: {'city': 'Baku', 'region_code': 'BA', 'area_code': None, 'longitude': 49.892, 'latitude': 40.3777, 'country_code': 'AZ', 'country_name': 'Azerbaijan'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 14:41:39 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-dbf-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Sun, 30 Sep 2018 02:37:15 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 180929
+  Plugin Version: 3.0.6.46
+  Device Version: 4.1.50
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.46
+    npWebVideoPlugin.dll: 3.0.6.46
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.6.46
+
+IP: 81.218.170.108
+Port: 81
+Organisation: Bezeq International-Ltd
+Location: {'city': 'Jerusalem', 'region_code': 'JM', 'area_code': None, 'longitude': 35.21633, 'latitude': 31.76904, 'country_code': 'IL', 'country_name': 'Israel'}
+Layer: tcp
+Domains: ['bezeqint.net']
+Hostnames: ['bzq-218-170-108.red.bezeqint.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 14:24:43 GMT
+Server: App-webs/
+ETag: "9bc-1e0-5885882c"
+Content-Length: 480
+Content-Type: text/html
+Connection: close
+Last-Modified: Mon, 23 Jan 2017 04:35:56 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 170123
+  Plugin Version: 3.0.6.14
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.0
+    NetStream.dll: 1.0.5.39
+    npWebVideoPlugin.dll: 3.0.6.14
+    PlayCtrl.dll: 7.3.2.71
+    StreamTransClient.dll: 1.1.3.6
+    SystemTransform.dll: 2.5.1.13
+    WebVideoActiveX.ocx: 3.0.6.14
+
+IP: 89.115.136.246
+Port: 80
+Organisation: DSL-ULL
+Location: {'city': 'Lisbon', 'region_code': '11', 'area_code': None, 'longitude': -9.13333, 'latitude': 38.71667, 'country_code': 'PT', 'country_name': 'Portugal'}
+Layer: tcp
+Domains: ['vodafone.pt']
+Hostnames: ['246.136.115.89.rev.vodafone.pt']
+Data
+HTTP/1.1 200 OK
+Date: Sun, 01 Mar 1970 21:12:00 GMT
+Server: DNVRS-Webs
+ETag: "0-5aa-1dd"
+Content-Length: 477
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Tue, 06 Sep 2016 07:42:14 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 160704
+  Plugin Version: 3.0.6.4
+  ActiveX Files:
+    AudioIntercom.dll: 1.2.0.1
+    NetStream.dll: 1.0.5.37
+    npWebVideoPlugin.dll: 3.0.6.4
+    PlayCtrl.dll: 7.3.0.0
+    StreamTransClient.dll: 1.1.3.4
+    SystemTransform.dll: 2.5.1.4
+    WebVideoActiveX.ocx: 3.0.6.4
+
+IP: 188.26.115.247
+Port: 80
+Organisation: RCS & RDS Business
+Location: {'city': 'Cluj-Napoca', 'region_code': 'CJ', 'area_code': None, 'longitude': 23.6, 'latitude': 46.76667, 'country_code': 'RO', 'country_name': 'Romania'}
+Layer: tcp
+Domains: ['rdsnet.ro']
+Hostnames: ['188.26.115.247-static.cluj.rdsnet.ro']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 14:25:40 GMT
+Server: webserver
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+ETag: "2a2-258-5cf5d35c"
+Content-Length: 600
+Content-Type: text/html
+Connection: close
+Last-Modified: Tue, 04 Jun 2019 02:11:40 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 190506
+  Plugin Version: 3.0.7.16
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.8
+    localServiceControl: 1.0.0.2
+    NetStream.dll: 1.0.5.53
+    npWebVideoPlugin.dll: 3.0.7.16
+    PlayCtrl.dll: 7.3.6.0
+    StreamTransClient.dll: 1.1.3.17
+    SystemTransform.dll: 2.5.3.9
+    WebVideoActiveX.ocx: 3.0.7.16
+
+IP: 91.195.93.202
+Port: 8000
+Organisation: ALICJA MANIERA trading as MANIERA SERVICE
+Location: {'city': 'Bytom', 'region_code': '24', 'area_code': None, 'longitude': 18.8177, 'latitude': 50.3937, 'country_code': 'PL', 'country_name': 'Poland'}
+Layer: tcp
+Domains: ['wieszowanet.pl']
+Hostnames: ['host-91-195-93-202.wieszowanet.pl']
+Data
+HTTP/1.0 200 OK
+Date: Thu Sep  8 13:24:42 2022
+Server: DVRDVS-Webs
+Last-modified: Wed Feb 26 08:44:33 2014
+Content-length: 1577
+Content-type: text/html
+
+
+Hikvision IP Camera:
+  ActiveX Files:
+    HCWPWebVideoActiveX.ocx: 3.0.4.51
+    NetStream.dll: 1.0.3.11
+    npHCWPWebVideoPlugin.dll: 3.0.4.51
+    PlayCtrl.dll: 6.3.2.0
+    StreamTransClient.dll: 1.1.2.3
+    SystemTransform.dll: 2.3.0.0
+
+IP: 91.195.92.50
+Port: 80
+Organisation: ALICJA MANIERA trading as MANIERA SERVICE
+Location: {'city': 'Zabrze', 'region_code': '24', 'area_code': None, 'longitude': 18.7608, 'latitude': 50.3622, 'country_code': 'PL', 'country_name': 'Poland'}
+Layer: tcp
+Domains: ['wieszowanet.pl']
+Hostnames: ['host-91-195-92-50.wieszowanet.pl']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 13:23:42 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1;mode=block
+ETag: "0-125b-1e1"
+Content-Length: 481
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Thu, 29 Oct 2020 05:51:54 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 201029
+  Plugin Version: 3.0.7.38
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.9
+    localServiceControl: 1.0.0.11
+    NetStream.dll: 1.0.5.65
+    npWebVideoPlugin.dll: 3.0.7.38
+    PlayCtrl.dll: 7.3.9.46
+    StreamTransClient.dll: 1.1.3.17
+    SystemTransform.dll: 2.5.4.12
+    WebVideoActiveX.ocx: 3.0.7.38
+
+IP: 212.18.201.66
+Port: 444
+Organisation: IT Service Team GmbH
+Location: {'city': 'Saarbrücken', 'region_code': 'SL', 'area_code': None, 'longitude': 6.9696, 'latitude': 49.2399, 'country_code': 'DE', 'country_name': 'Germany'}
+Layer: tcp
+Domains: ['vsenet.de']
+Hostnames: ['066-201-018-212.ip-addr.vsenet.de']
+Data
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Connection: close
+Content-Security-Policy: default-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; connect-src *
+Content-Type: text/html
+Date: Thur, 08 Sep 2022 11:24:37 GMT
+Expires: Thu, 31 Dec 1999 00:00:00 GMT
+Feature-Policy: geolocation 'none'; midi 'none'; notifications 'none'; push 'none'; sync-xhr 'none'; microphone 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'; speaker 'none'; vibrate 'none'; fullscreen 'self'; payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: LANCOM
+Strict-Transport-Security: max-age=15552000
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+X-XSS-Protection: 1
+
+
+IP: 91.195.93.15
+Port: 8080
+Organisation: ALICJA MANIERA trading as MANIERA SERVICE
+Location: {'city': 'Bytom', 'region_code': '24', 'area_code': None, 'longitude': 18.8177, 'latitude': 50.3937, 'country_code': 'PL', 'country_name': 'Poland'}
+Layer: tcp
+Domains: ['wieszowanet.pl']
+Hostnames: ['host-91-195-93-15.wieszowanet.pl']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 13:24:42 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-11cf-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Sun, 05 May 2019 05:56:54 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 190505
+  Plugin Version: 3.0.7.10
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    localServiceControl: 1.0.0.0
+    NetStream.dll: 1.0.5.50
+    npWebVideoPlugin.dll: 3.0.7.10
+    PlayCtrl.dll: 7.3.6.80
+    StreamTransClient.dll: 1.1.3.15
+    SystemTransform.dll: 2.5.3.7
+    WebVideoActiveX.ocx: 3.0.7.10
+
+IP: 104.51.118.162
+Port: 81
+Organisation: AT&T Corp.
+Location: {'city': 'Kansas City', 'region_code': 'MO', 'area_code': None, 'longitude': -94.4061, 'latitude': 38.9659, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['sbcglobal.net']
+Hostnames: ['104-51-118-162.lightspeed.mssnks.sbcglobal.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 06:26:23 GMT
+Server: DNVRS-Webs
+ETag: "0-a02-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Fri, 03 Nov 2017 07:17:12 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.51 build 171103
+  Plugin Version: 3.0.6.27
+  Custom Version: DZ20171012_044
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.27
+    PlayCtrl.dll: 7.3.3.0
+    StreamTransClient.dll: 1.1.3.4
+    SystemTransform.dll: 2.5.1.8
+    WebVideoActiveX.ocx: 3.0.6.27
+
+IP: 51.187.133.173
+Port: 80
+Organisation: SKY UK Limited
+Location: {'city': 'Archway', 'region_code': 'ENG', 'area_code': None, 'longitude': -0.13415, 'latitude': 51.56733, 'country_code': 'GB', 'country_name': 'United Kingdom'}
+Layer: tcp
+Domains: ['skybroadband.com']
+Hostnames: ['33bb85ad.skybroadband.com']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 11:11:47 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1;mode=block
+ETag: "0-7f9-1e1"
+Content-Length: 481
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Thu, 29 Oct 2020 05:51:54 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 201029
+  Plugin Version: 3.0.7.38
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.9
+    localServiceControl: 1.0.0.11
+    NetStream.dll: 1.0.5.65
+    npWebVideoPlugin.dll: 3.0.7.38
+    PlayCtrl.dll: 7.3.9.46
+    StreamTransClient.dll: 1.1.3.17
+    SystemTransform.dll: 2.5.4.12
+    WebVideoActiveX.ocx: 3.0.7.38
+
+IP: 24.183.246.168
+Port: 80
+Organisation: Charter Communications
+Location: {'city': 'Clarksville', 'region_code': 'TN', 'area_code': None, 'longitude': -87.4186, 'latitude': 36.5853, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['spectrum.com']
+Hostnames: ['024-183-246-168.res.spectrum.com']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 05:24:33 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-9a4-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 18 Dec 2019 02:06:13 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.51 build 191218
+  Plugin Version: 3.0.7.1
+  Custom Version: DZP20191212018
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.47
+    npWebVideoPlugin.dll: 3.0.7.1
+    PlayCtrl.dll: 7.3.6.60
+    StreamTransClient.dll: 1.1.3.9
+    SystemTransform.dll: 2.5.3.5
+    WebVideoActiveX.ocx: 3.0.7.1
+
+IP: 66.229.104.160
+Port: 80
+Organisation: Comcast Cable Communications Holdings, Inc
+Location: {'city': 'Pompano Beach', 'region_code': 'FL', 'area_code': None, 'longitude': -80.2092, 'latitude': 26.2674, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['comcast.net']
+Hostnames: ['c-66-229-104-160.hsd1.fl.comcast.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 07:21:56 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-b2c-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Tue, 08 Sep 2020 07:24:14 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 20200828
+  Plugin Version: 3.0.6.46
+  Device Version: 4.1.50
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.46
+    npWebVideoPlugin.dll: 3.0.6.46
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.6.46
+
+IP: 14.241.120.210
+Port: 83
+Organisation: Vietnam Posts and Telecommunications Group
+Location: {'city': 'Da Nang', 'region_code': 'DN', 'area_code': None, 'longitude': 108.22083, 'latitude': 16.06778, 'country_code': 'VN', 'country_name': 'Viet Nam'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 18:13:43 GMT
+Server: DNVRS-Webs
+ETag: "0-898-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Tue, 19 Sep 2017 11:12:59 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 170915
+  Plugin Version: 3.0.6.28
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.28
+    PlayCtrl.dll: 7.3.3.64
+    StreamTransClient.dll: 1.1.3.7
+    SystemTransform.dll: 2.5.2.5
+    WebVideoActiveX.ocx: 3.0.6.28
+
+IP: 99.243.130.209
+Port: 80
+Organisation: Rogers Communications Canada Inc.
+Location: {'city': 'London', 'region_code': 'ON', 'area_code': None, 'longitude': -81.2391, 'latitude': 43.0443, 'country_code': 'CA', 'country_name': 'Canada'}
+Layer: tcp
+Domains: ['rogers.com']
+Hostnames: ['cpe5c7d7db70758-cm5c7d7db70756.cpe.net.cable.rogers.com']
+Data
+HTTP/1.1 200 OK
+Date: Wed, 07 Sep 2022 19:24:01 GMT
+Server: DNVRS-Webs
+ETag: "0-9b4-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Mon, 26 Nov 2018 03:10:29 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.51 build 181126
+  Plugin Version: 3.0.6.28
+  Custom Version: DZP20181116067
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.28
+    PlayCtrl.dll: 7.3.3.64
+    StreamTransClient.dll: 1.1.3.7
+    SystemTransform.dll: 2.5.2.5
+    WebVideoActiveX.ocx: 3.0.6.28
+
+IP: 47.53.69.143
+Port: 80
+Organisation: Vodafone US Inc.
+Location: {'city': 'Salerno', 'region_code': '72', 'area_code': None, 'longitude': 14.9187, 'latitude': 40.60393, 'country_code': 'IT', 'country_name': 'Italy'}
+Layer: tcp
+Domains: ['vodafonedsl.it']
+Hostnames: ['net-47-53-69-143.cust.vodafonedsl.it']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 13:17:40 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-ada-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 25 Sep 2019 08:02:22 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 190924
+  Plugin Version: 3.0.6.46
+  Device Version: 4.1.50
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.46
+    npWebVideoPlugin.dll: 3.0.6.46
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.6.46
+
+IP: 217.40.198.16
+Port: 80
+Organisation: BT Infrastructure Layer
+Location: {'city': 'Birmingham', 'region_code': 'ENG', 'area_code': None, 'longitude': -1.89983, 'latitude': 52.48142, 'country_code': 'GB', 'country_name': 'United Kingdom'}
+Layer: tcp
+Domains: ['btopenworld.com']
+Hostnames: ['host217-40-198-16.in-addr.btopenworld.com']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 11:57:50 GMT
+Server: DNVRS-Webs
+ETag: "0-5d6-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Tue, 26 Jun 2018 08:58:10 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 180626
+  Plugin Version: 3.0.6.27
+  Device Version: K75
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.27
+    PlayCtrl.dll: 7.3.3.0
+    StreamTransClient.dll: 1.1.3.4
+    SystemTransform.dll: 2.5.1.8
+    WebVideoActiveX.ocx: 3.0.6.27
+
+IP: 84.238.255.222
+Port: 70
+Organisation: Multimedia BG EOOD
+Location: {'city': 'Kostinbrod', 'region_code': '23', 'area_code': None, 'longitude': 23.21667, 'latitude': 42.81667, 'country_code': 'BG', 'country_name': 'Bulgaria'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 15:23:11 GMT
+Server: web
+X-Frame-Options: SAMEORIGIN
+ETag: "0-735-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Mon, 03 Sep 2018 02:25:58 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 180903
+  Plugin Version: 3.0.6.27
+  Device Version: 3.4.87-modify
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.27
+    PlayCtrl.dll: 7.3.3.0
+    StreamTransClient.dll: 1.1.3.7
+    SystemTransform.dll: 2.5.2.5
+    WebVideoActiveX.ocx: 3.0.6.27
+
+IP: 216.230.146.122
+Port: 80
+Organisation: Telgua
+Location: {'city': 'Guatemala City', 'region_code': 'GU', 'area_code': None, 'longitude': -90.51327, 'latitude': 14.64072, 'country_code': 'GT', 'country_name': 'Guatemala'}
+Layer: tcp
+Domains: ['intelnet.net.gt']
+Hostnames: ['122.146.static.intelnet.net.gt']
+Data
+HTTP/1.1 200 OK
+Date: Fri, 09 Jan 1970 18:40:16 GMT
+Server: DNVRS-Webs
+ETag: "0-802-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Fri, 16 Dec 2016 08:03:16 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.51 build 161216
+  Plugin Version: 3.0.6.6
+  Custom Version: DZ20161207_053
+  ActiveX Files:
+    AudioIntercom.dll: 1.2.0.1
+    NetStream.dll: 1.0.5.37
+    npWebVideoPlugin.dll: 3.0.6.6
+    PlayCtrl.dll: 7.3.0.0
+    StreamTransClient.dll: 1.1.3.4
+    SystemTransform.dll: 2.5.1.4
+    WebVideoActiveX.ocx: 3.0.6.6
+
+IP: 190.141.40.185
+Port: 80
+Organisation: Cable Onda
+Location: {'city': 'Panamá', 'region_code': '8', 'area_code': None, 'longitude': -79.51973, 'latitude': 8.9936, 'country_code': 'PA', 'country_name': 'Panama'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 06:24:24 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-8ea-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Sun, 28 Jun 2020 02:17:11 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 200628
+  Plugin Version: 3.0.7.51
+  Device Version: 4.1.50
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.57
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.17
+    SystemTransform.dll: 2.5.1.8
+    WebVideoActiveX.ocx: 3.0.7.51
+
+IP: 189.250.98.174
+Port: 80
+Organisation: Uninet S.A. de C.V.
+Location: {'city': 'Oaxaca', 'region_code': 'OAX', 'area_code': None, 'longitude': -96.7236, 'latitude': 17.0654, 'country_code': 'MX', 'country_name': 'Mexico'}
+Layer: tcp
+Domains: ['prod-infinitum.com.mx']
+Hostnames: ['dsl-189-250-98-174-dyn.prod-infinitum.com.mx']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 05:24:23 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1;mode=block
+ETag: "0-606-1e1"
+Content-Length: 481
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Thu, 29 Oct 2020 05:46:21 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 201029
+  Plugin Version: 3.0.7.51
+  ActiveX Files:
+    NetStream.dll: 1.0.5.57
+    PlayCtrl.dll: 7.3.7.0
+    StreamTransClient.dll: 1.1.3.17
+    SystemTransform.dll: 2.5.1.8
+    WebVideoActiveX.ocx: 3.0.7.51
+
+IP: 50.79.114.126
+Port: 80
+Organisation: Comcast Cable Communications, LLC
+Location: {'city': 'Chicago', 'region_code': 'IL', 'area_code': None, 'longitude': -87.65005, 'latitude': 41.85003, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['comcastbusiness.net']
+Hostnames: ['50-79-114-126-static.hfc.comcastbusiness.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 06:24:23 GMT
+Server: DNVRS-Webs
+ETag: "0-9a8-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+X-FRAME-OPTIONS: SAMEORIGIN
+Last-Modified: Tue, 30 Jan 2018 06:13:03 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.51 build 180130
+  Plugin Version: 3.0.6.2701
+  Custom Version: DZ20180129_041
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    LTSWebVideoActiveX.ocx: 3.0.6.2701
+    NetStream.dll: 1.0.5.41
+    npLTSWebVideoPlugin.dll: 3.0.6.2701
+    PlayCtrl.dll: 7.3.3.0
+    StreamTransClient.dll: 1.1.3.7
+    SystemTransform.dll: 2.5.2.5
+
+IP: 186.4.206.194
+Port: 80
+Organisation: Telconet S.A
+Location: {'city': 'Quito', 'region_code': 'P', 'area_code': None, 'longitude': -78.52495, 'latitude': -0.22985, 'country_code': 'EC', 'country_name': 'Ecuador'}
+Layer: tcp
+Domains: ['netlife.ec']
+Hostnames: ['host-186-4-206-194.netlife.ec']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 06:05:16 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-1953-1e1"
+Content-Length: 481
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Fri, 09 Apr 2021 04:01:02 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 210409
+  Plugin Version: 3.0.7.500
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    localServiceControl: 1.0.0.11
+    NetStream.dll: 1.0.5.57
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.7.500
+
+IP: 66.42.221.17
+Port: 80
+Organisation: CINCINNATI BELL
+Location: {'city': 'Cincinnati', 'region_code': 'OH', 'area_code': None, 'longitude': -84.502, 'latitude': 39.1072, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['fuse.net']
+Hostnames: ['ro1-dsl-66-42-221-17.fuse.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 07:34:41 GMT
+Server: DNVRS-Webs
+ETag: "0-d3b-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+X-FRAME-OPTIONS: SAMEORIGIN
+Last-Modified: Mon, 11 Jun 2018 12:31:16 GMT
+
+
+TruVision NVR/DVR/IP Camera:
+  Web Version: 4.0.51 build 180611
+  Plugin Version: 3.0.6.52
+  Custom Version: DZ20180528_018
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    NetStream.dll: 1.0.5.41
+    npUTCWebVideoPlugin.dll: 3.0.6.53
+    PlayCtrl.dll: 7.3.0.105
+    StreamTransClient.dll: 1.1.3.7
+    SystemTransform.dll: 2.5.2.5
+    UTCWebVideoActiveX.ocx: 3.0.6.53
+
+IP: 84.224.198.128
+Port: 80
+Organisation: Yettel Hungary Ltd.
+Location: {'city': 'Siófok', 'region_code': 'SO', 'area_code': None, 'longitude': 18.058, 'latitude': 46.90413, 'country_code': 'HU', 'country_name': 'Hungary'}
+Layer: tcp
+Domains: ['yettel.hu']
+Hostnames: ['netacc-gpn-4-198-128.pool.yettel.hu']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 13:24:21 GMT
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+ETag: "574-258-60950506"
+Content-Length: 600
+Content-Type: text/html
+Connection: close
+Last-Modified: Fri, 07 May 2021 09:14:46 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 210329
+  Plugin Version: 3.0.7.29
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.9
+    localServiceControl: 1.0.0.9
+    NetStream.dll: 1.0.5.59
+    PlayCtrl.dll: 7.3.7.0
+    StreamTransClient.dll: 1.1.3.17
+    SystemTransform.dll: 2.5.3.9
+    WebVideoActiveX.ocx: 3.0.7.29
+
+IP: 77.71.61.215
+Port: 8008
+Organisation: VNLAN ISP Varna
+Location: {'city': 'Varna', 'region_code': '03', 'area_code': None, 'longitude': 27.91667, 'latitude': 43.21667, 'country_code': 'BG', 'country_name': 'Bulgaria'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 14:24:20 GMT
+Server: App-webs/
+ETag: "6b8-67a-51340b03"
+Content-Length: 1658
+Content-Type: text/html
+Connection: close
+Last-Modified: Mon, 04 Mar 2013 02:46:27 GMT
+
+
+Hikvision IP Camera:
+  ActiveX Files:
+    NetStream.dll: 1.0.3.1
+    npWebVideoPlugin.dll: 3.0.4.6
+    PlayCtrl.dll: 6.4.1.1
+    StreamTransClient.dll: 1.1.1.13
+    SystemTransform.dll: 2.2.0.5
+    WebVideoActiveX.ocx: 3.0.4.6
+
+IP: 188.25.99.248
+Port: 80
+Organisation: RCS & RDS Residential
+Location: {'city': 'Domnești', 'region_code': 'IF', 'area_code': None, 'longitude': 25.91618, 'latitude': 44.39919, 'country_code': 'RO', 'country_name': 'Romania'}
+Layer: tcp
+Domains: ['rdsnet.ro']
+Hostnames: ['188-25-99-248.rdsnet.ro']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 14:24:20 GMT
+Server: webserver
+X-Frame-Options: SAMEORIGIN
+ETag: "3dd-1e0-5da447f4"
+Content-Length: 480
+Content-Type: text/html
+Connection: close
+Last-Modified: Mon, 14 Oct 2019 10:03:32 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 190805
+  Plugin Version: 3.0.6.46
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.46
+    npWebVideoPlugin.dll: 3.0.6.46
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.9
+    SystemTransform.dll: 2.5.3.3
+    WebVideoActiveX.ocx: 3.0.6.46
+
+IP: 97.122.182.173
+Port: 80
+Organisation: CenturyLink Communications, LLC
+Location: {'city': 'Denver', 'region_code': 'CO', 'area_code': None, 'longitude': -104.9312, 'latitude': 39.7086, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['qwest.net']
+Hostnames: ['97-122-182-173.hlrn.qwest.net']
+Data
+HTTP/1.1 200 OK
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html
+X-Content-Type-Options: nosniff
+Date: Thu, 08 Sep 2022 05:25:43 GMT
+ETag: 1659108176
+Content-Length: 481
+X-XSS-Protection: 1; mode=block
+Last-Modified: Tue, 14 Sep 2021 03:07:17 GMT
+Connection: Keep-Alive
+Accept-Ranges: bytes
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 210914
+  Plugin Version: 3.0.7.500
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    localServiceControl: 1.0.0.11
+    NetStream.dll: 1.0.5.57
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.7.500
+
+IP: 81.134.81.76
+Port: 81
+Organisation: BT Infrastructure Layer
+Location: {'city': 'Dagenham', 'region_code': 'ENG', 'area_code': None, 'longitude': 0.16667, 'latitude': 51.55, 'country_code': 'GB', 'country_name': 'United Kingdom'}
+Layer: tcp
+Domains: ['btcentralplus.com']
+Hostnames: ['host81-134-81-76.range81-130.btcentralplus.com']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 12:27:44 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-1571-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Sun, 30 Sep 2018 02:26:46 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 180929
+  Plugin Version: 3.0.6.46
+  Device Version: 4.1.50
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.46
+    npWebVideoPlugin.dll: 3.0.6.46
+    PlayCtrl.dll: 7.3.5.43
+    StreamTransClient.dll: 1.1.3.9
+    SystemTransform.dll: 2.5.3.3
+    WebVideoActiveX.ocx: 3.0.6.46
+
+IP: 96.10.150.41
+Port: 81
+Organisation: Charter Communications Inc
+Location: {'city': 'Columbia', 'region_code': 'SC', 'area_code': None, 'longitude': -81.0265, 'latitude': 34.0635, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['rr.com']
+Hostnames: ['rrcs-96-10-150-41.midsouth.biz.rr.com']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 06:33:55 GMT
+Server: App-webs/
+ETag: "fdd-1e1-59ba2198"
+Content-Length: 481
+Content-Type: text/html
+Connection: close
+Last-Modified: Thu, 14 Sep 2017 06:28:40 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.52 build 170914
+  Plugin Version: 3.0.6.15
+  Custom Version: DZ20170817_074
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.0
+    NetStream.dll: 1.0.5.39
+    npWebVideoPlugin.dll: 3.0.6.15
+    PlayCtrl.dll: 7.3.2.74
+    StreamTransClient.dll: 1.1.3.6
+    SystemTransform.dll: 2.5.1.13
+    WebVideoActiveX.ocx: 3.0.6.15
+
+IP: 173.185.174.54
+Port: 80
+Organisation: Windstream Communications LLC
+Location: {'city': 'Godley', 'region_code': 'TX', 'area_code': None, 'longitude': -97.52669, 'latitude': 32.44903, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['windstream.net']
+Hostnames: ['actntxactnzov12.dnoc.windstream.net']
+Data
+HTTP/1.1 200 OK
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html
+X-Content-Type-Options: nosniff
+Date: Thu, 08 Sep 2022 06:17:18 GMT
+ETag: 1646836514
+Content-Length: 481
+X-XSS-Protection: 1; mode=block
+Last-Modified: Wed, 09 Dec 2020 06:45:20 GMT
+Connection: Keep-Alive
+Accept-Ranges: bytes
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1.0 build 201209
+  Plugin Version: 3.0.7.38
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.9
+    localServiceControl: 1.0.0.11
+    NetStream.dll: 1.0.5.65
+    npWebVideoPlugin.dll: 3.0.7.38
+    PlayCtrl.dll: 7.3.9.46
+    StreamTransClient.dll: 1.1.3.17
+    SystemTransform.dll: 2.5.4.12
+    WebVideoActiveX.ocx: 3.0.7.38
+
+IP: 211.199.139.77
+Port: 80
+Organisation: Korea Telecom
+Location: {'city': 'Daejeon', 'region_code': '30', 'area_code': None, 'longitude': 127.4251, 'latitude': 36.3962, 'country_code': 'KR', 'country_name': 'Korea, Republic of'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 20:24:15 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-a56-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 25 Sep 2019 08:02:22 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 190924
+  Plugin Version: 3.0.6.46
+  Device Version: 4.1.50
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.46
+    npWebVideoPlugin.dll: 3.0.6.46
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.6.46
+
+IP: 54.200.43.248
+Port: 28017
+Organisation: Amazon.com, Inc.
+Location: {'city': 'Boardman', 'region_code': 'OR', 'area_code': None, 'longitude': -119.70058, 'latitude': 45.83986, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['amazonaws.com']
+Hostnames: ['ec2-54-200-43-248.us-west-2.compute.amazonaws.com']
+Data
+HTTP/1.1 302 Found
+Date: Thu, 08 Sep 2022 11:24:16 GMT
+X-Powered-By: PHP/5.6.20-0+deb8u1
+Server: dcv 2wire Gateway 4D_WebSTAR_S/5.0 4D_WebSTAR_S/5.102.1 5.1.2600 2/Service Pack 3, UPnP/1.0, TVersity Media Server 5.2.3790 2/Service Pack 1, UPnP/1.0, TVersity Media Server 6.0.6000 2/, UPnP/1.0, TVersity Media Server 6.1.7600 2/, UPnP/1.0, TVersity Media Server 6.2.8400 2/, UPnP/1.0, TVersity Media Server 6.2.9200 2/, UPnP/1.0, TVersity Media Server Abyss/1.0.3 Abyss/2.0.0.20-X1-Win32 AbyssLib/2.0.0.20 Abyss/2.3.2-X1-Win32 AbyssLib/2.3.2 Acme.Serve/v1.7 of 13nov96 AdSubtract Ag [47] Agranat-EMWeb Agranat-EmWeb/R4_01 Agranat-EmWeb/R5_1_2 Agranat-EmWeb/R5_2_4 Agranat-EmWeb/R5_2_6 AirTunes/220.68 AkamaiGHost alibaba allegro-software Allegro-Software-RomPager Allegro-Software-RomPager/ 2.10 Allegro-Software-RomPager/4.01 Allegro-Software-RomPager/4.30b3 Amazon-Cloud-Drive AmazonS3 Amazon SimpleDB AmazonSnowball american sitebuilder AMT aolserver apache Apache Apache/0.6.5 Apache/1 Apache/1.1.3 Apache/1.2.42 (PalmOS) Apache/1.3.27 Apache/1.3.28 (SolutionIP) mod_perl/1.28 mod_ssl/2.8.15 OpenSSL/0.9.7b Apache/1.3.28 (Unix) Apache/1.3.28 (Unix) mod_auth_pam/1.1.1 APACHE/1.3.9 Apache/2 Apache/2.0.43 Apache/2.2.3 (Red Hat) Apache/2.2.4 (Win32) PHP/5.2.2 Apache/2.2.4 (Win32) PHP/5.2.3 Apache-AdvancedExtranetServer/2.0.44 (Mandrake Linux/11mdk) mod_perl/1.99_08 Perl/v5.8.0 mod_ssl/2.0.44 OpenSSL/0.9.7a PHP/4.3.1 mod_jk2/2.0.0 Apache-AdvancedExtranetServer/2.0.47 (Mandrake Linux/6.12.92mdk) mod_perl/1.99_09 Perl/v5.8.1 mod_ssl/2.0.47 OpenSSL/0.9.7b PHP/4.3.2 Apache-AdvancedExtranetServer/2.0.47 (Mandrake Linux/6.3.92mdk) mod_ssl/2.0.47 OpenSSL/0.9.7b PHP/4.3.2 Apache-AdvancedExtranetServer/2.0.48 (Mandrake Linux/6.8.100mdk) mod_perl/1.99_11 Perl/v5.8.3 mod_ssl/2.0.48 OpenSSL/0.9.7c PHP/4.3.4 Apache-AdvancedExtranetServer/2.0.48 (Mandrake Linux/6mdk) PHP/4.3.4 Apache-AdvancedExtranetServer/2.0.53 (Mandrakelinux/PREFORK-9mdk) mod_ssl/2.0.53 OpenSSL/0.9.7e PHP/4.3.10 mod_perl/1.999.21 Perl/v5.8.6 Apache Coyote/1.0 Apache-Coyote/1.1 apachejserv/1.0.1 apache-ssl-us Apache Tomcat Apache Tomcat/4.0.3 Apache Tomcat/4.0.6 (HTTP/1.1 Connector) Apache Tomcat/4.1.10 Apache Tomcat/4.1.12 (HTTP/1.1 Connector) Apache Tomcat/4.1.27-LE-jdk14 (HTTP/1.1 Connector) aserve Aspen/0.8 ASP.NET ATPhttpd Avaya CMBE/2 Avaya CMBE/2.0.0 avenida Avirt Avocent DSView 3/3 Avocent DSView 3/3.7.0.71 AV-TECH AV787 Video Web Server awhttpd awselb/2.0 BBC 05.20.050; coda 10.00.123 BBC 06.00.083; ovbbccb 06.00.083 BBC 11.00.044; ovbbcrcp 11.00.044 BBC 11.10.035; ovbbccb 11.10.035 BBC 11.13.007; ovbbccb unknown version BBC 2.6.0.7; com.hp.openview.bbc.LLBServer 2.6.0.7 BBC 2.6.0.7; com.hp.openview.Coda 0.0.1 BigIP BIG-IP bkhttp/0.3 Blazix/1.2.1 BlueCoat-Security-Appliance boa Boa/0.92p OS-9 Version Boa/0.93.15 Boa/0.93.15 (with Intersil Extensions) Boa/0.94.14rc18-ipcam Boa/0.94.14rc21 boulevard Brickserver Modifications camera cern chainpoint-node ChaiServer Check Point SVN foundation Cherokee/0.2.7 CherryPy/3 CherryPy/3.1.2 Cisco AWARE 2.0 cisco-CPA cisco ios cisco-IOS cisco-IOS/12.1 HTTP-server/1.0(1) Citrix Web PN Server cl-http cloudflare cloudflare-nginx CloudFront Cobalt com.hp.openview.bbc.LLBServer 2.6.8.1 com.hp.openview.Coda 0.0.1 commerce-builder CompaqHTTPServer CompaqHTTPServer/4.1 CompaqHTTPServer/9.9 HP System Management Homepage CompaqHTTPServer/9.9 HP System Management Homepage/2.1.5.146 CompaqHTTPServer/9.9 HP System Management Homepage/3.0.1.73 httpd/2.2.6+ CompaqHTTPServer/9.9 HP System Management Homepage/6.0.0.96 httpd/2.2.6+ Conexant-EmWeb/R6_1_0 cosmos CouchDB/2.1.1 (Erlang OTP/20) Cougar/9.01.01.3841 cpaneld cpsrvd cpsrvd/11.44.3.0 CradlepointHTTPService/1.0.0 Cross Web Server CUPS/1.1 CUPS/1.7 IPP/2.1 cwpsrv Darwin/10.2.0, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Debian/4.0r8 DLNADOC/1.50 UPnP/1.0 MiniDLNA/1.0 Debian/4.0 UPnP/1.0 miniupnpd/1.0 Debian/wheezy/sid UPnP/1.1 MiniUPnPd/1.8 DeleGate/7.7.0 DNVRS-Webs DrayTek/Vigor2130 UPnP/1.0 miniupnpd/1.0 DVRDVS-Webs dwhttpd EHTTP/1.1 eHTTP v2.0 Embedded HTTP Server Embedthis-Appweb/3.2.3 Embedthis-http Embedthis-http/4.0.0 emwac EnergyICT RTU 101-F25CE1-1524 enterpriseweb Eserv/2.97 Essentia/2.1 Ews/0 Ews/0.1 EWS-NIC3/6.31 EWS-NIC4/13.39 EWS-NIC4/13.40 falcon Fedora/10 UPnP/1.0 MiniUPnPd/1.4 Fedora/8 UPnP/1.0 miniupnpd/1.0 FedoraCore/6 UPnP/1.0 miniupnpd/1.0 fnord Folkweb FreeBSD/8.2-RELEASE-p4 DLNADOC/1.50 UPnP/1.0 MiniDLNA/1.0.24 frontier frontpage FUHO-DVR GFE/1 GFE/1.3 GlassFish GoAhead-Webs GoAhead-Webs/2.5.0 GoAhead-Webs/2.5.0 PeerSec-MatrixSSL/3.4.2-OPEN Gordian Embedded goserve gosite gSOAP/2.7 gunicorn/19.7.1 gws HeiTel GmbH Web Server [V1.15/V1.14/V1.3] HeiTel GmbH Web Server [V1.26/V1.15/V1.7] Helix Server Version 9.0.4.960 (linux-2.2-libc6-i586-server) (RealServer compatible) Helix Server Version 9.0.4.960 (win32) (RealServer compatible) hellbent java webserver v0.1 Hikvision-Webs homedoor HP Apache-based Web Server/1.3.26 (Unix) HP Apache-based Web Server/1.3.26 (Unix) mod_ssl/2.8.9 OpenSSL/0.9.6c HP-ChaiServer/2.2 HP-ChaiSOE/1.0 HP HTTP Server; Hewlett-Packard HP Designjet T520 36in - ABC123; Serial Number: 0123456789; Built:Tue Sep 09, 2014 08:32:54AM {012345678901} HP HTTP Server; HP Officejet 6500 E709n - CB057A; Serial Number: abc123; Rainbow Built:Sat Dec 13, 2008 10:58:21AM {abc123, ASIC id 0x00ffc2105} HP HTTP Server; HP Photosmart C309a series - CC335A; Serial Number: abc123; Vader Built:Wed Apr 15, 2009 11:40:58AM {abc123, ASIC id 0x00280004} HP-iLO-Server/1.30 HPSMH HP Web Jetadmin 10.3.85669 HP Web Jetadmin 10.3.91358 (10.3 SR5) HP Web Jetadmin/2.0.50 (Win32) mod_auth_sspi/1.0.1 mod_ssl/2.0.50 OpenSSL/0.9.6m HP Web Jetadmin/2 (Win32) mod_auth_sspi/1.0.1 mod_ssl/2.0.50 OpenSSL/0.9.6m HP-Web-Server httpd HttpFileServer httpd hyperwave IBM_HTTP_Server IBM_HTTP_SERVER IBM-HTTP-Server/1.0 IBM_HTTP_Server/1.3.12 Apache/1.3.12 (Unix) IBM_HTTP_SERVER/1.3.19.2  Apache/1.3.20 (Win32) IBM_HTTP_SERVER/1.3.28.1-PK16139  Apache/1.3.28 (Unix) IBM_HTTP_Server/2.0.42.2-PK25355 Apache/2.0.47 (Unix) DAV/2 IBM_HTTP_Server/2.0.47.1 Apache/2.0.47 (Unix) DAV/2 PHP/4.3.8 IBM_HTTP_Server/2.0.47.1-PK01070 Apache/2.0.47 (Win32) PHP/5.0.4 IBM_HTTP_Server/6.0.2.19 Apache/2.0.47 (Unix) IBM_HTTP_Server/6.0.2 Apache/2.0.47 (Unix) IBM_HTTP_Server/6.0 Apache/2.0.47 (Unix) DAV/2 IBM_HTTP_Server/6.1 Apache/2.0.47 (Win32) PHP/5.1.1 IBM_HTTP_Server/7.0.0.9 (Unix) IBM HTTP Server/V5R3M0 ibm internet connection server IdeaWebServer/0.83.74 IdeaWebServer/v0.70 Intel(R) Active Management Technology Intel(R) Active Management Technology 7.1.86 Intel(R) Standard Manageability 5.0.50 Intel(R) Standard Manageability 9.0.3 IPCamera Login IPG8000 iPlanet-Web-Proxy-Server/3.6 iPlanet-Web-Proxy-Server/3.6-SP5 ipos/7.0 UPnP/1.0 TL-WR740N/1.0 ipos/7.0 UPnP/1.0 TL-WR740N/1.0/2.0 ipos/7.0 UPnP/1.0 TL-WR740N/4.0 ipos/7.0 UPnP/1.0 TL-WR741N/1.0/2.0 ipos/7.0 UPnP/1.0 TL-WR741N/4.0 ipos/7.0 UPnP/1.0 TL-WR841N/6.0/7.0 ipos/7.0 UPnP/1.0 TL-WR841N/8.0 ipos/7.0 UPnP/1.0 TL-WR940N/1.0 ipos/7.0 UPnP/1.0 TL-WR941N/2.0 Ipswitch-IMail/5.08 Ipswitch-IMail/7.07 Ipswitch-IMail/7.11 Ipswitch-IMail/8.05 ISOS/9.0 UPnP/1.0 Conexant-EmWeb/R6_1_0 Jaguar Server jakarta-tomcat-4.0.1 JavaWebServer JBoss-EAP/7 JC-HTTPD/1 JC-HTTPD/1.11.14 JC-SHTTPD/1 JC-SHTTPD/1.17.20 JetAdmin Jetty(1.4.5) Jetty/4.0.1 (SunOS 5.8 sparc) Jetty/4.2.23 (SunOS/5.9 sparc java/1.4.2_04) Jetty/4.2.x (VxWorks/WIND version 2.9 ppc java/1.1-rr-std-b12) Jetty/5.1.10 (Linux/2.6.12 i386 java/1.5.0_05) Jetty/5.1.4 (Windows Server 2008 R2/6.1 x86 java/1.5.0_22 Jetty(6.1.12.rc2) Jetty(7.6.9.v20130131) Jetty(8.1.10.v20130312) Jetty(9.4.z-SNAPSHOT) JRun/3.1 KazaaClient kHTTPd 0.1.6 LabVIEW/5.1.1 Lasso/3.6.5 lighttpd lighttpd/1.3.7 (Mar 23 2007/16:00:15) lighttpd/1.4.16 LilHTTP/2.1 Linux/2.4.18_mvl30-ixdp425, UPnP/1.0, Intel SDK for UPnP devices/1.3.1 Linux/2.4.20-46.7asp, UPnP/1.0, Portable SDK for UPnP devices/1.6.17 Linux/2.4.21 UPnP/1.0 miniupnpd/1.0 LINUX/2.4 UPnP/1.0 BRCM400/1.0 Linux/2.6.10_dev-malta-mips2_fp_le, UPnP/1.0, Intel SDK for UPnP devices /1.2 Linux/2.6.10-iop1-1, UPnP/1.0, Portable SDK for UPnP devices/1.4.1 Linux/2.6.12-5.1-brcmstb-dm800, UPnP/1.0, Portable SDK for UPnP devices/1.6.0 Linux/2.6.12.6-arm1-040, UPnP/1.0, Portable SDK for UPnP devices/1.6.5.2 Linux/2.6.12.6-VENUS, UPnP/1.0, Portable SDK for UPnP devices/1.6.10 Linux/2.6.13, UPnP/1.0, Portable SDK for UPnP devices/1.6.0 Linux/2.6.18_pro500-davinci_N03A_IPCAM_1.0-g5c649288-dirty, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.23.17_stm23_0125dorade00 UPnP/1.0 DLNADOC/1.50 Portable SDK for UPnP devices/1.4.6-5 Linux/2.6.28-11-server, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.28-17-generic, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.28.1-xxxx-std-ipv4-32, UPnP/1.0, Portable SDK for UPnP devices/1.4.3 Linux/2.6.28, UPnP/1.0, Portable SDK for UPnP devices/1.6.10 Linux/2.6.29.6-217.2.3.fc11.i686.PAE UPnP/1.0 miniupnpd/1.0 Linux/2.6.32-220.7.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.14 Linux/2.6.32-24-generic, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.32-279.11.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.14 Linux/2.6.32-279.1.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.13 Linux/2.6.32-279.14.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.14 Linux/2.6.32-279.14.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.15 Linux/2.6.36+ DLNADOC/1.50 UPnP/1.0 MiniDLNA/1.0 Linux/3.0.8 UPnP/1.0 DLNADOC/1.50 Portable SDK for UPnP devices/1.6.6 Linux-amd64-2.6.18-238.9.1.el5, UPnP/1.0, PMS/1.52.1 Linux/Cross_compiled UPnP/1.0 miniupnpd/1.0 Linux-i386-2.6.33.2, UPnP/1.0, PMS/1.21.1 Linux Mips 2.4.20 UPnP/1.0 MiniUPnPd/1.2 Linux UPnP/1.0 Huawei-ATP-IGD Linux, UPnP/1.0, Intel SDK for UPnP devices /1.2 Linux UPnP/1.0 Sonos/31.3-22220 (ANVIL) Linux UPnP/1.0 Sonos/34.16-37101 (ZP120) Linux UPnP/1.0 Sonos/36.4-41270 (WD100) Linux UPnP/1.0 Sonos/39.2-47040c (ZPS1) Linux UPnP/1.0 Sonos/47.2-59120 (BR100) Linux UPnP/1.0 Sonos/47.2-59120 (ZPS3) ListManagerWeb/8.8a (based on Tcl-Webserver/3.4.2) LiteSpeed LiteSpeed/5.2.8 Enterprise Lotus Lotus-Domino Lotus-Domino/0 Lotus-Domino/5.0.8 Lotus-Domino/Release Lotus-Domino/Release-4.6.7(Intl) Lotus Expeditor Web Container/6 Lotus Expeditor Web Container/6.1 Loxone Miniserver some name UPnP/1.0 Mac_OS_X-x86_64-10.5.8, UPnP/1.0, PMS/1.20 Mbedthis-Appweb/2 Mbedthis-Appweb/2.4.0 Mbedthis-AppWeb/2.4.0 Mbedthis-Appweb/2.4.2 micro_httpd Microplex emHTTPD/1 Microplex emHTTPD/1.0 Microplex emHTTPD/1.1 Microsoft-HTTPAPI/2.0 Microsoft-IIS Microsoft-IIS/4.0 Microsoft-IIS/5.0 Microsoft-IIS/5.1 Microsoft-IIS/6.0 Microsoft-IIS/7.0 Microsoft-IIS/7.5 Microsoft-IIS/8.0 Microsoft-IIS/8.5 Microsoft-IIS/9.0 Microsoft-PWS/4.0 Microsoft-PWS-95/4.0 Microsoft-WinCE/4.10 Microsoft-WinCE/4.20 Microsoft-WinCE/5.0 Microsoft WinCE Fidelix v11.50.29 Mikrotik HttpProxy Mini Dome IP Camera mini_httpd mini_httpd/1.14 23jun2000 mini_httpd/1 23jun2000 MiniServ/0.01 mod_security/1.71 Mongrel 1 Mongrel 1.1.5 Monkey/0.6.2 MS-MFC-HttpSvr/1.0 MS .NET Remoting, MS .NET CLR 2.0.50727.42 mt-daapd/0.2.4.1 mt-daapd/svn-999 myCIO Mylo/0.2.0 MyWebServer/1.01 ncsa neowebscript NetApp/7.2.1.1 NetApp/7.3.4P1 NetApp//8.1RC2 NetCache appliance (NetApp/5.3.1R3) NetCache appliance (NetApp/5.4R2D2) NetCache appliance (NetApp/5.6.1D22) NetCache appliance (NetApp/6.0.2P1) NetCache appliance (NetApp/6.0.4) NetCache appliance (NetApp/6.1RC2) netcloak NET-DK/1.0 NET-DK 1.1 Netgear/1.0 UPnP/1.0 miniupnpd/1.0 netpresenz Netscape-Enterprise/3.5.1 Netscape-Enterprise/3.6 SP3 Netscape-Enterprise/6.0 NetWare Netwave IP Camera nginx nginx/0.8.53 nginx/0.8.53 + Phusion Passenger 3.0.0 (mod_rails/mod_rack) nginx + Phusion Passenger nginx + Phusion Passenger 5.1.11 Niagara Web Server/3.8.111 NS_6.1 NSC/0.6.4 (JVM) nsl Nucleus/4.3 UPnP/1.0 Virata-EmWeb/R6_2_0 NULLhttpd/0.5.1 OmniHTTPd open-market-secure-webserver openresty openresty/1.13.6.2 OpenTV/5.40 OpenVPN-AS OpenWRT/kamikaze UPnP/1.0 MiniUPnPd/1.2 OpenWRT/kamikaze UPnP/1.0 MiniUPnPd/1.4 OpenWRT/kamikaze UPnP/1.0 MiniUPnPd/1.5 Oracle9iAS/9.0.2.3.0 Oracle HTTP Server Oracle9iAS-Web-Cache/9.0.2.3.0 (N) Oracle9iAS/9.0.3.1 Oracle HTTP Server Oracle9iAS-Web-Cache/9.0.3.1.0 (N) Oracle-Application-Server-10g Oracle-Application-Server-10g/10.1.2.0.2 Oracle-HTTP-Server Oracle-Application-Server-10g/10.1.2.2.0 Oracle-HTTP-Server OracleAS-Web-Cache-10g/10.1.2.2.0 (N;ecid=153541209221,0) Oracle-Application-Server-10g/10.1.2.2.0 Oracle-HTTP-Server (Unix) mod_plsql/10.1.2.2.0 mod_ossl/10.1.2.0.0 mod_perl/1.29 OracleAS-Web-Cache-10g/10.1.2.0.2 (N;ecid=89116016562,0) Oracle Application Server/10g (10.1.2) Apache/1.3.34 (Unix) mod_perl/1.29 mod_jk/1.2.14 OracleAS-Web-Cache-10g/10.1.2.0.2 (N;ecid=119642322340,0) Oracle-Application-Server-10g/9.0.4.1.0 Oracle-HTTP-Server Oracle-Application-Server-11g Oracle Application Server Containers for J2EE 10g (9.0.4.0.0) Oracle Applications One-Hour Install Oracle Containers for J2EE Oracle HTTP Server Powered by Apache Oracle HTTP Server Powered by Apache/1.3.12 (Unix) ApacheJServ/1.1 mod_ssl/2.6.4 OpenSSL/0.9.5a Oracle HTTP Server Powered by Apache/1.3.19 (Unix) mod_plsql/3.0.9.8.3b PHP/4.3.10 mod_fastcgi/2.2.10 mod_perl/1.25 mod_oprocmgr/1.0 Oracle HTTP Server Powered by Apache/1.3.19 (Win32) mod_ssl/2.8.1 OpenSSL/0.9.5a mod_fastcgi/2.2.10 mod_oprocmgr/1.0 mod_perl/1.25 Oracle_Web_Listener Oracle XML DB/Oracle9i Enterprise Edition Release 9.2.0.1.0 - Production Oracle XML DB/Oracle9i Enterprise Edition Release 9 - Production Oracle XML DB/Oracle Database os2httpd PanWeb Server/ - PDR-M800/1.0 PHP/4.0.3 PHP/4.0.5 PHP/4.4.2-1build1 PHP/5.1.2 PHP/5.3.14 ZendServer/5.0 PHP/7.1 phttpd Pi3Web/2.0 plexus Polycom SoundPoint IP Telephone HTTPd powerweb process $ProjectRevision: 4.0.2.38 $ PWS QTSS/5.0.3.3 (Build/452.22.4; Platform/MacOSX; Release/Panther; Update/Security; ) QTSS/5.0 (Build/452; Platform/MacOSX; Release/Panther; ) QTSS/6.1.0 (Build/532; Platform/MacOSX; Release/Mac OS X Server; ) RapidLogic Rapid Logic/1 Rapid Logic/1.1 Raptor Simple, Secure Web Server 1.0 RealVNC/4.0 ReeCam IP Camera Resin/1 Resin/2.1.1 Resin/2.1.13 Resin/2.1.s030827 Resin/3.0.23 Roku UPnP/1.0 MiniUPnPd/1.4 Roku UPnP/1.0 Roku/8.1.6 RomPager/4.07 UPnP/1.0 RouterOS/6.43UPnP/1.0 MikroTik UPnP/1.0 roxen RT-G32 UPnP/1.0 MiniUPnPd/1.2 Rumpus rushhour sambar/5.1 Savant/3.1 ScriptEase/0.95 Security Console SentinelKeysServer/1 SentinelKeysServer/1.0 SentinelKeysServer/1.3.1 SentinelProtectionServer/7 SentinelProtectionServer/7.0 SentinelProtectionServer/7.1 SentinelProtectionServer/7.3 SEPM servermgrd serverseven Servlet 2.4; JBoss-4.0.4.GA (build: CVSTag=JBoss_4_0_4_GA date=200605151000)/Tomcat-5.5 Servlet 2.4; JBoss-4.2.3.GA (build: SVNTag=JBoss_4_2_3_GA date=200807181439)/JBossWeb-2.0 Servlet 2.4; Tomcat-5.0.28/JBoss-4.0.1sp1 (build: CVSTag=JBoss_4_0_1_SP1 date=200502160314) Servlet 2.5; JBoss-5.0/JBossWeb-2.1 Servlet/3.0; JBossAS-6 Serv-U/15.1.6.31 sfcHttpd SimpleHTTP/0.6 Python/2.7.6 SimpleHTTP/0.6 Python/3.4.0 Simple, Secure Web Server 1.1 SmoothWall Express/3.0 UPnP/1.0 miniupnpd/1.0 some thing UPnP/1.0 AVM FRITZ!WLAN Repeater 1750E 134.07.01 SonicWALL SonicWALL SSL-VPN Web Server SonicWALL SSLVPN Web Server Sophos Email Appliance Splunkd squid Squid Squid/2.3.STABLE1 squid/3.2.9-BZR squid/4.4 Stronghold/3.0 Apache/1.3.19 RedHat/3014c Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26 Sun GlassFish Enterprise Server v2.1 Sun-ILOM-Web-Server/1.0 Sun-Java-System/Application-Server Sun Java System Application Server Platform Edition 9.0 Sun Java System Application Server Platform Edition 9.0_01 Sun-Java-System-Web-Proxy-Server/4.0 Sun-Java-System-Web-Proxy-Server/4.0.2 Sun-Java-System-Web-Server/7.0 Sunny WebBox Sun-ONE-Web-Proxy-Server/3.6-SP4 Sun-ONE-Web-Server/6.1 support@arraynetworks.net Synology/DSM/192.168.1.100 Synology/DSM/stuff TBS/R2 UPnP/1.0 MiniUPnPd/1.2 Tengine Tengine/2.0.0 thin 1.2.4 codename Flaming Astroboy thin 1 codename Flaming Astroboy thttpd thttpd/2.04 10aug98 thttpd/2.19-MX Jan 24 2006 thttpd/2.20b thttpd/2.21b PHP/20030920 thttpd/2.23beta1 26may2002 tivo-httpd-1:20.7.4.RC35-D18-6:D18 Tomato UPnP/1.0 MiniUPnPd/1.2 Tomato UPnP/1.0 MiniUPnPd/1.4 Tomcat/2.1 Tomcat Web Server/3.1M1 (JSP 1.1; Servlet 2.2; Java 1.3.1; AIX 5.3 ppc; java.vendor=IBM Corporation) Tomcat Web Server/3.2.2 (JSP 1.1; Servlet 2.2; Java 1.3.1; Windows 2000 5.0 x86; java.vendor=Sun Microsystems Inc.) Tomcat Web Server/3.2.2 (JSP 1.1; Servlet 2.2; Java 1.4.2_13; Windows 2003 5.2 x86; java.vendor=Sun Microsystems Inc.) Tomcat Web Server/3.3.1 Final ( JSP 1.1; Servlet 2.2 ) TornadoServer/4.0.2 TwistedWeb/16.4.0 TwistedWeb/16.5.0rc2 TwistedWeb/2.5.0 Ubuntu/10.04 UPnP/1.0 miniupnpd/1.0 Ubuntu/10.10 UPnP/1.0 miniupnpd/1.0 Ubuntu/7.10 UPnP/1.0 miniupnpd/1.0 Ubuntu/9.04 UPnP/1.0 miniupnpd/1.0 Ubuntu/bionic UPnP/1.0 MiniUPnPd/1.4 Ubuntu/hardy UPnP/1.0 MiniUPnPd/1.4 Ubuntu/jaunty UPnP/1.0 MiniUPnPd/1.4 Ubuntu/karmic UPnP/1.0 MiniUPnPd/1.4 Ubuntu/lucid UPnP/1.0 MiniUPnPd/1.4 Ubuntu/maverick UPnP/1.0 MiniUPnPd/1.4 Ubuntu/natty UPnP/1.0 MiniUPnPd/1.4 Ubuntu/oneiric UPnP/1.0 MiniUPnPd/1.4 Ubuntu/precise UPnP/1.0 MiniUPnPd/1.4 Ubuntu/quantal UPnP/1.0 MiniUPnPd/1.4 Ubuntu/raring UPnP/1.0 MiniUPnPd/1.4 Ubuntu/saucy UPnP/1.0 MiniUPnPd/1.4 Ubuntu/trusty UPnP/1.0 MiniUPnPd/1.4 Ubuntu/utopic UPnP/1.0 MiniUPnPd/1.4 Ubuntu/xenial UPnP/1.0 MiniUPnPd/1.4 Ubuntu/yakkety UPnP/1.0 MiniUPnPd/1.4 uc-httpd/1.0.0 Ultraseek Unknown/0.0 UPnP/1.0 Conexant-EmWeb/R6_1_0 Unknown/0.0 UPnP/1.0 GlobespanVirata-EmWeb/R6_1_0 Unknown/0.0 UPnP/1.0 Virata-EmWeb/R6_1_0 UOS UPnP/1.0, DLNADOC/1.50, Platinum/0.5.1 UPnP/1.0, DLNADOC/1.50, Platinum/0.5.3.0 UPnP/1.0, DLNADOC/1.50, Platinum/0.5.4.0 UPnP/1.0, DLNADOC/1.50, Platinum/0.6.6.0 UPS_Server/1 UPS_Server/1.0 Varnish Varnish-Cache VCS-VIDOS-NVR Virata-EmWeb/R5_3_0 Virata-EmWeb/R5_3_2 Virata-EmWeb/R6_0_1 Virata-EmWeb/R6_1_0 Virata-EmWeb/R6_2_0 Virata-EmWeb/R6_2_1 vqserver Web server WebLogic Server 7.0 SP4 Tue Aug 12 11:22:26 PDT 2003 WebLogic Server 8.1 SP3 Tue Jun 29 23:11:19 PDT 2004 404973 WebLogic WebLogic Server 6.1 SP4  11/08/2002 21:50:43 #221641 WEBrick/1.3.1 (Ruby/1.9.3/2013-02-22) Web-Server/3.0 WebSitePro/2.4 WebSphere Application Server/5.0 WebSphere Application Server/6.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.10.51 Windows_7-x86-6.1, UPnP/1.0, PMS/1.20 Windows_7-x86-6.1, UPnP/1.0, PMS/1.20.409 Windows_7-x86-6.1, UPnP/1.0, PMS/1.20.412 Windows_7-x86-6.1, UPnP/1.0, PMS/1.22.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.25.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.30.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.40.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.50.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.50.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.51.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.52.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.52.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.53.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.54.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.60.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.70.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.71.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.72.0 Windows_XP-amd64-5.2, UPnP/1.0, PMS/1.54.0 Windows_XP-x86-5.1, UPnP/1.0, PMS/1.20.400 WindRiver-WebServer/4.4 WMServer/9.1.1.3841 Xitami ZyXEL-RomPager/4.34 Zyxel
+Location: http://224.149.60.169:28017/
+Content-Length: 0
+
+
+IP: 178.215.190.236
+Port: 80
+Organisation: Private Enterprise Firma Fenix VT
+Location: {'city': 'Chernivtsi', 'region_code': '77', 'area_code': None, 'longitude': 25.9403, 'latitude': 48.2915, 'country_code': 'UA', 'country_name': 'Ukraine'}
+Layer: tcp
+Domains: ['opensvit.ua']
+Hostnames: ['ip-178-215-190-236.opensvit.ua']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 14:16:42 GMT
+Server: DNVRS-Webs
+ETag: "0-708-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Fri, 18 Aug 2017 09:50:21 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 170814
+  Plugin Version: 3.0.6.27
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.27
+    PlayCtrl.dll: 7.3.3.0
+    StreamTransClient.dll: 1.1.3.4
+    SystemTransform.dll: 2.5.1.8
+    WebVideoActiveX.ocx: 3.0.6.27
+
+IP: 79.119.44.126
+Port: 80
+Organisation: RCS & RDS Residential
+Location: {'city': 'Oradea', 'region_code': 'BH', 'area_code': None, 'longitude': 21.91833, 'latitude': 47.0458, 'country_code': 'RO', 'country_name': 'Romania'}
+Layer: tcp
+Domains: ['rdsnet.ro']
+Hostnames: ['79-119-44-126.rdsnet.ro']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 14:22:44 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-c58-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Sun, 30 Sep 2018 02:37:15 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 180929
+  Plugin Version: 3.0.6.46
+  Device Version: 4.1.50
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.46
+    npWebVideoPlugin.dll: 3.0.6.46
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.6.46
+
+IP: 122.161.199.50
+Port: 80
+Organisation: Bharti Airtel Ltd.,224, Okhla industrial Area Phase III New Delhi
+Location: {'city': 'Gurgaon', 'region_code': 'HR', 'area_code': None, 'longitude': 77.02635, 'latitude': 28.4601, 'country_code': 'IN', 'country_name': 'India'}
+Layer: tcp
+Domains: ['122-airtelbroadband.in']
+Hostnames: ['abts-north-static-50.199.161.122-airtelbroadband.in']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 16:36:59 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-1bb2-1e1"
+Content-Length: 481
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=180, max=99
+Last-Modified: Fri, 08 Jan 2021 08:42:23 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 210105
+  Plugin Version: 3.0.7.500
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    localServiceControl: 1.0.0.11
+    NetStream.dll: 1.0.5.57
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.7.500
+
+IP: 14.182.214.62
+Port: 80
+Organisation: Vietnam Posts and Telecommunications Group
+Location: {'city': 'Hưng Yên', 'region_code': '66', 'area_code': None, 'longitude': 106.05112, 'latitude': 20.64637, 'country_code': 'VN', 'country_name': 'Viet Nam'}
+Layer: tcp
+Domains: ['vnpt.vn']
+Hostnames: ['static.vnpt.vn']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 18:10:48 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-b3e-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 25 Sep 2019 08:02:22 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 190924
+  Plugin Version: 3.0.6.46
+  Device Version: 4.1.50
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.46
+    npWebVideoPlugin.dll: 3.0.6.46
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.6.46
+
+IP: 82.76.228.168
+Port: 81
+Organisation: RCS & RDS Business
+Location: {'city': 'Bucharest', 'region_code': 'B', 'area_code': None, 'longitude': 26.10626, 'latitude': 44.43225, 'country_code': 'RO', 'country_name': 'Romania'}
+Layer: tcp
+Domains: ['rdsnet.ro']
+Hostnames: ['82-76-228-168.rdsnet.ro']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 14:24:11 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1;mode=block
+ETag: "0-5fd-1e1"
+Content-Length: 481
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Thu, 29 Oct 2020 02:29:16 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 201029
+  Plugin Version: 3.0.7.51
+  ActiveX Files:
+    NetStream.dll: 1.0.5.57
+    PlayCtrl.dll: 7.3.7.0
+    StreamTransClient.dll: 1.1.3.17
+    SystemTransform.dll: 2.5.1.8
+    WebVideoActiveX.ocx: 3.0.7.51
+
+IP: 59.126.110.174
+Port: 80
+Organisation: Chunghwa Telecom Co.,Ltd.
+Location: {'city': 'Taichung', 'region_code': '04', 'area_code': None, 'longitude': 120.6839, 'latitude': 24.1469, 'country_code': 'TW', 'country_name': 'Taiwan'}
+Layer: tcp
+Domains: ['hinet.net']
+Hostnames: ['59-126-110-174.hinet-ip.hinet.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 17:24:00 GMT
+Server: DNVRS-Webs
+ETag: "0-aa8-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 29 Nov 2017 03:13:25 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 171121
+  Plugin Version: 3.0.6.27
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.27
+    PlayCtrl.dll: 7.3.3.0
+    StreamTransClient.dll: 1.1.3.7
+    SystemTransform.dll: 2.5.2.5
+    WebVideoActiveX.ocx: 3.0.6.27
+
+IP: 50.76.249.162
+Port: 82
+Organisation: Comcast Cable Communications, LLC
+Location: {'city': 'Quincy', 'region_code': 'IL', 'area_code': None, 'longitude': -91.3763, 'latitude': 39.9307, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['comcastbusiness.net']
+Hostnames: ['50-76-249-162-static.hfc.comcastbusiness.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 06:24:09 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-cd1-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 18 Dec 2019 02:44:15 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.51 build 191218
+  Plugin Version: 3.0.6.46
+  Device Version: 4.1.50
+  Custom Version: DZP20191120145
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    LTSWebVideoActiveX.ocx: 3.0.6.4601
+    NetStream.dll: 1.0.5.46
+    npLTSWebVideoPlugin.dll: 3.0.6.4601
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+
+IP: 171.228.47.145
+Port: 80
+Organisation: Viettel Group
+Location: {'city': 'Yên Bái', 'region_code': '06', 'area_code': None, 'longitude': 104.9113, 'latitude': 21.72288, 'country_code': 'VN', 'country_name': 'Viet Nam'}
+Layer: tcp
+Domains: ['viettel.vn']
+Hostnames: ['dynamic-ip-adsl.viettel.vn']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 18:24:06 GMT
+Server: webserver
+X-Frame-Options: SAMEORIGIN
+ETag: "19-1e0-5d75f4ad"
+Content-Length: 480
+Content-Type: text/html
+Connection: close
+Last-Modified: Mon, 09 Sep 2019 06:43:57 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 190826
+  Plugin Version: 3.0.6.46
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.46
+    npWebVideoPlugin.dll: 3.0.6.46
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.9
+    SystemTransform.dll: 2.5.3.3
+    WebVideoActiveX.ocx: 3.0.6.46
+
+IP: 201.219.193.158
+Port: 80
+Organisation: ITELKOM
+Location: {'city': 'Magangué', 'region_code': 'BOL', 'area_code': None, 'longitude': -74.7547, 'latitude': 9.242, 'country_code': 'CO', 'country_name': 'Colombia'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 06:12:07 GMT
+Server: webserver
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+ETag: "2a2-258-5cf5d35c"
+Content-Length: 600
+Content-Type: text/html
+Connection: close
+Last-Modified: Tue, 04 Jun 2019 02:11:40 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 190506
+  Plugin Version: 3.0.7.16
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.8
+    localServiceControl: 1.0.0.2
+    NetStream.dll: 1.0.5.53
+    npWebVideoPlugin.dll: 3.0.7.16
+    PlayCtrl.dll: 7.3.6.0
+    StreamTransClient.dll: 1.1.3.17
+    SystemTransform.dll: 2.5.3.9
+    WebVideoActiveX.ocx: 3.0.7.16
+
+IP: 175.196.189.212
+Port: 80
+Organisation: Korea Telecom
+Location: {'city': 'Ansan-si', 'region_code': '41', 'area_code': None, 'longitude': 126.8608, 'latitude': 37.2928, 'country_code': 'KR', 'country_name': 'Korea, Republic of'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 19:36:30 GMT
+Server: DNVRS-Webs
+ETag: "0-ac7-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Mon, 07 Sep 2015 06:32:14 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 150925
+  Plugin Version: 3.0.5.43
+  ActiveX Files:
+    AudioIntercom.dll: 1.1.0.8
+    NetStream.dll: 1.0.5.34
+    npWebVideoPlugin.dll: 3.0.5.43
+    PlayCtrl.dll: 6.5.2.200
+    StreamTransClient.dll: 1.1.2.18
+    SystemTransform.dll: 2.5.0.8
+    WebVideoActiveX.ocx: 3.0.5.43
+
+IP: 103.12.201.159
+Port: 80
+Organisation: Bendigo Community Telco Limited
+Location: {'city': 'Shepparton', 'region_code': 'VIC', 'area_code': None, 'longitude': 145.3987, 'latitude': -36.3805, 'country_code': 'AU', 'country_name': 'Australia'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 21:15:48 GMT
+Server: web
+X-Frame-Options: SAMEORIGIN
+ETag: "0-b9e-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Tue, 05 Dec 2017 12:26:21 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 171130
+  Plugin Version: 3.0.6.27
+  Device Version: 3.4.87
+  ActiveX Files:
+    AudioIntercom.dll: 1.2.0.1
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.27
+    PlayCtrl.dll: 7.3.2.0
+    StreamTransClient.dll: 1.1.3.4
+    SystemTransform.dll: 2.5.1.4
+    WebVideoActiveX.ocx: 3.0.6.27
+
+IP: 72.228.93.94
+Port: 80
+Organisation: Charter Communications Inc
+Location: {'city': 'Syracuse', 'region_code': 'NY', 'area_code': None, 'longitude': -76.1489, 'latitude': 43.041, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['rr.com']
+Hostnames: ['cpe-72-228-93-94.twcny.res.rr.com']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 07:24:04 GMT
+Server: DNVRS-Webs
+ETag: "0-561-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+X-FRAME-OPTIONS: SAMEORIGIN
+Last-Modified: Wed, 22 Feb 2017 06:23:34 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.51 build 170222
+  Plugin Version: 3.0.6.51
+  Custom Version: DZ20170116_058
+  ActiveX Files:
+    AudioIntercom.dll: 1.2.0.1
+    LTSWebVideoActiveX.ocx: 3.0.6.51
+    NetStream.dll: 1.0.5.37
+    npLTSWebVideoPlugin.dll: 3.0.6.51
+    PlayCtrl.dll: 7.3.0.0
+    StreamTransClient.dll: 1.1.3.4
+    SystemTransform.dll: 2.5.1.4
+
+IP: 190.145.41.118
+Port: 8080
+Organisation: Telmex Colombia S.A.
+Location: {'city': 'Bogotá', 'region_code': 'DC', 'area_code': None, 'longitude': -74.08175, 'latitude': 4.60971, 'country_code': 'CO', 'country_name': 'Colombia'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 06:20:29 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-5e9-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Mon, 23 Sep 2019 12:07:38 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 190920
+  Plugin Version: 3.0.6.46
+  Device Version: 4.1.50
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.46
+    npWebVideoPlugin.dll: 3.0.6.46
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.6.46
+
+IP: 86.122.61.142
+Port: 80
+Organisation: RCS & RDS Business
+Location: {'city': 'Târnăveni', 'region_code': 'MS', 'area_code': None, 'longitude': 24.29662, 'latitude': 46.33191, 'country_code': 'RO', 'country_name': 'Romania'}
+Layer: tcp
+Domains: ['rdsnet.ro']
+Hostnames: ['static-86-122-61-142.rdsnet.ro']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 14:24:34 GMT
+Server: DNVRS-Webs
+ETag: "0-13d6-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Fri, 08 Sep 2017 01:48:01 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 170908
+  Plugin Version: 3.0.6.27
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.27
+    PlayCtrl.dll: 7.3.3.62
+    StreamTransClient.dll: 1.1.3.7
+    SystemTransform.dll: 2.5.2.5
+    WebVideoActiveX.ocx: 3.0.6.27
+
+IP: 13.231.140.108
+Port: 1599
+Organisation: Amazon Data Services Japan
+Location: {'city': 'Tokyo', 'region_code': '13', 'area_code': None, 'longitude': 139.69171, 'latitude': 35.6895, 'country_code': 'JP', 'country_name': 'Japan'}
+Layer: tcp
+Domains: ['amazonaws.com']
+Hostnames: ['ec2-13-231-140-108.ap-northeast-1.compute.amazonaws.com']
+Data
+HTTP/1.1 302 Found
+Date: Thu, 08 Sep 2022 11:24:03 GMT
+X-Powered-By: PHP/5.3.6-13ubuntu3.6
+Server: dcv 2wire Gateway 4D_WebSTAR_S/5.0 4D_WebSTAR_S/5.102.1 5.1.2600 2/Service Pack 3, UPnP/1.0, TVersity Media Server 5.2.3790 2/Service Pack 1, UPnP/1.0, TVersity Media Server 6.0.6000 2/, UPnP/1.0, TVersity Media Server 6.1.7600 2/, UPnP/1.0, TVersity Media Server 6.2.8400 2/, UPnP/1.0, TVersity Media Server 6.2.9200 2/, UPnP/1.0, TVersity Media Server Abyss/1.0.3 Abyss/2.0.0.20-X1-Win32 AbyssLib/2.0.0.20 Abyss/2.3.2-X1-Win32 AbyssLib/2.3.2 Acme.Serve/v1.7 of 13nov96 AdSubtract Ag [47] Agranat-EMWeb Agranat-EmWeb/R4_01 Agranat-EmWeb/R5_1_2 Agranat-EmWeb/R5_2_4 Agranat-EmWeb/R5_2_6 AirTunes/220.68 AkamaiGHost alibaba allegro-software Allegro-Software-RomPager Allegro-Software-RomPager/ 2.10 Allegro-Software-RomPager/4.01 Allegro-Software-RomPager/4.30b3 Amazon-Cloud-Drive AmazonS3 Amazon SimpleDB AmazonSnowball american sitebuilder AMT aolserver apache Apache Apache/0.6.5 Apache/1 Apache/1.1.3 Apache/1.2.42 (PalmOS) Apache/1.3.27 Apache/1.3.28 (SolutionIP) mod_perl/1.28 mod_ssl/2.8.15 OpenSSL/0.9.7b Apache/1.3.28 (Unix) Apache/1.3.28 (Unix) mod_auth_pam/1.1.1 APACHE/1.3.9 Apache/2 Apache/2.0.43 Apache/2.2.3 (Red Hat) Apache/2.2.4 (Win32) PHP/5.2.2 Apache/2.2.4 (Win32) PHP/5.2.3 Apache-AdvancedExtranetServer/2.0.44 (Mandrake Linux/11mdk) mod_perl/1.99_08 Perl/v5.8.0 mod_ssl/2.0.44 OpenSSL/0.9.7a PHP/4.3.1 mod_jk2/2.0.0 Apache-AdvancedExtranetServer/2.0.47 (Mandrake Linux/6.12.92mdk) mod_perl/1.99_09 Perl/v5.8.1 mod_ssl/2.0.47 OpenSSL/0.9.7b PHP/4.3.2 Apache-AdvancedExtranetServer/2.0.47 (Mandrake Linux/6.3.92mdk) mod_ssl/2.0.47 OpenSSL/0.9.7b PHP/4.3.2 Apache-AdvancedExtranetServer/2.0.48 (Mandrake Linux/6.8.100mdk) mod_perl/1.99_11 Perl/v5.8.3 mod_ssl/2.0.48 OpenSSL/0.9.7c PHP/4.3.4 Apache-AdvancedExtranetServer/2.0.48 (Mandrake Linux/6mdk) PHP/4.3.4 Apache-AdvancedExtranetServer/2.0.53 (Mandrakelinux/PREFORK-9mdk) mod_ssl/2.0.53 OpenSSL/0.9.7e PHP/4.3.10 mod_perl/1.999.21 Perl/v5.8.6 Apache Coyote/1.0 Apache-Coyote/1.1 apachejserv/1.0.1 apache-ssl-us Apache Tomcat Apache Tomcat/4.0.3 Apache Tomcat/4.0.6 (HTTP/1.1 Connector) Apache Tomcat/4.1.10 Apache Tomcat/4.1.12 (HTTP/1.1 Connector) Apache Tomcat/4.1.27-LE-jdk14 (HTTP/1.1 Connector) aserve Aspen/0.8 ASP.NET ATPhttpd Avaya CMBE/2 Avaya CMBE/2.0.0 avenida Avirt Avocent DSView 3/3 Avocent DSView 3/3.7.0.71 AV-TECH AV787 Video Web Server awhttpd awselb/2.0 BBC 05.20.050; coda 10.00.123 BBC 06.00.083; ovbbccb 06.00.083 BBC 11.00.044; ovbbcrcp 11.00.044 BBC 11.10.035; ovbbccb 11.10.035 BBC 11.13.007; ovbbccb unknown version BBC 2.6.0.7; com.hp.openview.bbc.LLBServer 2.6.0.7 BBC 2.6.0.7; com.hp.openview.Coda 0.0.1 BigIP BIG-IP bkhttp/0.3 Blazix/1.2.1 BlueCoat-Security-Appliance boa Boa/0.92p OS-9 Version Boa/0.93.15 Boa/0.93.15 (with Intersil Extensions) Boa/0.94.14rc18-ipcam Boa/0.94.14rc21 boulevard Brickserver Modifications camera cern chainpoint-node ChaiServer Check Point SVN foundation Cherokee/0.2.7 CherryPy/3 CherryPy/3.1.2 Cisco AWARE 2.0 cisco-CPA cisco ios cisco-IOS cisco-IOS/12.1 HTTP-server/1.0(1) Citrix Web PN Server cl-http cloudflare cloudflare-nginx CloudFront Cobalt com.hp.openview.bbc.LLBServer 2.6.8.1 com.hp.openview.Coda 0.0.1 commerce-builder CompaqHTTPServer CompaqHTTPServer/4.1 CompaqHTTPServer/9.9 HP System Management Homepage CompaqHTTPServer/9.9 HP System Management Homepage/2.1.5.146 CompaqHTTPServer/9.9 HP System Management Homepage/3.0.1.73 httpd/2.2.6+ CompaqHTTPServer/9.9 HP System Management Homepage/6.0.0.96 httpd/2.2.6+ Conexant-EmWeb/R6_1_0 cosmos CouchDB/2.1.1 (Erlang OTP/20) Cougar/9.01.01.3841 cpaneld cpsrvd cpsrvd/11.44.3.0 CradlepointHTTPService/1.0.0 Cross Web Server CUPS/1.1 CUPS/1.7 IPP/2.1 cwpsrv Darwin/10.2.0, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Debian/4.0r8 DLNADOC/1.50 UPnP/1.0 MiniDLNA/1.0 Debian/4.0 UPnP/1.0 miniupnpd/1.0 Debian/wheezy/sid UPnP/1.1 MiniUPnPd/1.8 DeleGate/7.7.0 DNVRS-Webs DrayTek/Vigor2130 UPnP/1.0 miniupnpd/1.0 DVRDVS-Webs dwhttpd EHTTP/1.1 eHTTP v2.0 Embedded HTTP Server Embedthis-Appweb/3.2.3 Embedthis-http Embedthis-http/4.0.0 emwac EnergyICT RTU 101-F25CE1-1524 enterpriseweb Eserv/2.97 Essentia/2.1 Ews/0 Ews/0.1 EWS-NIC3/6.31 EWS-NIC4/13.39 EWS-NIC4/13.40 falcon Fedora/10 UPnP/1.0 MiniUPnPd/1.4 Fedora/8 UPnP/1.0 miniupnpd/1.0 FedoraCore/6 UPnP/1.0 miniupnpd/1.0 fnord Folkweb FreeBSD/8.2-RELEASE-p4 DLNADOC/1.50 UPnP/1.0 MiniDLNA/1.0.24 frontier frontpage FUHO-DVR GFE/1 GFE/1.3 GlassFish GoAhead-Webs GoAhead-Webs/2.5.0 GoAhead-Webs/2.5.0 PeerSec-MatrixSSL/3.4.2-OPEN Gordian Embedded goserve gosite gSOAP/2.7 gunicorn/19.7.1 gws HeiTel GmbH Web Server [V1.15/V1.14/V1.3] HeiTel GmbH Web Server [V1.26/V1.15/V1.7] Helix Server Version 9.0.4.960 (linux-2.2-libc6-i586-server) (RealServer compatible) Helix Server Version 9.0.4.960 (win32) (RealServer compatible) hellbent java webserver v0.1 Hikvision-Webs homedoor HP Apache-based Web Server/1.3.26 (Unix) HP Apache-based Web Server/1.3.26 (Unix) mod_ssl/2.8.9 OpenSSL/0.9.6c HP-ChaiServer/2.2 HP-ChaiSOE/1.0 HP HTTP Server; Hewlett-Packard HP Designjet T520 36in - ABC123; Serial Number: 0123456789; Built:Tue Sep 09, 2014 08:32:54AM {012345678901} HP HTTP Server; HP Officejet 6500 E709n - CB057A; Serial Number: abc123; Rainbow Built:Sat Dec 13, 2008 10:58:21AM {abc123, ASIC id 0x00ffc2105} HP HTTP Server; HP Photosmart C309a series - CC335A; Serial Number: abc123; Vader Built:Wed Apr 15, 2009 11:40:58AM {abc123, ASIC id 0x00280004} HP-iLO-Server/1.30 HPSMH HP Web Jetadmin 10.3.85669 HP Web Jetadmin 10.3.91358 (10.3 SR5) HP Web Jetadmin/2.0.50 (Win32) mod_auth_sspi/1.0.1 mod_ssl/2.0.50 OpenSSL/0.9.6m HP Web Jetadmin/2 (Win32) mod_auth_sspi/1.0.1 mod_ssl/2.0.50 OpenSSL/0.9.6m HP-Web-Server httpd HttpFileServer httpd hyperwave IBM_HTTP_Server IBM_HTTP_SERVER IBM-HTTP-Server/1.0 IBM_HTTP_Server/1.3.12 Apache/1.3.12 (Unix) IBM_HTTP_SERVER/1.3.19.2  Apache/1.3.20 (Win32) IBM_HTTP_SERVER/1.3.28.1-PK16139  Apache/1.3.28 (Unix) IBM_HTTP_Server/2.0.42.2-PK25355 Apache/2.0.47 (Unix) DAV/2 IBM_HTTP_Server/2.0.47.1 Apache/2.0.47 (Unix) DAV/2 PHP/4.3.8 IBM_HTTP_Server/2.0.47.1-PK01070 Apache/2.0.47 (Win32) PHP/5.0.4 IBM_HTTP_Server/6.0.2.19 Apache/2.0.47 (Unix) IBM_HTTP_Server/6.0.2 Apache/2.0.47 (Unix) IBM_HTTP_Server/6.0 Apache/2.0.47 (Unix) DAV/2 IBM_HTTP_Server/6.1 Apache/2.0.47 (Win32) PHP/5.1.1 IBM_HTTP_Server/7.0.0.9 (Unix) IBM HTTP Server/V5R3M0 ibm internet connection server IdeaWebServer/0.83.74 IdeaWebServer/v0.70 Intel(R) Active Management Technology Intel(R) Active Management Technology 7.1.86 Intel(R) Standard Manageability 5.0.50 Intel(R) Standard Manageability 9.0.3 IPCamera Login IPG8000 iPlanet-Web-Proxy-Server/3.6 iPlanet-Web-Proxy-Server/3.6-SP5 ipos/7.0 UPnP/1.0 TL-WR740N/1.0 ipos/7.0 UPnP/1.0 TL-WR740N/1.0/2.0 ipos/7.0 UPnP/1.0 TL-WR740N/4.0 ipos/7.0 UPnP/1.0 TL-WR741N/1.0/2.0 ipos/7.0 UPnP/1.0 TL-WR741N/4.0 ipos/7.0 UPnP/1.0 TL-WR841N/6.0/7.0 ipos/7.0 UPnP/1.0 TL-WR841N/8.0 ipos/7.0 UPnP/1.0 TL-WR940N/1.0 ipos/7.0 UPnP/1.0 TL-WR941N/2.0 Ipswitch-IMail/5.08 Ipswitch-IMail/7.07 Ipswitch-IMail/7.11 Ipswitch-IMail/8.05 ISOS/9.0 UPnP/1.0 Conexant-EmWeb/R6_1_0 Jaguar Server jakarta-tomcat-4.0.1 JavaWebServer JBoss-EAP/7 JC-HTTPD/1 JC-HTTPD/1.11.14 JC-SHTTPD/1 JC-SHTTPD/1.17.20 JetAdmin Jetty(1.4.5) Jetty/4.0.1 (SunOS 5.8 sparc) Jetty/4.2.23 (SunOS/5.9 sparc java/1.4.2_04) Jetty/4.2.x (VxWorks/WIND version 2.9 ppc java/1.1-rr-std-b12) Jetty/5.1.10 (Linux/2.6.12 i386 java/1.5.0_05) Jetty/5.1.4 (Windows Server 2008 R2/6.1 x86 java/1.5.0_22 Jetty(6.1.12.rc2) Jetty(7.6.9.v20130131) Jetty(8.1.10.v20130312) Jetty(9.4.z-SNAPSHOT) JRun/3.1 KazaaClient kHTTPd 0.1.6 LabVIEW/5.1.1 Lasso/3.6.5 lighttpd lighttpd/1.3.7 (Mar 23 2007/16:00:15) lighttpd/1.4.16 LilHTTP/2.1 Linux/2.4.18_mvl30-ixdp425, UPnP/1.0, Intel SDK for UPnP devices/1.3.1 Linux/2.4.20-46.7asp, UPnP/1.0, Portable SDK for UPnP devices/1.6.17 Linux/2.4.21 UPnP/1.0 miniupnpd/1.0 LINUX/2.4 UPnP/1.0 BRCM400/1.0 Linux/2.6.10_dev-malta-mips2_fp_le, UPnP/1.0, Intel SDK for UPnP devices /1.2 Linux/2.6.10-iop1-1, UPnP/1.0, Portable SDK for UPnP devices/1.4.1 Linux/2.6.12-5.1-brcmstb-dm800, UPnP/1.0, Portable SDK for UPnP devices/1.6.0 Linux/2.6.12.6-arm1-040, UPnP/1.0, Portable SDK for UPnP devices/1.6.5.2 Linux/2.6.12.6-VENUS, UPnP/1.0, Portable SDK for UPnP devices/1.6.10 Linux/2.6.13, UPnP/1.0, Portable SDK for UPnP devices/1.6.0 Linux/2.6.18_pro500-davinci_N03A_IPCAM_1.0-g5c649288-dirty, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.23.17_stm23_0125dorade00 UPnP/1.0 DLNADOC/1.50 Portable SDK for UPnP devices/1.4.6-5 Linux/2.6.28-11-server, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.28-17-generic, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.28.1-xxxx-std-ipv4-32, UPnP/1.0, Portable SDK for UPnP devices/1.4.3 Linux/2.6.28, UPnP/1.0, Portable SDK for UPnP devices/1.6.10 Linux/2.6.29.6-217.2.3.fc11.i686.PAE UPnP/1.0 miniupnpd/1.0 Linux/2.6.32-220.7.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.14 Linux/2.6.32-24-generic, UPnP/1.0, Portable SDK for UPnP devices/1.6.6 Linux/2.6.32-279.11.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.14 Linux/2.6.32-279.1.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.13 Linux/2.6.32-279.14.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.14 Linux/2.6.32-279.14.1.el6.x86_64, UPnP/1.0, Portable SDK for UPnP devices/1.6.15 Linux/2.6.36+ DLNADOC/1.50 UPnP/1.0 MiniDLNA/1.0 Linux/3.0.8 UPnP/1.0 DLNADOC/1.50 Portable SDK for UPnP devices/1.6.6 Linux-amd64-2.6.18-238.9.1.el5, UPnP/1.0, PMS/1.52.1 Linux/Cross_compiled UPnP/1.0 miniupnpd/1.0 Linux-i386-2.6.33.2, UPnP/1.0, PMS/1.21.1 Linux Mips 2.4.20 UPnP/1.0 MiniUPnPd/1.2 Linux UPnP/1.0 Huawei-ATP-IGD Linux, UPnP/1.0, Intel SDK for UPnP devices /1.2 Linux UPnP/1.0 Sonos/31.3-22220 (ANVIL) Linux UPnP/1.0 Sonos/34.16-37101 (ZP120) Linux UPnP/1.0 Sonos/36.4-41270 (WD100) Linux UPnP/1.0 Sonos/39.2-47040c (ZPS1) Linux UPnP/1.0 Sonos/47.2-59120 (BR100) Linux UPnP/1.0 Sonos/47.2-59120 (ZPS3) ListManagerWeb/8.8a (based on Tcl-Webserver/3.4.2) LiteSpeed LiteSpeed/5.2.8 Enterprise Lotus Lotus-Domino Lotus-Domino/0 Lotus-Domino/5.0.8 Lotus-Domino/Release Lotus-Domino/Release-4.6.7(Intl) Lotus Expeditor Web Container/6 Lotus Expeditor Web Container/6.1 Loxone Miniserver some name UPnP/1.0 Mac_OS_X-x86_64-10.5.8, UPnP/1.0, PMS/1.20 Mbedthis-Appweb/2 Mbedthis-Appweb/2.4.0 Mbedthis-AppWeb/2.4.0 Mbedthis-Appweb/2.4.2 micro_httpd Microplex emHTTPD/1 Microplex emHTTPD/1.0 Microplex emHTTPD/1.1 Microsoft-HTTPAPI/2.0 Microsoft-IIS Microsoft-IIS/4.0 Microsoft-IIS/5.0 Microsoft-IIS/5.1 Microsoft-IIS/6.0 Microsoft-IIS/7.0 Microsoft-IIS/7.5 Microsoft-IIS/8.0 Microsoft-IIS/8.5 Microsoft-IIS/9.0 Microsoft-PWS/4.0 Microsoft-PWS-95/4.0 Microsoft-WinCE/4.10 Microsoft-WinCE/4.20 Microsoft-WinCE/5.0 Microsoft WinCE Fidelix v11.50.29 Mikrotik HttpProxy Mini Dome IP Camera mini_httpd mini_httpd/1.14 23jun2000 mini_httpd/1 23jun2000 MiniServ/0.01 mod_security/1.71 Mongrel 1 Mongrel 1.1.5 Monkey/0.6.2 MS-MFC-HttpSvr/1.0 MS .NET Remoting, MS .NET CLR 2.0.50727.42 mt-daapd/0.2.4.1 mt-daapd/svn-999 myCIO Mylo/0.2.0 MyWebServer/1.01 ncsa neowebscript NetApp/7.2.1.1 NetApp/7.3.4P1 NetApp//8.1RC2 NetCache appliance (NetApp/5.3.1R3) NetCache appliance (NetApp/5.4R2D2) NetCache appliance (NetApp/5.6.1D22) NetCache appliance (NetApp/6.0.2P1) NetCache appliance (NetApp/6.0.4) NetCache appliance (NetApp/6.1RC2) netcloak NET-DK/1.0 NET-DK 1.1 Netgear/1.0 UPnP/1.0 miniupnpd/1.0 netpresenz Netscape-Enterprise/3.5.1 Netscape-Enterprise/3.6 SP3 Netscape-Enterprise/6.0 NetWare Netwave IP Camera nginx nginx/0.8.53 nginx/0.8.53 + Phusion Passenger 3.0.0 (mod_rails/mod_rack) nginx + Phusion Passenger nginx + Phusion Passenger 5.1.11 Niagara Web Server/3.8.111 NS_6.1 NSC/0.6.4 (JVM) nsl Nucleus/4.3 UPnP/1.0 Virata-EmWeb/R6_2_0 NULLhttpd/0.5.1 OmniHTTPd open-market-secure-webserver openresty openresty/1.13.6.2 OpenTV/5.40 OpenVPN-AS OpenWRT/kamikaze UPnP/1.0 MiniUPnPd/1.2 OpenWRT/kamikaze UPnP/1.0 MiniUPnPd/1.4 OpenWRT/kamikaze UPnP/1.0 MiniUPnPd/1.5 Oracle9iAS/9.0.2.3.0 Oracle HTTP Server Oracle9iAS-Web-Cache/9.0.2.3.0 (N) Oracle9iAS/9.0.3.1 Oracle HTTP Server Oracle9iAS-Web-Cache/9.0.3.1.0 (N) Oracle-Application-Server-10g Oracle-Application-Server-10g/10.1.2.0.2 Oracle-HTTP-Server Oracle-Application-Server-10g/10.1.2.2.0 Oracle-HTTP-Server OracleAS-Web-Cache-10g/10.1.2.2.0 (N;ecid=153541209221,0) Oracle-Application-Server-10g/10.1.2.2.0 Oracle-HTTP-Server (Unix) mod_plsql/10.1.2.2.0 mod_ossl/10.1.2.0.0 mod_perl/1.29 OracleAS-Web-Cache-10g/10.1.2.0.2 (N;ecid=89116016562,0) Oracle Application Server/10g (10.1.2) Apache/1.3.34 (Unix) mod_perl/1.29 mod_jk/1.2.14 OracleAS-Web-Cache-10g/10.1.2.0.2 (N;ecid=119642322340,0) Oracle-Application-Server-10g/9.0.4.1.0 Oracle-HTTP-Server Oracle-Application-Server-11g Oracle Application Server Containers for J2EE 10g (9.0.4.0.0) Oracle Applications One-Hour Install Oracle Containers for J2EE Oracle HTTP Server Powered by Apache Oracle HTTP Server Powered by Apache/1.3.12 (Unix) ApacheJServ/1.1 mod_ssl/2.6.4 OpenSSL/0.9.5a Oracle HTTP Server Powered by Apache/1.3.19 (Unix) mod_plsql/3.0.9.8.3b PHP/4.3.10 mod_fastcgi/2.2.10 mod_perl/1.25 mod_oprocmgr/1.0 Oracle HTTP Server Powered by Apache/1.3.19 (Win32) mod_ssl/2.8.1 OpenSSL/0.9.5a mod_fastcgi/2.2.10 mod_oprocmgr/1.0 mod_perl/1.25 Oracle_Web_Listener Oracle XML DB/Oracle9i Enterprise Edition Release 9.2.0.1.0 - Production Oracle XML DB/Oracle9i Enterprise Edition Release 9 - Production Oracle XML DB/Oracle Database os2httpd PanWeb Server/ - PDR-M800/1.0 PHP/4.0.3 PHP/4.0.5 PHP/4.4.2-1build1 PHP/5.1.2 PHP/5.3.14 ZendServer/5.0 PHP/7.1 phttpd Pi3Web/2.0 plexus Polycom SoundPoint IP Telephone HTTPd powerweb process $ProjectRevision: 4.0.2.38 $ PWS QTSS/5.0.3.3 (Build/452.22.4; Platform/MacOSX; Release/Panther; Update/Security; ) QTSS/5.0 (Build/452; Platform/MacOSX; Release/Panther; ) QTSS/6.1.0 (Build/532; Platform/MacOSX; Release/Mac OS X Server; ) RapidLogic Rapid Logic/1 Rapid Logic/1.1 Raptor Simple, Secure Web Server 1.0 RealVNC/4.0 ReeCam IP Camera Resin/1 Resin/2.1.1 Resin/2.1.13 Resin/2.1.s030827 Resin/3.0.23 Roku UPnP/1.0 MiniUPnPd/1.4 Roku UPnP/1.0 Roku/8.1.6 RomPager/4.07 UPnP/1.0 RouterOS/6.43UPnP/1.0 MikroTik UPnP/1.0 roxen RT-G32 UPnP/1.0 MiniUPnPd/1.2 Rumpus rushhour sambar/5.1 Savant/3.1 ScriptEase/0.95 Security Console SentinelKeysServer/1 SentinelKeysServer/1.0 SentinelKeysServer/1.3.1 SentinelProtectionServer/7 SentinelProtectionServer/7.0 SentinelProtectionServer/7.1 SentinelProtectionServer/7.3 SEPM servermgrd serverseven Servlet 2.4; JBoss-4.0.4.GA (build: CVSTag=JBoss_4_0_4_GA date=200605151000)/Tomcat-5.5 Servlet 2.4; JBoss-4.2.3.GA (build: SVNTag=JBoss_4_2_3_GA date=200807181439)/JBossWeb-2.0 Servlet 2.4; Tomcat-5.0.28/JBoss-4.0.1sp1 (build: CVSTag=JBoss_4_0_1_SP1 date=200502160314) Servlet 2.5; JBoss-5.0/JBossWeb-2.1 Servlet/3.0; JBossAS-6 Serv-U/15.1.6.31 sfcHttpd SimpleHTTP/0.6 Python/2.7.6 SimpleHTTP/0.6 Python/3.4.0 Simple, Secure Web Server 1.1 SmoothWall Express/3.0 UPnP/1.0 miniupnpd/1.0 some thing UPnP/1.0 AVM FRITZ!WLAN Repeater 1750E 134.07.01 SonicWALL SonicWALL SSL-VPN Web Server SonicWALL SSLVPN Web Server Sophos Email Appliance Splunkd squid Squid Squid/2.3.STABLE1 squid/3.2.9-BZR squid/4.4 Stronghold/3.0 Apache/1.3.19 RedHat/3014c Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26 Sun GlassFish Enterprise Server v2.1 Sun-ILOM-Web-Server/1.0 Sun-Java-System/Application-Server Sun Java System Application Server Platform Edition 9.0 Sun Java System Application Server Platform Edition 9.0_01 Sun-Java-System-Web-Proxy-Server/4.0 Sun-Java-System-Web-Proxy-Server/4.0.2 Sun-Java-System-Web-Server/7.0 Sunny WebBox Sun-ONE-Web-Proxy-Server/3.6-SP4 Sun-ONE-Web-Server/6.1 support@arraynetworks.net Synology/DSM/192.168.1.100 Synology/DSM/stuff TBS/R2 UPnP/1.0 MiniUPnPd/1.2 Tengine Tengine/2.0.0 thin 1.2.4 codename Flaming Astroboy thin 1 codename Flaming Astroboy thttpd thttpd/2.04 10aug98 thttpd/2.19-MX Jan 24 2006 thttpd/2.20b thttpd/2.21b PHP/20030920 thttpd/2.23beta1 26may2002 tivo-httpd-1:20.7.4.RC35-D18-6:D18 Tomato UPnP/1.0 MiniUPnPd/1.2 Tomato UPnP/1.0 MiniUPnPd/1.4 Tomcat/2.1 Tomcat Web Server/3.1M1 (JSP 1.1; Servlet 2.2; Java 1.3.1; AIX 5.3 ppc; java.vendor=IBM Corporation) Tomcat Web Server/3.2.2 (JSP 1.1; Servlet 2.2; Java 1.3.1; Windows 2000 5.0 x86; java.vendor=Sun Microsystems Inc.) Tomcat Web Server/3.2.2 (JSP 1.1; Servlet 2.2; Java 1.4.2_13; Windows 2003 5.2 x86; java.vendor=Sun Microsystems Inc.) Tomcat Web Server/3.3.1 Final ( JSP 1.1; Servlet 2.2 ) TornadoServer/4.0.2 TwistedWeb/16.4.0 TwistedWeb/16.5.0rc2 TwistedWeb/2.5.0 Ubuntu/10.04 UPnP/1.0 miniupnpd/1.0 Ubuntu/10.10 UPnP/1.0 miniupnpd/1.0 Ubuntu/7.10 UPnP/1.0 miniupnpd/1.0 Ubuntu/9.04 UPnP/1.0 miniupnpd/1.0 Ubuntu/bionic UPnP/1.0 MiniUPnPd/1.4 Ubuntu/hardy UPnP/1.0 MiniUPnPd/1.4 Ubuntu/jaunty UPnP/1.0 MiniUPnPd/1.4 Ubuntu/karmic UPnP/1.0 MiniUPnPd/1.4 Ubuntu/lucid UPnP/1.0 MiniUPnPd/1.4 Ubuntu/maverick UPnP/1.0 MiniUPnPd/1.4 Ubuntu/natty UPnP/1.0 MiniUPnPd/1.4 Ubuntu/oneiric UPnP/1.0 MiniUPnPd/1.4 Ubuntu/precise UPnP/1.0 MiniUPnPd/1.4 Ubuntu/quantal UPnP/1.0 MiniUPnPd/1.4 Ubuntu/raring UPnP/1.0 MiniUPnPd/1.4 Ubuntu/saucy UPnP/1.0 MiniUPnPd/1.4 Ubuntu/trusty UPnP/1.0 MiniUPnPd/1.4 Ubuntu/utopic UPnP/1.0 MiniUPnPd/1.4 Ubuntu/xenial UPnP/1.0 MiniUPnPd/1.4 Ubuntu/yakkety UPnP/1.0 MiniUPnPd/1.4 uc-httpd/1.0.0 Ultraseek Unknown/0.0 UPnP/1.0 Conexant-EmWeb/R6_1_0 Unknown/0.0 UPnP/1.0 GlobespanVirata-EmWeb/R6_1_0 Unknown/0.0 UPnP/1.0 Virata-EmWeb/R6_1_0 UOS UPnP/1.0, DLNADOC/1.50, Platinum/0.5.1 UPnP/1.0, DLNADOC/1.50, Platinum/0.5.3.0 UPnP/1.0, DLNADOC/1.50, Platinum/0.5.4.0 UPnP/1.0, DLNADOC/1.50, Platinum/0.6.6.0 UPS_Server/1 UPS_Server/1.0 Varnish Varnish-Cache VCS-VIDOS-NVR Virata-EmWeb/R5_3_0 Virata-EmWeb/R5_3_2 Virata-EmWeb/R6_0_1 Virata-EmWeb/R6_1_0 Virata-EmWeb/R6_2_0 Virata-EmWeb/R6_2_1 vqserver Web server WebLogic Server 7.0 SP4 Tue Aug 12 11:22:26 PDT 2003 WebLogic Server 8.1 SP3 Tue Jun 29 23:11:19 PDT 2004 404973 WebLogic WebLogic Server 6.1 SP4  11/08/2002 21:50:43 #221641 WEBrick/1.3.1 (Ruby/1.9.3/2013-02-22) Web-Server/3.0 WebSitePro/2.4 WebSphere Application Server/5.0 WebSphere Application Server/6.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.10.51 Windows_7-x86-6.1, UPnP/1.0, PMS/1.20 Windows_7-x86-6.1, UPnP/1.0, PMS/1.20.409 Windows_7-x86-6.1, UPnP/1.0, PMS/1.20.412 Windows_7-x86-6.1, UPnP/1.0, PMS/1.22.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.25.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.30.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.40.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.50.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.50.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.51.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.52.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.52.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.53.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.54.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.60.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.70.1 Windows_7-x86-6.1, UPnP/1.0, PMS/1.71.0 Windows_7-x86-6.1, UPnP/1.0, PMS/1.72.0 Windows_XP-amd64-5.2, UPnP/1.0, PMS/1.54.0 Windows_XP-x86-5.1, UPnP/1.0, PMS/1.20.400 WindRiver-WebServer/4.4 WMServer/9.1.1.3841 Xitami ZyXEL-RomPager/4.34 Zyxel
+Location: http://224.175.131.150:1599/
+Content-Length: 0
+
+
+IP: 2.36.26.135
+Port: 80
+Organisation: Vodafone Italia S.p.A.
+Location: {'city': 'Milan', 'region_code': '25', 'area_code': None, 'longitude': 9.18951, 'latitude': 45.46427, 'country_code': 'IT', 'country_name': 'Italy'}
+Layer: tcp
+Domains: ['vodafonedsl.it']
+Hostnames: ['net-2-36-26-135.cust.vodafonedsl.it']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 12:23:08 GMT
+Server: DNVRS-Webs
+ETag: "0-aa4-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 29 Nov 2017 03:13:25 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 171121
+  Plugin Version: 3.0.6.27
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.27
+    PlayCtrl.dll: 7.3.3.0
+    StreamTransClient.dll: 1.1.3.7
+    SystemTransform.dll: 2.5.2.5
+    WebVideoActiveX.ocx: 3.0.6.27
+
+IP: 46.216.200.159
+Port: 80
+Organisation: Mobile TeleSystems JLLC
+Location: {'city': 'Minsk', 'region_code': 'HM', 'area_code': None, 'longitude': 27.56667, 'latitude': 53.9, 'country_code': 'BY', 'country_name': 'Belarus'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 14:24:00 GMT
+Server: webserver
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+ETag: "655-1e0-5d5b5b95"
+Content-Length: 480
+Content-Type: text/html
+Connection: close
+Last-Modified: Tue, 20 Aug 2019 02:31:49 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 190820
+  Plugin Version: 3.0.7.17
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.8
+    localServiceControl: 1.0.0.0
+    NetStream.dll: 1.0.5.54
+    npWebVideoPlugin.dll: 3.0.7.17
+    PlayCtrl.dll: 7.3.7.34
+    StreamTransClient.dll: 1.1.3.17
+    SystemTransform.dll: 2.5.3.9
+    WebVideoActiveX.ocx: 3.0.7.17
+
+IP: 87.191.227.138
+Port: 80
+Organisation: Deutsche Telekom AG
+Location: {'city': 'Trendelburg', 'region_code': 'HE', 'area_code': None, 'longitude': 9.42095, 'latitude': 51.57408, 'country_code': 'DE', 'country_name': 'Germany'}
+Layer: tcp
+Domains: ['phametra.de']
+Hostnames: ['mail.phametra.de']
+Data
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Connection: close
+Content-Security-Policy: default-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; connect-src *
+Content-Type: text/html
+Date: Thur, 08 Sep 2022 11:24:00 GMT
+Expires: Thu, 31 Dec 1999 00:00:00 GMT
+Feature-Policy: geolocation 'none'; midi 'none'; notifications 'none'; push 'none'; sync-xhr 'none'; microphone 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'; speaker 'none'; vibrate 'none'; fullscreen 'self'; payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: LANCOM
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+X-XSS-Protection: 1
+
+
+IP: 178.212.41.34
+Port: 81
+Organisation: DEBACOM Sp. z o.o.
+Location: {'city': 'Zabrze', 'region_code': '24', 'area_code': None, 'longitude': 18.78576, 'latitude': 50.32492, 'country_code': 'PL', 'country_name': 'Poland'}
+Layer: tcp
+Domains: ['debacom.pl']
+Hostnames: ['host-178.212.41.34-internet.zabrze.debacom.pl']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 12:33:27 GMT
+Server: DNVRS-Webs
+ETag: "0-12f8-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Fri, 08 Sep 2017 01:48:01 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 170908
+  Plugin Version: 3.0.6.27
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.27
+    PlayCtrl.dll: 7.3.3.62
+    StreamTransClient.dll: 1.1.3.7
+    SystemTransform.dll: 2.5.2.5
+    WebVideoActiveX.ocx: 3.0.6.27
+
+IP: 106.51.62.72
+Port: 81
+Organisation: Atria Convergence Technologies Pvt. Ltd.,
+Location: {'city': 'Bengaluru', 'region_code': 'KA', 'area_code': None, 'longitude': 77.59369, 'latitude': 12.97194, 'country_code': 'IN', 'country_name': 'India'}
+Layer: tcp
+Domains: ['actcorp.in']
+Hostnames: ['broadband.actcorp.in']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 16:53:59 GMT
+Server: DNVRS-Webs
+ETag: "0-711-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Sat, 27 Aug 2016 09:23:45 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 160816
+  Plugin Version: 3.0.6.4
+  ActiveX Files:
+    AudioIntercom.dll: 1.2.0.1
+    NetStream.dll: 1.0.5.37
+    npWebVideoPlugin.dll: 3.0.6.4
+    PlayCtrl.dll: 7.3.0.0
+    StreamTransClient.dll: 1.1.3.4
+    SystemTransform.dll: 2.5.1.4
+    WebVideoActiveX.ocx: 3.0.6.4
+
+IP: 206.83.241.211
+Port: 80
+Organisation: Telegia
+Location: {'city': 'Frederick', 'region_code': 'MD', 'area_code': None, 'longitude': -77.4636, 'latitude': 39.3647, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 06:15:16 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-51f-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Tue, 26 Feb 2019 08:28:41 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 190226
+  Plugin Version: 3.0.6.45
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.45
+    npWebVideoPlugin.dll: 3.0.6.45
+    PlayCtrl.dll: 7.3.5.41
+    StreamTransClient.dll: 1.1.3.9
+    SystemTransform.dll: 2.5.2.17
+    WebVideoActiveX.ocx: 3.0.6.45
+
+IP: 62.122.235.28
+Port: 8099
+Organisation: ALICJA MANIERA trading as MANIERA SERVICE
+Location: {'city': 'Katowice', 'region_code': '24', 'area_code': None, 'longitude': 18.9691, 'latitude': 50.2848, 'country_code': 'PL', 'country_name': 'Poland'}
+Layer: tcp
+Domains: ['wieszowanet.pl']
+Hostnames: ['host-62-122-235-28.wieszowanet.pl']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 13:17:33 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-96f-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Mon, 14 Oct 2019 07:57:02 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 191014
+  Plugin Version: 3.0.7.1
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.47
+    npWebVideoPlugin.dll: 3.0.7.1
+    PlayCtrl.dll: 7.3.6.60
+    StreamTransClient.dll: 1.1.3.9
+    SystemTransform.dll: 2.5.3.5
+    WebVideoActiveX.ocx: 3.0.7.1
+
+IP: 50.86.253.162
+Port: 80
+Organisation: C Spire Fiber
+Location: {'city': 'Foxworth', 'region_code': 'MS', 'area_code': None, 'longitude': -89.86869, 'latitude': 31.23823, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 05:26:48 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-10dc-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 29 May 2019 12:45:17 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.51 build 190529
+  Plugin Version: 3.0.7.10
+  Custom Version: DZR20190510002
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    localServiceControl: 1.0.0.0
+    NetStream.dll: 1.0.5.50
+    npWebVideoPlugin.dll: 3.0.7.10
+    PlayCtrl.dll: 7.3.6.80
+    StreamTransClient.dll: 1.1.3.15
+    SystemTransform.dll: 2.5.3.7
+    WebVideoActiveX.ocx: 3.0.7.10
+
+IP: 58.178.236.196
+Port: 5009
+Organisation: Vocus Retail
+Location: {'city': 'Melbourne', 'region_code': 'VIC', 'area_code': None, 'longitude': 144.9544, 'latitude': -37.6387, 'country_code': 'AU', 'country_name': 'Australia'}
+Layer: tcp
+Domains: ['commander.net.au']
+Hostnames: ['196.236.178.58.sta.commander.net.au']
+Data
+HTTP/1.1 401 Unauthorized
+Server: thttpd/2.19-MX Dec  1 2015
+Content-type: text/html
+Date: Thu, 08 Sep 2022 11:23:47 GMT
+Last-modified: Thu, 08 Sep 2022 11:23:47 GMT
+Accept-Ranges: bytes
+Connection: close
+WWW-Authenticate: Basic realm="MOBOTIX Camera User"
+
+
+IP: 2.24.187.247
+Port: 80
+Organisation: Orange WBC Broadband
+Location: {'city': 'Altrincham', 'region_code': 'ENG', 'area_code': None, 'longitude': -2.34848, 'latitude': 53.38752, 'country_code': 'GB', 'country_name': 'United Kingdom'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 12:52:12 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-12f8-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 25 Sep 2019 08:18:33 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 181226
+  Plugin Version: 3.0.6.27
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.27
+    PlayCtrl.dll: 7.3.3.62
+    StreamTransClient.dll: 1.1.3.7
+    SystemTransform.dll: 2.5.2.5
+    WebVideoActiveX.ocx: 3.0.6.27
+
+IP: 144.253.108.142
+Port: 8080
+Organisation: Charter Communications
+Location: {'city': 'Olivette', 'region_code': 'MO', 'area_code': None, 'longitude': -90.37595, 'latitude': 38.66533, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['spectrum.com']
+Hostnames: ['144-253-108-142.biz.spectrum.com']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 06:22:33 GMT
+Server: DNVRS-Webs
+ETag: "0-8a1-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Mon, 26 Nov 2018 03:10:29 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.51 build 181126
+  Plugin Version: 3.0.6.28
+  Custom Version: DZP20181116067
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.28
+    PlayCtrl.dll: 7.3.3.64
+    StreamTransClient.dll: 1.1.3.7
+    SystemTransform.dll: 2.5.2.5
+    WebVideoActiveX.ocx: 3.0.6.28
+
+IP: 139.5.101.142
+Port: 80
+Organisation: Quest Consultancy Pvt Ltd
+Location: {'city': 'Navsari', 'region_code': 'GJ', 'area_code': None, 'longitude': 72.92467, 'latitude': 20.94237, 'country_code': 'IN', 'country_name': 'India'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Wed, 11 Feb 1970 21:43:26 GMT
+Server: DNVRS-Webs
+ETag: "0-a51-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Thu, 25 May 2017 03:08:47 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 170525
+  Plugin Version: 3.0.6.24
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.2
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.24
+    PlayCtrl.dll: 7.3.2.0
+    StreamTransClient.dll: 1.1.3.6
+    SystemTransform.dll: 2.5.2.3
+    WebVideoActiveX.ocx: 3.0.6.24
+
+IP: 80.28.253.163
+Port: 80
+Organisation: TELEFONICA DE ESPANA S.A.U.
+Location: {'city': 'Barcelona', 'region_code': 'CT', 'area_code': None, 'longitude': 2.15899, 'latitude': 41.38879, 'country_code': 'ES', 'country_name': 'Spain'}
+Layer: tcp
+Domains: ['rima-tde.net']
+Hostnames: ['163.red-80-28-253.staticip.rima-tde.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 13:23:01 GMT
+Server: web
+ETag: "0-a15-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Wed, 28 Feb 2018 07:09:56 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 180227
+  Plugin Version: 3.0.6.40
+  Device Version: 3.5.35
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.44
+    npWebVideoPlugin.dll: 3.0.6.40
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.2.10
+    WebVideoActiveX.ocx: 3.0.6.40
+
+IP: 58.231.215.223
+Port: 80
+Organisation: SK Broadband Co Ltd
+Location: {'city': 'Neietsu', 'region_code': '42', 'area_code': None, 'longitude': 128.2208, 'latitude': 37.1502, 'country_code': 'KR', 'country_name': 'Korea, Republic of'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 20:22:12 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-17a4-1e1"
+Content-Length: 481
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=180, max=99
+Last-Modified: Fri, 08 Jan 2021 08:42:23 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 210105
+  Plugin Version: 3.0.7.500
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    localServiceControl: 1.0.0.11
+    NetStream.dll: 1.0.5.57
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.7.500
+
+IP: 90.84.228.40
+Port: 9090
+Organisation: Orange Romania
+Location: {'city': 'Bucharest', 'region_code': 'B', 'area_code': None, 'longitude': 26.10626, 'latitude': 44.43225, 'country_code': 'RO', 'country_name': 'Romania'}
+Layer: tcp
+Domains: ['orangero.net']
+Hostnames: ['90-84-228-40.orangero.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 13:56:02 GMT
+Server: DNVRS-Webs
+ETag: "0-9ab-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Tue, 25 Apr 2017 11:36:29 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 170425
+  Plugin Version: 3.0.6.20
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.0
+    NetStream.dll: 1.0.5.41
+    npWebVideoPlugin.dll: 3.0.6.20
+    PlayCtrl.dll: 7.3.2.0
+    StreamTransClient.dll: 1.1.3.6
+    SystemTransform.dll: 2.5.1.13
+    WebVideoActiveX.ocx: 3.0.6.20
+
+IP: 187.224.36.239
+Port: 80
+Organisation: Uninet S.A. de C.V.
+Location: {'city': 'Tepatitlán de Morelos', 'region_code': 'JAL', 'area_code': None, 'longitude': -102.76347, 'latitude': 20.81692, 'country_code': 'MX', 'country_name': 'Mexico'}
+Layer: tcp
+Domains: ['prod-infinitum.com.mx']
+Hostnames: ['dsl-187-224-36-239-dyn.prod-infinitum.com.mx']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 06:16:43 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "1973-1e1-60b59fe8"
+Content-Length: 481
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Tue, 01 Jun 2021 02:48:08 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 210601
+  Plugin Version: 3.0.7.500
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    localServiceControl: 1.0.0.11
+    NetStream.dll: 1.0.5.57
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.7.500
+
+IP: 1.229.175.134
+Port: 80
+Organisation: SK Broadband Co Ltd
+Location: {'city': 'Seoul', 'region_code': '11', 'area_code': None, 'longitude': 127.0748, 'latitude': 37.6071, 'country_code': 'KR', 'country_name': 'Korea, Republic of'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 20:23:49 GMT
+Server: DNVRS-Webs
+ETag: "0-75b-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Fri, 24 Mar 2017 07:49:27 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 170324
+  Plugin Version: 3.0.6.6
+  Custom Version: DZ20170214_091
+  ActiveX Files:
+    AudioIntercom.dll: 1.2.0.1
+    NetStream.dll: 1.0.5.39
+    npWebVideoPlugin.dll: 3.0.6.6
+    PlayCtrl.dll: 7.3.0.0
+    StreamTransClient.dll: 1.1.3.4
+    SystemTransform.dll: 2.5.1.4
+    WebVideoActiveX.ocx: 3.0.6.6
+
+IP: 220.127.233.201
+Port: 80
+Organisation: Korea Telecom
+Location: {'city': 'Gyeonggi-do', 'region_code': '41', 'area_code': None, 'longitude': 126.736, 'latitude': 37.6704, 'country_code': 'KR', 'country_name': 'Korea, Republic of'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.0 200 OK
+Date: Thu Sep  8 20:06:00 2022
+Server: DVRDVS-Webs
+Last-modified: Fri Dec 21 08:25:34 2012
+Content-length: 1577
+Content-type: text/html
+
+
+Hikvision IP Camera:
+  ActiveX Files:
+    NetStream.dll: 1.0.3.7
+    npWebVideoPlugin.dll: 3.0.4.11
+    PlayCtrl.dll: 6.4.1.9
+    StreamTransClient.dll: 1.1.2.3
+    SystemTransform.dll: 2.3.0.4
+    WebVideoActiveX.ocx: 3.0.4.11
+
+IP: 34.120.131.91
+Port: 80
+Organisation: Google LLC
+Location: {'city': 'Kansas City', 'region_code': 'MO', 'area_code': None, 'longitude': -94.57857, 'latitude': 39.09973, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['googleusercontent.com']
+Hostnames: ['91.131.120.34.bc.googleusercontent.com']
+Data
+HTTP/1.1 404 Not Found
+Content-Encoding: identity
+Expires: 0
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+X-XSS-Protection: 1; mode=block
+Pragma: no-cache
+X-Frame-Options: DENY
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'self'; frame-src 'self' data:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://storage.googleapis.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' data:
+Date: Thu, 08 Sep 2022 11:23:49 GMT
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+X-Content-Type-Options: nosniff
+Feature-Policy: geolocation 'none'; midi 'none'; sync-xhr 'none'; microphone 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'; speaker 'none'; fullscreen 'self'; payment 'none'
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-
+Via: 1.1 google
+
+
+IP: 220.134.76.157
+Port: 80
+Organisation: Chunghwa Telecom Co.,Ltd.
+Location: {'city': 'Douliu', 'region_code': '04', 'area_code': None, 'longitude': 120.54333, 'latitude': 23.70944, 'country_code': 'TW', 'country_name': 'Taiwan'}
+Layer: tcp
+Domains: ['hinet.net']
+Hostnames: ['220-134-76-157.hinet-ip.hinet.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 19:23:46 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-1515-1e1"
+Content-Length: 481
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=180, max=99
+Last-Modified: Fri, 08 Jan 2021 08:41:13 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 210105
+  Plugin Version: 3.0.7.500
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    localServiceControl: 1.0.0.11
+    NetStream.dll: 1.0.5.57
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.3.4
+    WebVideoActiveX.ocx: 3.0.7.500
+
+IP: 98.52.164.157
+Port: 80
+Organisation: Comcast Cable Communications, LLC
+Location: {'city': 'Aurora', 'region_code': 'IL', 'area_code': None, 'longitude': -88.2548, 'latitude': 41.7199, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 06:23:45 GMT
+Server: DNVRS-Webs
+ETag: "0-8be-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Fri, 12 May 2017 08:15:07 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.51 build 170519
+  Plugin Version: 3.0.6.20
+  Custom Version: DZ20170504_055
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.0
+    LTSWebVideoActiveX.ocx: 3.0.6.51
+    NetStream.dll: 1.0.5.41
+    npLTSWebVideoPlugin.dll: 3.0.6.51
+    PlayCtrl.dll: 7.3.2.0
+    StreamTransClient.dll: 1.1.3.6
+    SystemTransform.dll: 2.5.1.13
+
+IP: 188.83.204.231
+Port: 80
+Organisation: PT Comunicacoes S.A.
+Location: {'city': 'Vila Real', 'region_code': '17', 'area_code': None, 'longitude': -7.74413, 'latitude': 41.30062, 'country_code': 'PT', 'country_name': 'Portugal'}
+Layer: tcp
+Domains: ['telepac.pt']
+Hostnames: ['bl18-204-231.dsl.telepac.pt']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 12:20:04 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-12a4-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Fri, 02 Jul 2021 09:48:22 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.51 build 210629
+  Plugin Version: 3.0.7.51
+  Device Version: 4.1.50
+  Custom Version: DZP20210527056
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.57
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.17
+    SystemTransform.dll: 2.5.1.8
+    WebVideoActiveX.ocx: 3.0.7.51
+
+IP: 178.212.44.11
+Port: 80
+Organisation: DEBACOM Sp. z o.o.
+Location: {'city': 'Zabrze', 'region_code': '24', 'area_code': None, 'longitude': 18.7608, 'latitude': 50.3622, 'country_code': 'PL', 'country_name': 'Poland'}
+Layer: tcp
+Domains: ['debacom.pl']
+Hostnames: ['host-178.212.44.11-internet.zabrze.debacom.pl']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 13:17:47 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-771-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Sun, 28 Jun 2020 02:26:11 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 200628
+  Plugin Version: 3.0.7.51
+  Device Version: 4.1.50
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.57
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.17
+    SystemTransform.dll: 2.5.1.8
+    WebVideoActiveX.ocx: 3.0.7.51
+
+IP: 104.15.222.159
+Port: 80
+Organisation: AT&T Corp.
+Location: {'city': 'Florence', 'region_code': 'AL', 'area_code': None, 'longitude': -87.7398, 'latitude': 34.8825, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['sbcglobal.net']
+Hostnames: ['104-15-222-159.lightspeed.brhmal.sbcglobal.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 06:23:41 GMT
+Server: DNVRS-Webs
+ETag: "0-c73-1dd"
+Content-Length: 477
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Tue, 31 Jul 2018 09:27:00 GMT
+
+
+Luma IP Camera:
+  Device Model: LUM-310-NVR-8CH
+  Web Version: 4.0.51 build 180719
+  Plugin Version: 3.0.6.2801
+  Custom Version: DZ20180319_117
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.3
+    LumaIPC51xWebVideoActiveX.ocx: 3.0.6.2801
+    NetStream.dll: 1.0.5.55
+    npLumaIPC51xWebVideoPlugin.dll: 3.0.6.2801
+    PlayCtrl.dll: 7.3.3.64
+    StreamTransClient.dll: 1.1.3.7
+    SystemTransform.dll: 2.5.2.5
+
+IP: 59.127.38.103
+Port: 80
+Organisation: Chunghwa Telecom Co.,Ltd.
+Location: {'city': 'Tainan', 'region_code': '04', 'area_code': None, 'longitude': 120.21333, 'latitude': 22.99083, 'country_code': 'TW', 'country_name': 'Taiwan'}
+Layer: tcp
+Domains: ['hinet.net']
+Hostnames: ['59-127-38-103.hinet-ip.hinet.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 19:23:42 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-e7f-1e1"
+Content-Length: 481
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=180, max=99
+Last-Modified: Wed, 06 May 2020 12:18:58 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 200506
+  Plugin Version: 3.0.7.32
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.8
+    localServiceControl: 1.0.0.8
+    NetStream.dll: 1.0.5.57
+    npWebVideoPlugin.dll: 3.0.7.32
+    PlayCtrl.dll: 7.3.8.49
+    StreamTransClient.dll: 1.1.3.17
+    SystemTransform.dll: 2.5.3.13
+    WebVideoActiveX.ocx: 3.0.7.32
+
+IP: 88.116.127.198
+Port: 80
+Organisation: Moosbrugger Fliesen-Naturstein GmbH
+Location: {'city': 'Dornbirn', 'region_code': '8', 'area_code': None, 'longitude': 9.74195, 'latitude': 47.41427, 'country_code': 'AT', 'country_name': 'Austria'}
+Layer: tcp
+Domains: []
+Hostnames: []
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 13:40:05 GMT
+Server: DNVRS-Webs
+ETag: "0-ad9-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Thu, 28 Apr 2016 02:45:25 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 160323
+  Plugin Version: 3.0.6.1
+  ActiveX Files:
+    AudioIntercom.dll: 1.2.0.1
+    NetStream.dll: 1.0.5.37
+    npWebVideoPlugin.dll: 3.0.6.1
+    PlayCtrl.dll: 7.2.2.70
+    StreamTransClient.dll: 1.1.3.4
+    SystemTransform.dll: 2.5.1.4
+    WebVideoActiveX.ocx: 3.0.6.1
+
+IP: 109.195.50.181
+Port: 80
+Organisation: CJSC ER-Telecom Holding Voronezh branch
+Location: {'city': 'Voronezh', 'region_code': 'VOR', 'area_code': None, 'longitude': 39.1843, 'latitude': 51.67204, 'country_code': 'RU', 'country_name': 'Russian Federation'}
+Layer: tcp
+Domains: ['ertelecom.ru']
+Hostnames: ['109x195x50x181.static-business.voronezh.ertelecom.ru']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 13:57:25 GMT
+Server: web
+X-Frame-Options: SAMEORIGIN
+ETag: "0-ac9-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Fri, 22 Jun 2018 07:12:17 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 180623
+  Plugin Version: 3.0.6.40
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    NetStream.dll: 1.0.5.44
+    npWebVideoPlugin.dll: 3.0.6.40
+    PlayCtrl.dll: 7.3.5.0
+    StreamTransClient.dll: 1.1.3.8
+    SystemTransform.dll: 2.5.2.10
+    WebVideoActiveX.ocx: 3.0.6.40
+
+IP: 71.68.221.5
+Port: 80
+Organisation: Charter Communications Inc
+Location: {'city': 'Myrtle Beach', 'region_code': 'SC', 'area_code': None, 'longitude': -78.9787, 'latitude': 33.7377, 'country_code': 'US', 'country_name': 'United States'}
+Layer: tcp
+Domains: ['rr.com']
+Hostnames: ['cpe-71-68-221-5.sc.res.rr.com']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 07:16:52 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1;mode=block
+ETag: "0-d81-1e1"
+Content-Length: 481
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Mon, 08 Feb 2021 03:14:20 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.51 build 210208
+  Plugin Version: 3.0.7.21
+  Custom Version: DZP20200711029
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    localServiceControl: 1.0.0.0
+    LTSWebVideoActiveX.ocx: 3.0.7.1002
+    NetStream.dll: 1.0.5.50
+    npLTSWebVideoPlugin.dll: 3.0.7.1002
+    PlayCtrl.dll: 7.3.6.80
+    StreamTransClient.dll: 1.1.3.15
+    SystemTransform.dll: 2.5.3.7
+
+IP: 31.168.95.44
+Port: 80
+Organisation: Bezeq International-Ltd
+Location: {'city': 'Be’er Ya‘aqov', 'region_code': 'M', 'area_code': None, 'longitude': 34.83749, 'latitude': 31.93864, 'country_code': 'IL', 'country_name': 'Israel'}
+Layer: tcp
+Domains: ['bezeqint.net']
+Hostnames: ['bzq-95-168-31-44.red.bezeqint.net']
+Data
+HTTP/1.1 200 OK
+Date: Thu, 08 Sep 2022 14:23:39 GMT
+Server: Webs
+X-Frame-Options: SAMEORIGIN
+ETag: "0-626-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Sun, 05 May 2019 05:58:22 GMT
+
+
+Hikvision IP Camera:
+  Web Version: 4.0.1 build 190505
+  Plugin Version: 3.0.7.10
+  ActiveX Files:
+    AudioIntercom.dll: 1.4.0.6
+    localServiceControl: 1.0.0.0
+    NetStream.dll: 1.0.5.50
+    npWebVideoPlugin.dll: 3.0.7.10
+    PlayCtrl.dll: 7.3.6.80
+    StreamTransClient.dll: 1.1.3.15
+    SystemTransform.dll: 2.5.3.7
+    WebVideoActiveX.ocx: 3.0.7.10
